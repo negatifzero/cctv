@@ -1,0 +1,90 @@
+[ 
+  {
+    "title":"Gerbang Tol Ramp Tallo Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/Tallo%20Timur"
+    ]
+  },
+ {
+    "title":"GT CAMBAYA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/Cambaya"
+    ]
+  },
+  {
+    "title":"GT KALUKU BODOA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/Kaluku%20Bodoa"
+    ]
+  },
+  {
+    "title":"OffRamp Ablam 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/OFF%20RAMP%20ABLAM%201"
+    ]
+  },
+  {
+    "title":"OffRamp Ablam 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/OFF%20RAMP%20ABLAM%202"
+    ]
+  },
+  {
+    "title":"OffRamp Alauddin 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/ON%20RAMP%20AIAUDDIN%201"
+    ]
+  },
+  {
+    "title":"OffRamp Pettarani",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/OFF%20RAMP%20PETTARANI"
+    ]
+  },
+  {
+    "title":"OffRamp Rappokalling",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/OFFRAMP%20RAPPOKALLING"
+    ]
+  },
+  {
+    "title":"OnRamp Pettarani",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/ON%20RAMP%20PETTARANI"
+    ]
+  },
+  {
+    "title":"Panakukang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/PANAKUKANG"
+    ]
+  },
+  {
+    "title":"Pettarani P8",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/PETTARANI%20P8"
+    ]
+  }
+]
