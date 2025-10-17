@@ -1,0 +1,379 @@
+[
+ 
+ {
+    "title":"Batas Kota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/a791074c-9773-44cc-8d28-a5b878362050.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Kupatan - Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/9ce7991c-2bf2-4f6d-9df9-9318301a24c6_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Kupatan - Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/d0ad8c42-833d-49d9-bb91-31698f90e1a7_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Kupatan - Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/8798390b-8db5-4d39-bc70-0375ef9eb3bd_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Safari - Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/f7c0831a-c79b-4529-a650-1c44812d1bdd_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Safari - Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/3b75eed1-b630-4beb-8a96-45be755a9c34_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Kebonpolo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/c9b56333-faaf-4538-8c72-4d364b7c3b7c_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Kodim - Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/54a26129-f189-4a93-b318-1d5e9f8bf287_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Kodim - Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/e9df9d33-513c-4313-b1be-38c113ee21db_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang CPM - Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/b203748f-b7b1-42c5-9521-677e03d3ed19_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Aloon - Aloon - Gardena",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/a97a5fee-7193-4753-8b69-229c5a1540ed_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Alun Alun - Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/02dd66d8-b4cb-4f56-915c-81d77331f715_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Cacaban - Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/c041ba4e-f7c0-42c5-aee6-018485f46468_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Cacaban - Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/0bd99884-86bd-4c25-9457-5bd9eddd1847_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Cacaban - Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/4c930cec-bc25-4289-975f-128f2695393c_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Cacaban - Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/c737c009-c2e7-4a96-8345-56e7fe64ddaf_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Bayeman - Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/642fbd7e-0583-4d1a-bf3c-3263bc8a8b45_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Bayeman - Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/716056ba-cf2a-4864-8a3e-7e0a8a6a976c_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Bayeman - Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/c00c5095-f1cb-4766-a2af-8f8e5a99ce9a_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Artos",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.cctv.magelangkota.go.id/memfs/b79ada7c-986a-4dcb-9d86-9e9448d45d3e_output_0.m3u8"
+    ]
+  },
+ {
+    "title":"Aloon Aloon Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/32bc6c66-26e8-47f3-81df-78e0e388e274.m3u8"
+    ]
+  },
+{
+    "title":"Sumber Waras Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/fb93a5fb-cdc8-4f51-96bd-5ad0206d0afa.m3u8"
+    ]
+  },
+{
+    "title":"SMA Kristen 1 - Pertigaan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/2305d4f8-d4e7-4a4e-8021-dbc1755a8e6f.m3u8"
+    ]
+  },
+{
+    "title":"Tower Air - Pertigaan Telkom",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/5e279191-cdc1-4997-91d1-827b72c2a851.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Rejo 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/a22c6c69-112b-400a-9802-3799b266f517.m3u8"
+    ]
+  },
+{
+    "title":"Artos - Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/2b17c259-f444-4f39-89cd-791bee037866.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Bayeman 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/0511f95c-56eb-4522-ab28-89dbb7a85224.m3u8"
+    ]
+  },
+{
+    "title":"Lap. Karanggading Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/ce323d05-ae80-4086-8df0-2648c6d6a788.m3u8"
+    ]
+  },
+{
+    "title":"Taman Ayani Tengah",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/3d542e6b-34a9-4e32-b4e0-8016c0d813dc.m3u8"
+    ]
+  },
+{
+    "title":"Aloon-Aloon",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/02d3f467-7605-414b-b485-515352d44b4b.m3u8"
+    ]
+  },
+{
+    "title":"Plengkung -timur(SMK)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/18f0c674-8c2c-4a44-9a1a-c97125661f08.m3u8"
+    ]
+  },
+{
+    "title":"Sumber Waras",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/4c168a6e-3882-40ad-ab0e-d9b45cfeb67b.m3u8"
+    ]
+  },
+{
+    "title":"Tower Air - air mancur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/d4c1e7dc-7366-4524-8c8a-df0edf465070.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 Jl. Ikhlas - Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/334cc7b9-c15c-4753-bbaa-59fa3bb5f8bd.m3u8"
+    ]
+  },
+{
+    "title":"Taman Badaan Utara - taman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/cdf5e8a1-841e-40e3-bce5-beda8fe78fe3.m3u8"
+    ]
+  },
+{
+    "title":"Taman Skateboard Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/fecfab42-1a8c-4557-b79f-ba3485577dfc.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 Jl. Ikhlas - Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/929470be-1576-4ec3-a356-b36c5227785c.m3u8"
+    ]
+  },
+{
+    "title":"Alun ALun MAGELANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/03e3af15-9afa-44a2-aa13-8f1148055c3c.m3u8"
+    ]
+  },
+{
+    "title":"Pertigaan Sidotopo - utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/19a1bc0b-3ccd-4efc-92a9-da04de528486.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Bayeman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/77eb0201-1ac3-40a1-85ee-1303f82d84be.m3u8"
+    ]
+  },
+{
+    "title":"Perempatan Terminal C",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/94243425-95e6-4754-8529-25474c81b890.m3u8"
+    ]
+  },
+{
+    "title":"Pertigaan Sidotopo - Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/97c8ec52-7bb4-4056-bd0d-997e9c37b8a4.m3u8"
+    ]
+  },
+{
+    "title":"Lap. Karanggading",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/be9e95ad-867b-4efa-a836-c26b8982a592.m3u8"
+    ]
+  },
+{
+    "title":"Taman Ayani Belakang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/99940258-a3a4-45d0-8e05-31d6da0d4474.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 Jl. Ikhlas - Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/bf8cf488-3214-4939-9c14-4cfaa6d1db91.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Rejo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/2d916923-2231-4d48-a670-757bb182764d.m3u8"
+    ]
+  },
+{
+    "title":"Taman A Yani PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.magelangkota.go.id/memfs/ceb2d497-d753-4b86-a75c-f28f7fd944bf.m3u8"
+    ]
+  }
+]
