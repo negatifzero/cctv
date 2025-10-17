@@ -1,0 +1,452 @@
+[
+  {
+    "title":"Simpang Pasar Banto",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d1/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang BNI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d2/s.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Bypass",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d3/s.m3u8"
+    ]
+  },
+ {
+    "title":"Batas Kota Birugo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d4/s.m3u8"
+    ]
+  },
+ {
+    "title":"Batas Kota Birugo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d45/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Aur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d5/s.m3u8"
+    ]
+  },
+ {
+    "title":"Lapangan Kantin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d6/s.m3u8"
+    ]
+  },
+ {
+    "title":"Lapangan Kantin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d7/s.m3u8"
+    ]
+  },
+ {
+    "title":"Lapangan Kantin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d8/s.m3u8"
+    ]
+  },
+ {
+    "title":"Lapangan Kantin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d43/s.m3u8"
+    ]
+  },
+ {
+    "title":"Lapangan Kantin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d44/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Surau Gadang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d9/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Surau Gadang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d25/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Kangkuang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d10/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Kangkuang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam2d16/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Depan DPRD",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d11/s.m3u8"
+    ]
+  },
+ {
+    "title":"Panorama",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d12/s.m3u8"
+    ]
+  },
+ {
+    "title":"Panorama",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d41/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Gaduik",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d13/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Tembok",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d14/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Tembok",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d15/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Tembok",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d16/s.m3u8"
+    ]
+  },
+ {
+    "title":"Jam Gadang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d17/s.m3u8"
+    ]
+  },
+ {
+    "title":"Jam Gadang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d18/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Garegeh",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d19/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Garegeh",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d20/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Manggis",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d21/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Manggis",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d22/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Manggis",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d23/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Manggis",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d24/s.m3u8"
+    ]
+  },
+ {
+    "title":"Tugu Polwan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d26/s.m3u8"
+    ]
+  },
+ {
+    "title":"Tugu Polwan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d35/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Yarsi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d27/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Yarsi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d36/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Mandiangin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d28/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Mandiangin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d29/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Mandiangin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d30/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Mandiangin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d31/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Tarok",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d32/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Tarok",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d33/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Tarok",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d34/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Jirek",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d37/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Jirek",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d38/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Jirek",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d39/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Jirek",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d40/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Parak Kopi Bawah",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam2d1/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Parak Kopi Bawah",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam2d3/s.m3u8"
+    ]
+  },
+ {
+    "title":"Bantola",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam2d13/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Parak Kopi Dalam",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam2d14/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Parak Kopi Atas",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam2d2/s.m3u8"
+    ]
+  },
+ {
+    "title":"Banto Laweh",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam2d5/s.m3u8"
+    ]
+  },
+
+
+ {
+    "title":"Banto Laweh",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls3/wlRJXDnLF0nDarpukpIkiPcPiJquQU/hls/5uGBKQdmwh/cam2d12/s.m3u8"
+    ]
+  },
+ {
+    "title":"Banto Laweh",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls3/wlRJXDnLF0nDarpukpIkiPcPiJquQU/hls/5uGBKQdmwh/cam2d6/s.m3u8"
+    ]
+  },
+ {
+    "title":"Banto Laweh",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls3/wlRJXDnLF0nDarpukpIkiPcPiJquQU/hls/5uGBKQdmwh/cam2d8/s.m3u8"
+    ]
+  },
+ {
+    "title":"Banto Laweh",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls3/wlRJXDnLF0nDarpukpIkiPcPiJquQU/hls/5uGBKQdmwh/cam2d9/s.m3u8"
+    ]
+  },
+ {
+    "title":"Banto Laweh",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://hls.bukittinggikota.go.id/hls3/wlRJXDnLF0nDarpukpIkiPcPiJquQU/hls/5uGBKQdmwh/cam2d7/s.m3u8"
+    ]
+  }
+]
