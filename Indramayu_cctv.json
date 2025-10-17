@@ -1,0 +1,146 @@
+[
+{
+    "title":"SIMPANG LIMA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/58e16553-921b-4b5c-9562-b4af0df5f367_output_0.m3u8?session=9f3He7dzhARJK78oU3CQRA"
+    ]
+  },
+{
+    "title":"BUNDARAN KIJANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/0f75945e-8d5b-41c1-9f92-7771a2e430ce_output_0.m3u8?session=9iUqbQxhnWrVa3UEVCtH7A"
+    ]
+  },
+{
+    "title":"PERTIGAAN PRAHU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/67f10826-058a-4381-9965-3436c8937226_output_0.m3u8?session=9a9ZavgNeG73yhUper3eGu"
+    ]
+  },
+{
+    "title":"SUDIRMAN -ARAH TERMINAL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/1791a3e3-6b6d-4f81-b614-80f400d0bbe7_output_0.m3u8?session=CVvQVLYUwrmo3f7J7dywii"
+    ]
+  },
+{
+    "title":"PEREMPATAN JOGYA - DPRD",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/c02a92ce-0167-412f-9335-1d2eee9be4f3_output_0.m3u8?session=EcHYHTjYKdjWnJccKAy9pW"
+    ]
+  },
+{
+    "title":"PEREMPATAN JOGYA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/31a49008-34fd-4ca8-981b-e1a6a1585258_output_0.m3u8?session=eE5bGnw2oSKswyLRB5W3JE"
+    ]
+  },
+{
+    "title":"PEREMPATAN WAIKI - AHMAD YANI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/c3a6ae02-f2b9-4a3c-9341-98347f54c5de_output_0.m3u8?session=AaR9tpM4TJEXTn5ujBewyd"
+    ]
+  },
+{
+    "title":"PEREMPATAN WAIKI - Letjend. SUPRAPTO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/f2b0a121-965d-4e1d-9051-74ccdb266db1_output_0.m3u8?session=PAcA4wUNewPvSqkH8F9yPU"
+    ]
+  },
+{
+    "title":"ADIPURA - SUDIRMAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/733e3c05-10da-4bc5-b547-bd66ef035066_output_0.m3u8?session=MhrsCCZXvrPFLo8oCX3DXD"
+    ]
+  },
+{
+    "title":"ADIPURA - YOS SUDARSO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/c3a00431-e6b5-4c22-91fb-536b26b76d04_output_0.m3u8?session=PyZvArhJwsnximUjCqFdyc"
+    ]
+  },
+{
+    "title":"LANDRAAD",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/d91fbcdc-a31c-4262-99fc-e4c7b23eb942_output_0.m3u8?session=N9QDRVDWVnxMPTnB6tWKxN"
+    ]
+  },
+{
+    "title":"TAMAN CIMANUK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/b73e6422-5075-4108-af99-1305f0d2c82c_output_0.m3u8?session=SRvVR254nx5aeWXLjL9y76"
+    ]
+  },
+{
+    "title":"YOS SUDARSO ARAH KARANGTURI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/06531c92-fa95-40f7-b890-3f9e88d9715d_output_0.m3u8?session=Rc25JVscbDtWM4VgfChtF5"
+    ]
+  },
+{
+    "title":"Videotron Arah 0 KM Indramayu",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/e374190e-036b-4000-8892-00bd30fae48e_output_0.m3u8?session=Vc5W5DBNcjPvN7BRvxVNHb"
+    ]
+  },
+{
+    "title":"PELAYANAN KECAMATAN LELEA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/a1d2597e-5401-4ab2-b265-ff36e3655912_output_0.m3u8?session=Zj7UnY8D8e5acQYx2fjHJE"
+    ]
+  },
+{
+    "title":"PELAYANAN KECAMATAN KEDOKANBUNDER",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/133a807c-d7f4-403e-9e69-e20727c436a7_output_0.m3u8?session=nW9eGvpcXMeQ3tqmfq6HAC"
+    ]
+  },
+{
+    "title":"PELAYANAN KECAMATAN KARANGAMPEL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/d032f8b3-e8e3-4fd5-96ba-d65aff6e0567_output_0.m3u8?session=WGkxUP7qFWbnDFPNfN9DYi"
+    ]
+  },
+{
+    "title":"PELAYANAN KECAMATAN INDRAMAYU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://streamer.indramayukab.go.id/memfs/259857b6-6c73-4881-940a-ee314af1bd70_output_0.m3u8?session=CLZuNDrQKnNZtUcg99k6b8"
+    ]
+  }
+]
