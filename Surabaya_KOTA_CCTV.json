@@ -1,0 +1,626 @@
+[
+ {
+    "title":"Adityawarman Indragiri Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch19/sub/av_stream"
+    ]
+  },
+ {
+    "title":"Arief R Hakim Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.99:554/Streaming/Channels/1702"
+    ]
+  },
+ {
+    "title":"A Yani BRI Dome",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/5002"
+    ]
+  },
+{
+    "title":"A Yani Bundaran Waru",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/102"
+    ]
+  },
+{
+    "title":"A Yani - Jemursari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/402"
+    ]
+  },
+{
+    "title":"A Yani Margorejo Timur Fix",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/1302"
+    ]
+  },
+{
+    "title":"A Yani - Mayangkara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/1802"
+    ]
+  },
+{
+    "title":"A Yani Papilio Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/4902"
+    ]
+  },
+{
+    "title":"A Yani - Taman Pelangi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/302"
+    ]
+  },
+{
+    "title":"Bambu Runcing Panuvo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/12802"
+    ]
+  },
+{
+    "title":"Banyu Urip Putat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch5/sub/av_stream"
+    ]
+  },
+{
+    "title":"Banyu Urip Tol Barat PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch8/sub/av_stream"
+    ]
+  },
+{
+    "title":"Basuki Rahmat Tegalsari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/12502"
+    ]
+  },
+{
+    "title":"Blauran Praban",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/4202"
+    ]
+  },
+{
+    "title":"Bundaran Raya ITS PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.99:554/Streaming/Channels/7402"
+    ]
+  },
+{
+    "title":"Bundaran Waru Arah Tol PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/202"
+    ]
+  },
+{
+    "title":"Ciliwung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch42/sub/av_stream"
+    ]
+  },
+{
+    "title":"Danau UNESA PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch66/sub/av_stream"
+    ]
+  },
+{
+    "title":"Darmokali Bengawan Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/5902"
+    ]
+  },
+{
+    "title":"Darmo - Mercure",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/7602"
+    ]
+  },
+{
+    "title":"Dinoyo Bat Dome",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/3202"
+    ]
+  },
+{
+    "title":"Dipenogoro Ciliwung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch41/sub/av_stream"
+    ]
+  },
+{
+    "title":"Dipenogoro Musi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch15/sub/av_stream"
+    ]
+  },
+{
+    "title":"Dipenogoro Musi Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch16/sub/av_stream"
+    ]
+  },
+{
+    "title":"Dipenogoro Soetomo Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch12/sub/av_stream"
+    ]
+  },
+{
+    "title":"DTC Wonokromo PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/2302"
+    ]
+  },
+{
+    "title":"Embong Malang Blauran",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/3702"
+    ]
+  },
+{
+    "title":"Embong Wungu Utara PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/10602"
+    ]
+  },
+{
+    "title":"Flyover Mayangkara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/2002"
+    ]
+  },
+{
+    "title":"Grand City Fix",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.99:554/Streaming/Channels/7602"
+    ]
+  },
+{
+    "title":"Gubeng Masjid Barat Fix",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/7902"
+    ]
+  },
+{
+    "title":"Gunung Anyar Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.99:554/Streaming/Channels/2602"
+    ]
+  },
+{
+    "title":"HR Muhammad PTC",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch30/sub/av_stream"
+    ]
+  },
+{
+    "title":"Jagir Wonokromo Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/2502"
+    ]
+  },
+{
+    "title":"Jembatan Joyoboyo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch128/sub/av_stream"
+    ]
+  },
+{
+    "title":"Jemur Handayani",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/9402"
+    ]
+  },
+{
+    "title":"Jemur Kutisari Barat Fix",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/4502"
+    ]
+  },
+{
+    "title":"JL Stasiun Gubeng FR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/11902"
+    ]
+  },
+{
+    "title":"Joyoboyo PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/4002"
+    ]
+  },
+{
+    "title":"Karimun Jawa - Raya Gubeng",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/1002"
+    ]
+  },
+{
+    "title":"Keputran Pandegiling",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/3302"
+    ]
+  },
+{
+    "title":"Kertajaya Dharmawangsa Timur PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.99:554/Streaming/Channels/4002"
+    ]
+  },
+{
+    "title":"Kertajaya Manyar SAMSAT SLTN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.99:554/Streaming/Channels/3702"
+    ]
+  },
+{
+    "title":"KODAM Hayam Wuruk",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch85/sub/av_stream"
+    ]
+  },
+{
+    "title":"Kupang Jaya Kupang Indah Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch53/sub/av_stream"
+    ]
+  },
+{
+    "title":"Margorejo Frontage Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/1202"
+    ]
+  },
+{
+    "title":"Mastrip Wiyung PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/3302"
+    ]
+  },
+{
+    "title":"Mayjend Sungkono TVRI barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch26/sub/av_stream"
+    ]
+  },
+{
+    "title":"Mayjend Sungkono TVRI PANO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch24/sub/av_stream"
+    ]
+  },
+{
+    "title":"Mayjend Sungkono TVRI Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch27/sub/av_stream"
+    ]
+  },
+{
+    "title":"Merr Arief Rahman Hakim Selatan PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.99:554/Streaming/Channels/1502"
+    ]
+  },
+{
+    "title":"Merr Kedung Baruk Dome",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.99:554/Streaming/Channels/2002"
+    ]
+  },
+{
+    "title":"Merr Semolowaru Selatan PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.99:554/Streaming/Channels/1802"
+    ]
+  },
+{
+    "title":"Merr STIKOM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.99:554/Streaming/Channels/2102"
+    ]
+  },
+{
+    "title":"Ngagel Bilka Barat Fix",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/9602"
+    ]
+  },
+{
+    "title":"Ngagel Jaya Ngagel Madya Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/5402"
+    ]
+  },
+{
+    "title":"Ngagel Jaya Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.99:554/Streaming/Channels/7802"
+    ]
+  },
+{
+    "title":"Ngagel Upa Jiwa Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/5602"
+    ]
+  },
+{
+    "title":"Nginden Bratang Selatan Fix",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.99:554/Streaming/Channels/8402"
+    ]
+  },
+{
+    "title":"PANGSUD Karapan Sapi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/3402"
+    ]
+  },
+{
+    "title":"Pasar Kembang Arjuno",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch2/sub/av_stream"
+    ]
+  },
+{
+    "title":"Pasar Turi PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.114:554/Streaming/Channels/2302"
+    ]
+  },
+{
+    "title":"PCTL Intiland Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/12402"
+    ]
+  },
+{
+    "title":"PCTL Pandugo Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.99:554/Streaming/Channels/2302"
+    ]
+  },
+{
+    "title":"PCTL RS DARMO UTARA Fix",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/8002"
+    ]
+  },
+{
+    "title":"PCTL Tunjungan Utara Fix",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/7302"
+    ]
+  },
+{
+    "title":"Raya Prapen Margorejo Indah",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.112:554/Streaming/Channels/7002"
+    ]
+  },
+{
+    "title":"SAMBIKEREP LONTAR Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch62/sub/av_stream"
+    ]
+  },
+{
+    "title":"Semolo Sukosemolo PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.99:554/Streaming/Channels/5602"
+    ]
+  },
+{
+    "title":"Sogo Embong Malang PANO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/7702"
+    ]
+  },
+{
+    "title":"Sukomanunggal Kupang Jaya Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch48/sub/av_stream"
+    ]
+  },
+{
+    "title":"Sulawesi Bagong",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/902"
+    ]
+  },
+{
+    "title":"Sulawesi Biliton",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/6602"
+    ]
+  },
+{
+    "title":"Tandes Imigrasi Barat Fix",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch86/sub/av_stream"
+    ]
+  },
+{
+    "title":"Tanjungsari UTR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch37/sub/av_stream"
+    ]
+  },
+{
+    "title":"Terminal Manukan Fix",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch7/sub/av_stream"
+    ]
+  },
+{
+    "title":"UNDERPASS TMP Satelite Timur Fix",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.98:554/mpeg4/ch29/sub/av_stream"
+    ]
+  },
+{
+    "title":"Urip Sumoharjo Pandegiling PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "rtsp://edishub:g412uda5u12y426@36.66.208.113:554/Streaming/Channels/3102"
+    ]
+  }
+]
