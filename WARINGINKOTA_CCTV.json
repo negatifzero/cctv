@@ -1,0 +1,122 @@
+[
+ {
+    "title":"Bundaran Pramuka",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv14/a14.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang 3 City Mall",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv13/a13.m3u8"
+    ]
+  },
+ {
+    "title":"Bundaran Pancasila",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv9/a9.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang 3 Bank Kalteng",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv4/a4.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang 3 RSSI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv6/a6.m3u8"
+    ]
+  },
+ {
+    "title":"Depan RSSI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv7/a7.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang PDAM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv10/a10.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang 3 Gereja Imanuel",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv3/a3.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang 4 Perkim",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv8/a8.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang 3 SMPN 1 Arsel",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv2/a2.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang 3 Terminal Lama",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv15/a15.m3u8"
+    ]
+  },
+ {
+    "title":"Bundaran Misbar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv1/a1.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang 4 Pasar Baru",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv11/a11.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang 4 A Yani",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv12/a12.m3u8"
+    ]
+  },
+ {
+    "title":"Bundaran Tudung Saji",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv16/a16.m3u8"
+    ]
+  }
+]
