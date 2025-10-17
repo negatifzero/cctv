@@ -1,0 +1,259 @@
+[
+ 
+  {
+    "title":"RW : 9 | RT : 8 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/302/201/2024/cebe57e6-3830-4acd-a362-ab6698eea36d_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 8 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/305/201/2024/99ed5174-1a95-4e62-b4a7-81720c593e11_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 2 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/313/201/2024/9a3bf241-4bd3-40f3-ace4-d7de7671f630_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 2 (2) (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/313/301/2024/9a3bf241-4bd3-40f3-ace4-d7de7671f630_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 7 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/317/201/2024/6e4215b0-3368-4016-972c-b867d6131748_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 1 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/320/201/2024/2107d677-bfef-411d-b187-fec7d76b5719_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 4 | RT : 3 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/342/201/2024/af630560-d07c-4848-8f6f-1c6edad654db_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 4 | RT : 7 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/346/201/2024/454aef36-b53d-4bba-bfe4-6857335d7ac2_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 4 | RT : 7 (2) (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/346/101/2024/454aef36-b53d-4bba-bfe4-6857335d7ac2_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 4 | RT : 7 (3) (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/346/401/2024/454aef36-b53d-4bba-bfe4-6857335d7ac2_401.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 5 | RT : 1 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/352/201/2024/d5278609-87ee-4b06-b288-48cbe2fc73d8_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 5 | RT : 1 (2) (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/352/101/2024/d5278609-87ee-4b06-b288-48cbe2fc73d8_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 4 | RT : 5 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/358/201/2024/f651a5e9-6b0f-40f8-869a-d6c15f55dea1_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 8 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/302/101/2024/cebe57e6-3830-4acd-a362-ab6698eea36d_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 8 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/305/101/2024/99ed5174-1a95-4e62-b4a7-81720c593e11_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 7 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/317/101/2024/6e4215b0-3368-4016-972c-b867d6131748_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 2 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/313/101/2024/9a3bf241-4bd3-40f3-ace4-d7de7671f630_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 1 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/320/101/2024/2107d677-bfef-411d-b187-fec7d76b5719_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 4 | RT : 3 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/342/101/2024/af630560-d07c-4848-8f6f-1c6edad654db_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 4 | RT : 7 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/346/101/2024/454aef36-b53d-4bba-bfe4-6857335d7ac2_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 5 | RT : 1 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/352/101/2024/d5278609-87ee-4b06-b288-48cbe2fc73d8_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 4 | RT : 5 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/358/101/2024/f651a5e9-6b0f-40f8-869a-d6c15f55dea1_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 9 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/332/101/2024/393ca562-78cf-412c-ad00-9b8fb2dc2589_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 5 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/345/101/2024/ff1b0988-34ce-40ab-90fb-9fd38dcad752_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 3 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/333/101/2024/d4c9d95b-74e5-482a-b597-b940ebb3ce5b_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 3 (2) (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/333/201/2024/d4c9d95b-74e5-482a-b597-b940ebb3ce5b_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 3 (3) (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/333/301/2024/d4c9d95b-74e5-482a-b597-b940ebb3ce5b_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 4 | RT : 8 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/308/201/2024/4a64f33b-b1d3-4bb5-a899-7cba533dcf9f_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 4 | RT : 7 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/346/401/2024/454aef36-b53d-4bba-bfe4-6857335d7ac2_401.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 2 | RT : 3 (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/356/101/2024/8dfd71a3-91d5-4a84-ab80-64fcd107f80c_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 2 | RT : 3 (2) (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/356/201/2024/8dfd71a3-91d5-4a84-ab80-64fcd107f80c_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 2 | RT : 3 (3) (Gajahmungkur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/356/301/2024/8dfd71a3-91d5-4a84-ab80-64fcd107f80c_301.m3u8"
+    ]
+  }
+]
