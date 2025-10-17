@@ -1,0 +1,74 @@
+[
+ {
+    "title":"Simpang Udayana",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/smart-video-player/#https://shinobi.bulelengkab.go.id/Amk60KFacq87lQMvTCMHu17u00ONuC/mp4/admin/jRuL9udZUp80/s.mp4"
+    ]
+  },
+{
+    "title":"Simpang Diponogoro",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/smart-video-player/#https://shinobi.bulelengkab.go.id/Amk60KFacq87lQMvTCMHu17u00ONuC/mp4/admin/VmqTvLw4ki80/s.mp4"
+    ]
+  },
+{
+    "title":"Barat Tugu Singa",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/smart-video-player/#https://shinobi.bulelengkab.go.id/Amk60KFacq87lQMvTCMHu17u00ONuC/mp4/admin/0RRzM22qNF80/s.mp4"
+    ]
+  },
+{
+    "title":"PTZ Laksmigraha",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/smart-video-player/#https://shinobi.bulelengkab.go.id/Amk60KFacq87lQMvTCMHu17u00ONuC/mp4/admin/d4LXaKRi2380/s.mp4"
+    ]
+  },
+{
+    "title":"Pasar Anyar 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/smart-video-player/#https://shinobi.bulelengkab.go.id/Amk60KFacq87lQMvTCMHu17u00ONuC/mp4/admin/44Z85N153j80/s.mp4"
+    ]
+  },
+{
+    "title":"Pasar Anyar 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/smart-video-player/#https://shinobi.bulelengkab.go.id/Amk60KFacq87lQMvTCMHu17u00ONuC/mp4/admin/1eB6RDETQG80/s.mp4"
+    ]
+  },
+{
+    "title":"Yowana Asri",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/smart-video-player/#https://shinobi.bulelengkab.go.id/Amk60KFacq87lQMvTCMHu17u00ONuC/mp4/admin/isOvCBwVIA80/s.mp4"
+    ]
+  },
+{
+    "title":"Yudistira",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/smart-video-player/#https://shinobi.bulelengkab.go.id/Amk60KFacq87lQMvTCMHu17u00ONuC/mp4/admin/XB9YtCug4880/s.mp4"
+    ]
+  },
+{
+    "title":"Catus Pata",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/smart-video-player/#https://shinobi.bulelengkab.go.id/Amk60KFacq87lQMvTCMHu17u00ONuC/mp4/admin/3JFbU8gu4j80/s.mp4"
+    ]
+  }
+]
