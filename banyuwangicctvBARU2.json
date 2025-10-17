@@ -1,0 +1,874 @@
+[
+  {
+    "title":"JL. INDRA GIRI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV179"
+    ]
+  },
+  {
+    "title":"ASDP ARAH PINTU MASUK",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV177"
+    ]
+  },
+  {
+    "title":"DEPAN KEC WONGSOREJO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV176"
+    ]
+  },
+  {
+    "title":"GANTASAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV175"
+    ]
+  },
+  {
+    "title":"PALTUDING TIKET",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV174"
+    ]
+  },
+  {
+    "title":"DEPAN TERMINAL SRITANJUNG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV172"
+    ]
+  },
+  {
+    "title":"SIMP. 4 RAJAWALI 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV163"
+    ]
+  },
+  {
+    "title":"SIMP. 4 RAJAWALI 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV162"
+    ]
+  },
+  {
+    "title":"TPS SUMBER REJO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV161"
+    ]
+  },
+  {
+    "title":"Ruas Jalan PB. Sudirman  Sritanjung",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV160"
+    ]
+  },
+  {
+    "title":"Ruas Jalan PB. Sudirman Simp. lima",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV159"
+    ]
+  },
+  {
+    "title":"RUAS JALAN PB. SUDIRMAN MUSI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV158"
+    ]
+  },
+  {
+    "title":"RUAS JALAN PB. SUDIRMAN CILIWUNG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV157"
+    ]
+  },
+  {
+    "title":"RUAS JALAN A. YANI  TMP SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV152"
+    ]
+  },
+  {
+    "title":"RUAS JALAN A. YANI DEPAN PEMDA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV151"
+    ]
+  },
+  {
+    "title":"RUAS JALAN A. YANI TMP UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV150"
+    ]
+  },
+  {
+    "title":"RUAS JALAN A. YANI PERPUS HUKUM 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV149"
+    ]
+  },
+  {
+    "title":"RUAS JALAN A. YANI PERPUS HUKUM 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV148"
+    ]
+  },
+  {
+    "title":"RUAS JALAN A. YANI RATU OSENG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV147"
+    ]
+  },
+  {
+    "title":"RUAS JALAN A. YANI MCD",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV146"
+    ]
+  },
+  {
+    "title":"RUAS JALAN PB. SUDIRMAN SERAYU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV145"
+    ]
+  },
+  {
+    "title":"RUAS JALAN PB. SUDIRMAN RUAS JALAN PB. SUDIRMAN SERAYU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV144"
+    ]
+  },
+  {
+    "title":"RUAS JALAN PB. SUDIRMAN CITARUM",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV143"
+    ]
+  },
+  {
+    "title":"RUAS JALAN PB. SUDIRMAN JEMBATAN KALILO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV142"
+    ]
+  },
+  {
+    "title":"SIMPANG PESANGGARAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV141"
+    ]
+  },
+  {
+    "title":"PERTIGAAN KECAMATAN PESANGGARAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV140"
+    ]
+  },
+  {
+    "title":"DEPAN RTH KEDAYUNAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV139"
+    ]
+  },
+  {
+    "title":"DOUBLE W RTH KEDAYUNAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV138"
+    ]
+  },
+  {
+    "title":"GWD PATUNG GANDRUNG SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV135"
+    ]
+  },
+  {
+    "title":"GWD PATUNG GANDRUNG UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV134"
+    ]
+  },
+  {
+    "title":"PASAR BLAMBANGAN GEDUNG WANITA 6",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV133"
+    ]
+  },
+  {
+    "title":"PASAR BLAMBANGAN GEDUNG WANITA 5",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV132"
+    ]
+  },
+  {
+    "title":"PASAR BLAMBANGAN GEDUNG WANITA 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV131"
+    ]
+  },
+  {
+    "title":"PASAR BLAMBANGAN GEDUNG WANITA 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV130"
+    ]
+  },
+  {
+    "title":"PASAR BLAMBANGAN GEDUNG WANITA 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV129"
+    ]
+  },
+  {
+    "title":"PASAR KALIBARU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV128"
+    ]
+  },
+  {
+    "title":"DEPAN PASAR KALIBARU ARAH BWI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV127"
+    ]
+  },
+  {
+    "title":"DEPAN PASAR KALIBARU ARAH JEMBER",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV126"
+    ]
+  },
+  {
+    "title":"TAMAN SRITANJUNG SIMPANG 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV123"
+    ]
+  },
+  {
+    "title":"TAMAN SRITANJUNG PARKIR DALAM",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV122"
+    ]
+  },
+  {
+    "title":"sukowidi utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV121"
+    ]
+  },
+  {
+    "title":"sukowidi selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV120"
+    ]
+  },
+  {
+    "title":"sukowidi barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV119"
+    ]
+  },
+  {
+    "title":"simpang lima utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV118"
+    ]
+  },
+  {
+    "title":"simpanglima selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV117"
+    ]
+  },
+  {
+    "title":"simpanglima timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV116"
+    ]
+  },
+  {
+    "title":"pegadaian utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV115"
+    ]
+  },
+  {
+    "title":"pegadaian selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV114"
+    ]
+  },
+  {
+    "title":"pegadaian barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV113"
+    ]
+  },
+  {
+    "title":"lincing tugu",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV112"
+    ]
+  },
+  {
+    "title":"lincing utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV111"
+    ]
+  },
+  {
+    "title":"lincing selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV110"
+    ]
+  },
+  {
+    "title":"DPR timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV109"
+    ]
+  },
+  {
+    "title":"cungking selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV108"
+    ]
+  },
+  {
+    "title":"vionata",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV107"
+    ]
+  },
+  {
+    "title":"tawangalun selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV106"
+    ]
+  },
+  {
+    "title":"ASDP PINTU KELUAR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV102"
+    ]
+  },
+  {
+    "title":"TPS CUNGKING",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV101"
+    ]
+  },
+  {
+    "title":"JEMBATAN SUNGAI BAGONG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV100"
+    ]
+  },
+  {
+    "title":"RUAS JL. S. PARMAN GARDANIA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV99"
+    ]
+  },
+  {
+    "title":"SIMPANG PATUNG KUDA ARAH SELATAN 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV98"
+    ]
+  },
+  {
+    "title":"SIMPANG PATUNG KUDA ARAH UTARA 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV97"
+    ]
+  },
+  {
+    "title":"SIMPANG PATUNG KUDA ARAH UTARA 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV96"
+    ]
+  },
+  {
+    "title":"SIMPANG PATUNG KUDA ARAH 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV95"
+    ]
+  },
+  {
+    "title":"RUAS JALAN S. PARMAN INDO SOBO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV94"
+    ]
+  },
+  {
+    "title":"RUAS JL. A.YANI (BOROBUDUR) JL UTARA PEMDA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV93"
+    ]
+  },
+  {
+    "title":"TAMAN BLAMBANGAN MANDIRI 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV88"
+    ]
+  },
+  {
+    "title":"TAMAN BLAMBANGAN MANDIRI 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV87"
+    ]
+  },
+  {
+    "title":"CONTINENTAL 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV86"
+    ]
+  },
+  {
+    "title":"PALDAM HOTEL SELAMET 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV85"
+    ]
+  },
+  {
+    "title":"PALDAM HOTEL SELAMET 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV84"
+    ]
+  },
+  {
+    "title":"JL MT.HARYONO 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV83"
+    ]
+  },
+  {
+    "title":"JL MT.HARYONO 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV82"
+    ]
+  },
+  {
+    "title":"SIMPANG BNI 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV80"
+    ]
+  },
+  {
+    "title":"SIMPANG BNI 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV79"
+    ]
+  },
+  {
+    "title":"SIMPANG DPRD 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV75"
+    ]
+  },
+  {
+    "title":"SUNGAI KALISOBO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV73"
+    ]
+  },
+  {
+    "title":"SUNGAI KALILO 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV72"
+    ]
+  },
+  {
+    "title":"SUNGAI KALILO 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV71"
+    ]
+  },
+  {
+    "title":"RUAS JALAN A. YANI KEL_SOBO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV70"
+    ]
+  },
+  {
+    "title":"Pelayanan Karangrejo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV69"
+    ]
+  },
+  {
+    "title":"PELAYANAN KERTOSARI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV68"
+    ]
+  },
+  {
+    "title":"KELURAHAN SINGOTRUNAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV67"
+    ]
+  },
+  {
+    "title":"PELAYANAN TEMENGGUNGAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV66"
+    ]
+  },
+  {
+    "title":"Kel. Lateng",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV65"
+    ]
+  },
+  {
+    "title":"PELAYANAN PENGATIGAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV64"
+    ]
+  },
+  {
+    "title":"KALIPURO BRAK 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV63"
+    ]
+  },
+  {
+    "title":"KALIPURO BRAK 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV62"
+    ]
+  },
+  {
+    "title":"KALIPURO BRAK 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV61"
+    ]
+  },
+  {
+    "title":"DOUBLE W KLATAK 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV60"
+    ]
+  },
+  {
+    "title":"DOUBLE W KLATAK 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV59"
+    ]
+  },
+  {
+    "title":"SIMPANG MUNCAR 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV58"
+    ]
+  },
+  {
+    "title":"SIMPANG MUNCAR 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV57"
+    ]
+  },
+  {
+    "title":"WISMA ATLIT 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV56"
+    ]
+  },
+  {
+    "title":"WISMA ATLIT 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV55"
+    ]
+  },
+  {
+    "title":"MOJOPANGGUNG 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV54"
+    ]
+  },
+  {
+    "title":"MOJOPANGGUNG 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV53"
+    ]
+  },
+  {
+    "title":"SIMPANG 3 GIRI 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV52"
+    ]
+  },
+  {
+    "title":"SIMPANG 3 GIRI 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV51"
+    ]
+  },
+  {
+    "title":"SIMPANG 4 PANATBAN 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV50"
+    ]
+  },
+  {
+    "title":"SIMPANG 4 PANATBAN 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV48"
+    ]
+  },
+  {
+    "title":"TPS GIRI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV47"
+    ]
+  },
+  {
+    "title":"SIMPANG 3 PATUNG BARONG 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV44"
+    ]
+  },
+  {
+    "title":"SIMPANG 3 PATUNG BARONG 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV43"
+    ]
+  },
+  {
+    "title":"RTH JAMBU 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV42"
+    ]
+  },
+  {
+    "title":"RTH JAMBU 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV41"
+    ]
+  },
+  {
+    "title":"ASDP - RTH BAJULMATI 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV40"
+    ]
+  },
+  {
+    "title":"SIMP. CAM SUNEAST MALL TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV39"
+    ]
+  },
+  {
+    "title":"SIMP. CAM SUNEAST MALL BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/stream.html?src=CCTV38"
+    ]
+  }
+]
