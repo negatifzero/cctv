@@ -1,0 +1,138 @@
+[
+{
+    "title":"Bundaran Nangkaan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=9&user=view&pass=K0minfo&rand=1710987769&connkey=7824"
+    ]
+  }, 
+{
+    "title":"SP3 Koncer",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=8&user=view&pass=K0minfo&rand=1710987769&connkey=6824"
+    ]
+  }, 
+{
+    "title":"SP3 Ganesha Operation",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=16&user=view&pass=K0minfo&rand=1710987769&connkey=13824"
+    ]
+  }, 
+{
+    "title":"Pengairan Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=15&user=view&pass=K0minfo&rand=1710987769&connkey=12824"
+    ]
+  }, 
+{
+    "title":"Pengairan Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=14&user=view&pass=K0minfo&rand=1710987769&connkey=11824"
+    ]
+  }, 
+{
+    "title":"POM Taman Sari Timur dan Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=13&user=view&pass=K0minfo&rand=1710987769&connkey=10824"
+    ]
+  }, 
+{
+    "title":"SP4 RSUD Koesnadi",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=18&user=view&pass=K0minfo&rand=1710987769&connkey=14824"
+    ]
+  }, 
+{
+    "title":"SP4 Hotel Palm",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=19&user=view&pass=K0minfo&rand=1710987769&connkey=15824"
+    ]
+  }, 
+{
+    "title":"Pos dan Giro",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=10&user=view&pass=K0minfo&rand=1710987769&connkey=8824"
+    ]
+  }, 
+{
+    "title":"SP4 Kotakulon 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=5&user=view&pass=K0minfo&rand=1710987769&connkey=3824"
+    ]
+  }, 
+{
+    "title":"SP3 MPM Kotakulon",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=11&user=view&pass=K0minfo&rand=1710987769&connkey=9824"
+    ]
+  }, 
+{
+    "title":"SP4 Bank Jatim",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=4&user=view&pass=K0minfo&rand=1710987769&connkey=2824"
+    ]
+  }, 
+{
+    "title":"SP4 Pendopo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=3&user=view&pass=K0minfo&rand=1710987769&connkey=1824"
+    ]
+  }, 
+{
+    "title":"SP4 Pasar Induk",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=22&user=view&pass=K0minfo&rand=1710987769&connkey=18824"
+    ]
+  }, 
+{
+    "title":"SP3 Yima Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=20&user=view&pass=K0minfo&rand=1710987769&connkey=16824"
+    ]
+  }, 
+{
+    "title":"SP3 Yima Timur dan Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=21&user=view&pass=K0minfo&rand=1710987769&connkey=17824"
+    ]
+  }, 
+{
+    "title":"SP3 Bataan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=6&user=view&pass=K0minfo&rand=1710987769&connkey=4824"
+    ]
+  }
+]
