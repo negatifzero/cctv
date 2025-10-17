@@ -1,0 +1,131 @@
+[
+ 
+  {
+    "title":"Simpang PDAM 1 - Kecamatan Baiturrahman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/f42b9a56-5593-407d-af6e-f9396bc12ed0_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Simpang Dharma 1 - Kecamatan Kuta Alam",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/dcba24ce-e625-4e77-8d8b-e0529725cc13_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Dinkes 2 - Kecamatan Baiturrahman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/cc16dc97-e4ba-4c7f-ac34-165aab52d13b_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Dinkes 3 - Kecamatan Baiturrahman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/0617d616-8d75-4668-98cc-173ab20fcdd9_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Dinkes 4 - Kecamatan Baiturrahman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/40cfdb05-1220-4e31-9418-fc3497adac9f_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Simpang Dharma 3 - Kecamatan Kuta Alam",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/1e560ac1-8b57-416a-b64e-d4190ff83f88_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Simpang Dharma 4 - Kecamatan Kuta Alam",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/f9444904-ad31-4401-9643-aee6e33b85c7_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Simpang Jambo Tape 1 - Kecamatan Kuta Alam",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/1cc83753-c1ab-4b85-a5d7-e78a93f55fcc_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Simpang Jambo Tape 2 - Kecamatan Kuta Alam",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/715ed6a3-1671-450e-8cf7-848d583ebc66_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Tol Sibanceh Blang Bintang - Kecamatan Baiturrahman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/c1d81726-0ee2-4c32-8763-b5f6935df1d3_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Bustanussalatin 4 - Kecamatan Baiturrahman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/18d891c1-16e0-423d-a23d-1ea51c1b548f_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Bustanussalatin 8 - Kecamatan Baiturrahman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/97abc63e-30d6-4d67-9f47-5586ea3bf13c_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Bustanussalatin 1 - Kecamatan Baiturrahman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/915ad1fb-eb2b-4189-bf36-30f70439b7a0_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Bustanussalatin 2 - Kecamatan Baiturrahman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/e9895ca2-11a4-4c93-85bf-8dbb079f65c9_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Bustanussalatin 3 - Kecamatan Baiturrahman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/2182ed86-4eb0-4fbf-b61c-12af56af4210_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Bustanussalatin 5 - Kecamatan Baiturrahman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-stream.bandaacehkota.info/memfs/e086ecce-9076-4f28-a712-ac2659fa4e53_output_0.m3u8"
+    ]
+  }
+]
