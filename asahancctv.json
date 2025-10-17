@@ -1,0 +1,76 @@
+[
+  {
+    "title":"Mas Mansyur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.asahankab.go.id/video/masmansyurok.m3u8"
+    ]
+  },
+  
+   {
+    "title":"Pos Polisi Kota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.asahankab.go.id/video/pospolisiok.m3u8"
+    ]
+  },
+  {
+    "title":"Masjid Raya",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.asahankab.go.id/video/masjidrayaok.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Pelita",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.asahankab.go.id/video/pelitaok.m3u8"
+    ]
+  },
+     {
+    "title":"Stadion Mutiara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.asahankab.go.id/video/stadionok.m3u8"
+    ]
+  },
+     {
+    "title":"Pangkal Titi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.asahankab.go.id/video/pangkaltitiok.m3u8"
+    ]
+  },
+      {
+    "title":"Simpang Bunut",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.asahankab.go.id/video/simpangbunut.m3u8"
+    ]
+  },
+        {
+    "title":"Taman Madjizat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.asahankab.go.id/video/tamanmadjizat.m3u8"
+    ]
+  },
+  
+  {
+    "title":"Simpang Mesjid Agung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.asahankab.go.id/video/simpangmesjidagung.m3u8"
+    ]
+  }
+]
