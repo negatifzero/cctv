@@ -1,0 +1,46 @@
+hapus => https://kanghen10.github.io/smart-video-player/#
+langsung akses => https://rtmp.pekanbaru.go.id/cctv-kota/cctv-1201.m3u8
+
+[
+ {
+    "title":"Bukit barisan - harapan raya",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://rtmp.pekanbaru.go.id/cctv-kota/cctv-1201.m3u8"
+    ]
+  },
+ {
+    "title":"Pasar bawah",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://rtmp.pekanbaru.go.id/cctv-kota/cctv-1204.m3u8"
+    ]
+  },
+ 
+ {
+    "title":"Sp. labersa - parit indah",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://rtmp.pekanbaru.go.id/cctv-kota/cctv-1208.m3u8"
+    ]
+  },
+  {
+    "title":"Mall pekanbaru (depan bank mandiri)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://rtmp.pekanbaru.go.id/cctv-kota/cctv-1217.m3u8"
+    ]
+  },
+  {
+    "title":"Rth kaca mayang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://rtmp.pekanbaru.go.id/cctv-kota/cctv-1230.m3u8"
+    ]
+  }
+]
