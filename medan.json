@@ -1,0 +1,1459 @@
+[
+ {
+    "title":"SIMPANG LAPANGAN MERDEKA (RADEN SALEH - BALAI KOTA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L1RADENSALEHBALAIKOTA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG LONSUM (AHMAD YANI - PULAU PINANG)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L2AHMADYANIPULAUPINANG/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG KESAWAN (KESAWAN - PALANG MERAH)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L3KESAWANPALANGMERAH/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG WASPADA (KATAMSO - ANI IDRUS)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L4KATAMSOANIIDRUS/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG TIRTANADI (PANDU - CIREBON)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L5PANDUCIREBON/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG ISTANA MAIMUN (KATAMSO - MASJID RAYA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L6KATAMSOMASJIDRAYA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG MASJID RAYA (SM.RAJA - AMALIUN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L7SM.RAJAAMALIUN/index.m3u8"
+      ]
+ },
+
+{
+    "title":"SIMPANG MAYESTIK (GURU PATIMPUS - ADAM MALIK)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L8GURUPATIMPUSADAMMALIK/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG WISMA BENTENG (PENGADILAN - KPT.MAULANA LUBIS)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L9PENGADILANKPT.MAULANALUBIS/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG BENTENG 1 (PERDANA - IMAM BONJOL)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L10PERDANAIMAMBONJOL/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG HDTI (IMAM BONJOL - ZAINUL ARIFIN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L11IMAMBONJOLZAINULARIFIN/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG PIZZA HUT (SUPRAPTO - MULTATULI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L12SUPRAPTOMULTATULI/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG AIR MANCUR (IMAM BONJOL - SUPRAPTO)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L13IMAMBONJOLSUPRAPTO/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG BII (DIPONEGORO - ZAINUL ARIFIN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L14DIPONEGOROZAINULARIFIN/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG KARTINI (DIPONEGORO - KARTINI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L15DIPONEGOROKARTINI/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG RD.WALIKOTA (SUDIRMAN - DIPONEGORO)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L16SUDIRMANDIPONEGORO/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG RD.GUBERNUR (SUDIRMAN - CIK DITIRO)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L17SUDIRMANCIKDITIRO/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG JUANDA KATAMSO (KATAMSO - JUANDA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L18KATAMSOJUANDA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG POLONIA (JUANDA - POLONIA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L19JUANDAPOLONIA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG HALAT - SM.RJA (SM.RAJA - HALAT)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L20SMRAJAHALAT/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG PELANGI - SM.RAJA (SM.RAJA - PELANGI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L21SMRAJAPELANGI/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG PMH (SM.RAJA - AH.NASUTION)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L22SMRAJAPMH/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG AMPLAS (SM.RAJA - PANGLIMA DENAI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L23AMPLAS/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG UNILAND (MT.HARYONO - IRIAN BARAT)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L24UNILAND/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG MEDAN MALL (MT.HARYONO - SUTOMO)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L25MEDANMALL/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG MT.THAMRIN SUMATERA (MT HARYONO - MH.THAMRIN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L26MTHARYONOTHAMRIN/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG TVRI (PUTRI HIJAU - GURU PATIMPUS)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L27TVRI/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG GAHARU - HM.YAMIN (HM.YAMIN - JAWA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L28YAMINJAWA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SUDIRMAN UJUNG (SUDIRMAN - S.PARMAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L29SUDIRMANUJUNG/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG MANGONSIDI PATIMURA (MONGONSIDI - PATIMURA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L30MONGONSIDIPATTIMURA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG JM GINTING ISMUD (JAMIN GINTING - ISKANDAR MUDA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L31JAMINGINTINGISMUD/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG DR MANSYUR JM GINTING (JAMIN GINTNG - DR.MANSYUR)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L32JAMINGINTINGDRMANSYUR/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SM RJA HM JONI (SM.RAJA - HM.JONI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L33SMRAJAHMJHONI/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG ALFALAH SM RAJA (SM.RAJA - ALFALAH)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L34SMRAJAALFALAH/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG BAJAK NASUTION (AH.NASUTION - BAJAK)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L35NASUTIONBAJAK/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG MEDAN PLAZA (GATOT SUBROTO - ISKANDAR MUDA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L36MEDANPLAZA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SEI WAMPU (GATOT SUBROTO - WAHID HASYIM)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L37SEIWAMPU/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG AYAHANDA - GATSU (GATOT SUBROTO - AYAHANDA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L38AYAHANDA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SEI KAMBING (GATOT SUBROTO - KAPTEN MUSLIM)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L39SEISIKAMBING/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG ISMUD GAJAH MADA (ISKANDAR MUDA - GAJAH MADA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L40ISMUDGAJAHMADA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG HASNUDDIN ISMUD (ISKANDAR MUDA - HASANUDDIN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L41ISMUDHASANUDDIN/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG ISMUD ABD LUBIS (ISKANDAR MUDA - ABDULLAH LUBIS)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L42ISMUDABDLUBIS/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG KEJAKSAAN SPARMAN (KEJAKSAAN - S.PARMAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L43KEJAKSAANSPARMAN/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG GAHARU PERINTIS (GAHARU - PERINTIS KEMERDEKAAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L44GAHARUPERINTIS/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG NOUMENSEN (PERINTIS KEMERDEKAAN - SUTOMO)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L45NOUMENSEN/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SUTOMO YAMIN (SUTOMO - HM.YAMIN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L46SUTOMOYAMIN/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG GLUGUR (PUTRI HIJAU - YOSUDARSO)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L47GLUGUR/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG BILAL YOSUDARSO (YOSUDARSO - PEMBANGUNAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L48BILALYOSSUDARSO/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG BRAYAN (YOSUDARSO - PERTEMPURAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L49BRAYAN/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG GAJAH MADA WAHID HASYIM (GAJAH MADA - WAHID HASYIM)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L50GAJAHMADAWAHIDHASYIM/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG AMIR HAMZAH GRIYA (KAPTEN MUSLIM - AMIR HAMZAH)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L51GRIYA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SUNGGAL KASUARI (SUNGGAL - KASUARI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L52SUNGGALKASUARI/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG THAMRIN YAMIN (MH.THAMRIN - HM.YAMIN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L53THAMRINYAMIN/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG KEJKASSAN T UMAR (KEJAKSAAN - TENGKU UMAR)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L54KEJAKSAANTUMAR/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG JUANDA WALIKOTA (JUANDA - WALIKOTA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L55JUANDAWALIKOTA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG RAHMDSYAH (SM.RAJA - RAHMADSYAH)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L56RAHMADSYAH/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG STM NASUTION (AH.NASUTION - STM TRITURA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L57STMAHNASUTION/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG AMAL GAGAK HITAM (GAGAK HITAM - AMAL)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L58AMAL/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SUNGGAL GAGAK HITAM (GAGAK HITAM - SUNGGAL)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L59SUGGAL/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG ASOKA (GAGAK HITAM - ASOKA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L60ASOKA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SETIA BUDI (SETIA BUDI - INDUSTRI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L61SETIABUDIINDUSTRI/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG POS (JAMIN GINTING - AH.NASUTION)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L62SIMPANGPOS/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG KARYAWISATA (AH.NASUTION - KARYA WISATA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L63KARYAWISATA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG KATMASO PELANGI (KATAMSO - PELANGI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L64KATAMSOPELANGI/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG KATAMSO SAKTI LUBIS (KATAMSO - SAKTI LUBIS)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L65KATAMSOSAKTILUBIS/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SUTOMO SUTRISNO (SUTOMO - SUTRISNO)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L66SUTOMOSUTRISNO/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG THAMRIN SUTRISNO (MH.THAMRIN - SUTRISNO)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L67THAMRINSUTRISNO/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG THAMRIN ASIA (MH.THAMRIN - ASIA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L68THAMRINASIA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SUTOMO MERBABU (SUTOMO - MARBABU)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L69SUTOMOMERBABU/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG GAHARU BAMBU II (GAHARU - BAMBU II)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L70GAHARUBAMBU2/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SUTOMO BAMBU II (SUTOMO - BAMBU II)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L71SUTOMOBAMBU2/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG KRAKATAU PASAR III (KRAKATAU - PASAR III)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L72KRAKATAUPASAR3/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG KARKATAU BILAL (KRAKATAU - BILAL)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L73KRAKATAUBILAL/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SIDORUKUN (KRAKATU - SIDORUKUN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L74KRAKATUSIDORUKUN/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG WAHID HASYIM (ABDULAH LUBIS - WAHID HASYIM)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L75ABDLUBISWAHIDHASYIM/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG KRAKTAU CEMARA (KRAKATAU - CEMARA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L76KRAKATAUCEMARA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SKIP (SEKIP - PABRIK TENUN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L77SKIPPABRIKTENUN/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SEI SERAYU (ABDULLAH LUBIS - SEI BLUTU)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L78ABDLUBISSEISERAYU/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG DARUSSALAM (GAJAH MADA - DARUSSALAM)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L79GAJAHMADADARUSSALAM/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG DR CIPTO (MANGONSIDI - DR.CIPTO)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L80MANGONSIDIDRCIPTO/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG YAMIN PERINTIS (HM.YAMIN - PERINTIS)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L81HMYAMINPERINTIS/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG MANHATTAN (GATOT SUBROTO - ASRAMA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L82GATSUASRAMA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG AKSARA - WILLIAN ISKANDAR (HM.YAMIN - WILIAM ISKANDAR)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L83ARHAKIMWILIAISKANDAR/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG PINANG BARIS (GATOT SUBROTO - PINANG BARIS)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L84PINANGBARIS/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG ASRAMA (SUMARSONO - ASRAMA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L85GAPERTAASRAMA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG MANDALA (LETDA SUJONO - MANDALA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L86MANDALA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG RS ADAM MALIK (JAMIN GINTING - RS.ADAM MALIK)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L87RSADAMMALIK/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SELAYANG (JAMIN GINTING - SELAYANG)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L88SELAYANG/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG PEMDA (SETIA BUDI - FLAMBOYAN RAYA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L89PEMDA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SIMALINGKAR (JAMIN GINTING - SIMALINGKAR)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L90SIMALINGKAR/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SEJATI (AR.HAKIM - SEJATI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L91SEJATI/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG WAHIDN (AR.HAKIM - WAHIDIN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L92WAHIDIN/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SUKARAMAI (AR.HAKIM - DENAI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L93SUKAIRAMAI/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG BENTENG 2 (PENGADILAN - KEJAKSAAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L94PENGADILANKEJAKASAAN/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SETIA BUDI DR MANSYUR (SETIA BUDI - DR.MANSYUR)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L95SETIABUDIDRMANSYUR/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS DEPAN RS BUNDA THAMRIN (SEI BATANGHARI (DEPAN RS.BUNDA THAMRIN))",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L96DEPANRSBUNDATHAMRIN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS SEI ULAR (SEI BATANGHARI - JALAN SEI ULAR)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L97SEIULARBARU/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS TITI BOBROK (SETIA BUDI - TITI BOBROK)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L98TITIBOBROK/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS PINTU 4 USU (DR.MANSYUR - PINTU 4 USU)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L99PINTU4USU/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS PINTU 2 USU (DR.MANSYUR - PINTU 2 USU)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L100PINTU2USU/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS SM.RAJA SAUDARA (SM.RAJA - SAUDARA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L101SMRAJASAUDARA/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS PULAU PINANG STASIUN KERETA API (PULAU PINANG - STASIUN KA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L102PULAUPINANG/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS JAWA VETERAN (JAWA - VETERAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L103JAWAVETERAN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS VETERAN TIMOR (VETERAN - TIMOR)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L104VETERANTIMOR/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS HM.THAMRIN DEPAN YP SUTOMO (MH.THAMRIN - DEPAN YP.SUTOMO)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L105HMTHAMRIN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS KEJAKSAAN DEPAN KPU KOTA MEDAN (KEJAKSAAN - DEPAN KANTOR KPU MEDAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L106KEJAKSAAN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS PUTRI HIJAU HM YAMIN (PUTRI HIJAU - HM.YAMIN ( DPN BRI ))",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L107PUTRIHIJAUHMYAMIN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS YOS SUDARSO (YOSUDARSO - DEPAN UNIVERSITAS DARMAWANGSA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L108YOSSUDARSODARMAWANGSA/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS SUTOMO (SUTOMO - DEPAN TAMAN TUGU KB)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L109SUTOMOTUGUKB/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS PERINTIS TIMOR (PERINTIS KEMERDEKAAN - TIMOR)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L110PERINTISTIMOR/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS JAWA (JAWA (DEPAN CENTRE POINT))",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L111JAWA/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS SUTOMO (SUTOMO - VETERAN (TUGU APOLO))",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L112SUTOMOTUGUAPOLO/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS GATOT SUBROTO NIBUNG (GATOT SUBROTO - NIBUNG)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L113GATOTSUBRTONIBUNG/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS RADEN SALEH (RADEN SALEH ( DEPAN KANTOR WALIKOTA ))",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L114RADENSALEH/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS ZAINUL ARIFIN (ZAINUL ARIFIN ( SUN PLAZA ))",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L115ZAINULARIFIN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS IMAM BONJOL (IMAM BONJOL - DEPAN SUPERMARKET BERASTAGI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L116IMAMBONJOL/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS DIPONEGORO (DIPONEGORO( DEPAN MESJID AGUNG ))",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L117DIPONEGORO/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS STASIUN (STASIUN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L118STASIUN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS MT.HARYONO (MT.HARYONO - BINTANG)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L119MTHARYONO/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS SP.LIMUN (SIMPANG LIMUN - SM.RAJA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L120SPLIMUN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS DEPAN TERMINAL AMPLAS (AMPLAS (DEPAN TERMINAL AMPLAS))",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L121DEPANTERMINALAMPLAS/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS S.PARMAN HASANUDDIN (S.PARMAN - HASANUDDIN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L122SPARMANHASANUDDIN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS S.PARMAN ZAINUDDIN (S.PARMAN - GAJAH MADA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L123SPARMANZAINUDDIN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS S.PARMAN GLUGUR (S.PARMAN - GELUGUR)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L124SPARMANGLUGUR/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS KPT MAULANA LUBIS S.PARMAN (GURU PATIMPUS - KAPTEN MAULANA LUBIS)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L125KPTMAULANALUBISSPARMAN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS MERAK JINGGA HM YAMIN (MERAK JINGGA - HM.YAMIN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L126MERAKJINGGAHMYAMIN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS MERAK JINGGA PERINTIS KEMERDEKAAN (MERAK JINGGA - PERINTIS KEMERDEKAAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L127MERAKJINGGAPRINTISKEMERDEKAAN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS HM.SAID PRINTIS KEMERDEKAAN (JL.HM.SAID - PERINTIS KEMERDEKAAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L128HMSAIDPRINTISKEMERDEKAAN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS THAMRIN PRINTIS KEMERDEKAAN (MH.THMARIN - PERINTIS KEMERDEKAAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L129THAMRINPRINTISKEMERDEKAAN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS YOS SUDARSO CILINCING (YOSUDARSO - CELINCING)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L130CILINCING/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS KARYA T.AMIR HAMZAH (KARYA - AMIR HAMZAH)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L131KARYATAMIRHAMZAH/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS ADAM MALIK T.AMIR HAMZAH (ADAM MALIK - AMIR HAMZAH)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L132ADAMMALIKTAMIRHAMZAH/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS PAJAK HINDU (PERDANA - PAJAK HINDU)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L133PAJAKHINDU/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS BUNDARAN POLONIA (BUNDARAN POLONIA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L134BUNDARANPOLONIA/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS BUNDARAN HOTEL PARDEDE (BUNDARAN HOTEL PARDEDE)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L135BUNDARANHOTELPARDEDE/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS SM RAJA (SM.RAJA - DEPAN RAMAYANA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L136DEPANTUGUSMRAJA/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS JUANDA SAMAN HUDI (JUANDA - SAMANHUDI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L137JUANDASAMANHUDI/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS KPT. MUSLIM (KAPTEN MUSLIM - DEPAN PLAZA MILENIUM)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L138KPTMMUSLIM/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS GAJAH MADA (GAJAH MADA -DI.PENJAITAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L139GAJAHMADA/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS SM RAJA HALAT (SM.RAJA HALAT)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L140SMRAJAHALAT/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS STADION TELADAN (STADION TELADAN - POLSEK MEDAN KOTA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L141STADION/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS SUDIRMAN (SUDIRMAN - JEMBATAN SUDIRAMAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L142SUDIRMAN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS IMAM BONJOL CUT MUTIA (IMAM BONJOL - CUT MUTIA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L143IMAMBONJOLCUTMUTIA/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS GATOT SUBROTO (GATOT SUBROTO - JEMBATAN SEI ULAR)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L144GATOTSUBROTO/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS GATOT SUBROTO PRSU (GATOT SUBROTO - DEPAN PRSU)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L145GATOTSUBROTOPRSU/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS AHMAD YHANI (AHMAD YANI - DEPAN TIP TOP)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L146AHMADYHANI/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS MONGONSIDI PERHUBUNGAN DEPAN KFC (MONGONSIDI - PERHUBUNGUN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L147MONGONSIDIPPERHUBUNGAN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS SUTOMO ANI IDRUS (SUTOMO - ANI IDRUS)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L148SUTOMOANIIDRUS/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS PALANG MERAH MESJID (PALANG MERAH - MASJID)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L149PALANGMERAHMESJID/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS PALANG MERAH LISTRIK (PALANG MERAH - LISTRIK)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L150PALANGMERAHLISTRIK/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS SKIP MERANTI (SEKIP - MERANTI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L151SKIPMERANTI/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS IMAM BONJOL JUANDA (IMAM BONJOL - JUANDA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L152IMAMBONJOLJUANDA/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS DR.CIPTO MASDULHAD (DR.CIPTO - MASDULHAK)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L153DRCIPTOMASDULHAD/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS SUPRAPTO IMAM BONJOL (SUDIRMAN - DEPAN TAMAN AHMAD YANI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L154SUPRAPTOIMAMBONJOL/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS GURU PATIMPUS SEI DELI (GURU PATIMPUS - SEI DELI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L155GURUPATIMPUSSEIDELI/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS HM JHONI GEDUNG ARCA (HM.JONI - GEDUNG ARCA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L156HMJHONIGEDUNGARCA/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS ISKANDAR MUDA (ISKANDAR MUDA - DEPAN RAMAYANA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L157ISKANDARMUDA/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS PUTRI HIJAU MERAK JINGGA (PUTRI HIJAU - MERAK JINGGA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L158PUTRIHIJAUMERAKJINGGA/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS YOS SUDARSO ABD WAHAB (YOSSUDARSO - ABD WAHAB ROKAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L159YOSSUDARSOABDWAHAB/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS STASIUN BUKIT BARISAN HALTE I (STASIUN - BUKIT BARISAN (HALTE 1))",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L160STASIUNHALTEI/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS STASIUN BUKIT BARISAN HALTE II (STASIUN - BUKIT BARISAN (HALTE 2))",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L161STASIUNHALTEII/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS STASIUN PALANG MERAH (STASIUN - PALANG MERAH)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L162STASIUNPALANGMERAH/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS RAHMADSYAH SUTOMO (RAHMADSYAH - SUTOMO)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L163RAHMADSYAHSUTOMO/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS JAMIN GINTING PASAR INDUK (JAMIN GINTING - PASAR INDUK)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L164JAMINGINTINGPASARINDUK/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS GATOT SUBROTO PINANG BARIS (GATOT SUBROTO - BATAS KOTA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L165GATOTSUBROTOPINANGBARIS/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS GATOT SUBROTO PATRIOT (GATOT SUBROTO - PATRIOT)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L166GATOTSUBROTOPATRIOT/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS KRAKATAU BUKIT BARISAN (KAKATAU - BUKIT BARISAN 1)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L167KRAKATAUBUKITBARISAN/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS HM YAMIN T.IBRAHIM UMAR (HM.YAMIN - T.IBRAHIM UMAR)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L168HMYAMINTIBRAHIMUMAR/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS KEPRIBADIAN SP MAYOR (KEPRIBADIAN - SIMP MAYOR)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L169KEPRIBADIANMAYOR/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG BAMBU - SUTOMO (BAMBU - SUTOMO)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L170BAMBU1/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG AR HAKIM HALAT (AR.HAKIM - HALAT)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L171ARHAKIMHALAT/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG GEDUNG ARCA (HM.JHONI - GEDUNG ARCA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L172GEDUNGARCA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG HM.JONI BAHAGIA (HM.JONI - BAHAGIA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L174HMJONIBAHAGIA/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SETIABUDI SEIRAYU (SETIA BUDI - SEISERAYU)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L175SETIABUDISEISERAYU/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SETIA BUDI SEIBLUTU (SETIA BUDI - SEI BLUTU)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L176SETIABUDISEIBLUTU/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG YOSUDARSO PERTEMPURAN 2 (YOSUDARSO - PERTEMPURAN 2)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L177YOSUDARSOPERTEMPURAN/index.m3u8"
+      ]
+ },
+{
+    "title":"SIMPANG SETIA BUDI KOMPLEK TASBIH (SETIA BUDI - KOMPLEK TASBIH)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L178SETIABUDIKOMPLEKTASBIH/index.m3u8"
+      ]
+ },
+{
+    "title":"RUAS GATOT SUBROTO - DEPAN FLZA FAIR (GATOT SUBROTO - DEPAN PLAZA FAIR)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L179GATOTSUBROTOFLAZAFAIR/index.m3u8"
+      ]
+ },
+{
+    "title":"SUNGAI BABURA KPT.MULANA LUBIS (SUNGAI BABURA KPT.MAULANA LUBIS)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L180SUNGAIBABURAKPTMAULANALUBIS/index.m3u8"
+      ]
+ },
+{
+    "title":"JEMBATAN KPT MAULANA LUBIS (JEMBATAN KPT.MAULANA LUBIS)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L181JEMBATANKPTMAULANALUBIS/index.m3u8"
+      ]
+ },
+{
+    "title":"SUNGAI DELI SUPRAPTO (SUNGAI DELI SUPRAPTO)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L182SUNGAIDELISUPRAPTO/index.m3u8"
+      ]
+ },
+{
+    "title":"JEMBATAN SUPRAPTO (JEMBATAN SUPRAPTO)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcsdishub.medan.go.id/stream/L183JEMBATANSUPRAPTO/index.m3u8"
+    ]
+  }
+]
