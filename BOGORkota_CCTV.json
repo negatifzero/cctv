@@ -1,0 +1,218 @@
+[
+  {
+    "title":"JALAN SUKASARI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer3.kotabogor.go.id/memfs/0ec104af-9036-48db-b643-ced9d1d42c21.m3u8"
+    ]
+  },
+  {
+    "title":"GANG AUT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/64b180ce-d237-44d9-b857-c610e1d0c75c_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"KAPTEN MUSLIHAT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/3ec6eaf2-4da1-4adb-8c15-0251e69121d6_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"LAWANG GINTUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/04d5f235-00ce-4c57-ae9a-09214c688086_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"MAYOR OKING",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/a3d87684-2cdd-4190-ac07-8b915864daef_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"TUGU KUJANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/5a5cf878-9d9b-4400-a73a-27a5b24a6ec4_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"CIHELEUT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/f5ca1d37-c267-4806-850b-d1ca537fb29a_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"DEPAN MALL BTM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/f707b72a-5c95-421a-9f3a-2e478794bd76_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"DEPAN ALUN ALUN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/c07c1926-288c-46e4-a19c-9f51022edc5d_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"PASAR BOGOR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/b43066d4-b1e4-4e90-8e17-86c15a9a944e_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"DEPAN KANTOR DISHUB KOTA BOGOR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/0518012b-655d-4a7d-83d6-b7bb1faf4396_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"JUANDA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/62cded1f-90d0-4af6-b330-dc40af5fdd67_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"SEKETENG SURKEN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/3d51d3a1-0d90-4230-956c-60dea3c11ac3_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"OTISTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/b75e84e5-d033-48fb-aa67-fc48c5e11091_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"SEKETENG GUDANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/1083f9b4-b193-490d-aa45-31cbc69913fb_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"PEDATI ARAH GUDANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer3.kotabogor.go.id/memfs/c2d90a44-8f2c-4103-82ad-6cb1730a5000_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG DEPOM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer2.kotabogor.go.id/memfs/70d8b8dd-35ba-4895-8c03-8dbd306ce5cb_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"ALUNALUN DEPAN BRI 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer3.kotabogor.go.id/memfs/b99d528a-1eb8-47bf-ba0f-a63fe11dbece_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"MASJID AGUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer3.kotabogor.go.id/memfs/3cd8d68e-9022-4891-887b-3ff87fe12b56_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"SUDIRMAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer3.kotabogor.go.id/memfs/3b76a9cd-0b52-42bd-8577-eb3ecb084ec3_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"PEDATI SURKEN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer3.kotabogor.go.id/memfs/eedbb9a2-1571-41bd-92db-73b946e3e9b2_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"EMPANG ARAH PANCASAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer3.kotabogor.go.id/memfs/db8ddbdf-cd84-439b-b1fe-a283dffdd5b6_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"ALUN ALUN BRI 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer3.kotabogor.go.id/memfs/38611ade-09b7-4e5b-b835-f5c3a56bb373_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"EMPANG ARAH BNR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer3.kotabogor.go.id/memfs/ca848bb3-3f17-4cea-8bef-d89dd116fd7c_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"LAWANG SEKETENG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer3.kotabogor.go.id/memfs/f946ad94-d7c0-4bea-bb43-51adbdc90b95_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"PEDATI LAWANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer3.kotabogor.go.id/memfs/3ec91e05-edf0-451f-b363-4b3c52b75805_output_0.m3u8"
+    ]
+  },
+  {
+    "title":"JEMBATAN MERAH",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer3.kotabogor.go.id/memfs/5f1e2a06-059c-4c00-9102-ceaf12e2b577_output_0.m3u8"
+    ]
+  }
+]
