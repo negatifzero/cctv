@@ -1,0 +1,74 @@
+[
+ {
+    "title":"DEPAN UPT PKB",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://data.bojonegorokab.go.id/live/local/0682655b-c640-40a5-a611-fe3a6b905502_output_0.m3u8"
+    ]
+  },
+   {
+    "title":"SIMPANG 3 AHMAD YANI - VETERAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://data.bojonegorokab.go.id/live/local/121464f4-cfbc-4bbf-bd2e-247de018f401.m3u8"
+    ]
+  },
+   {
+    "title":"SIMPANG 3 BUNDARAN ADIPURA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://data.bojonegorokab.go.id/live/local/285b6a91-2eb3-4d8b-aee8-4f4d459302df.m3u8"
+    ]
+  },
+   {
+    "title":"SIMPANG 4 U.SUROPATI - PANGLIMA POLIM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://data.bojonegorokab.go.id/live/local/b707920d-4922-40cd-aa3a-40335f4d1139.m3u8"
+    ]
+  },
+   {
+    "title":"SIMPANG 4 BUNDARAN JETAK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://data.bojonegorokab.go.id/live/local/af39d772-e7e0-493c-aba1-4460d473bfa8.m3u8"
+    ]
+  },
+   {
+    "title":"SIMPANG 4 Dr.CIPTO - Dr.SUHARSO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://data.bojonegorokab.go.id/live/local/c30469f6-7463-4e61-bfef-55f04f3fc98b.m3u8"
+    ]
+  },
+   {
+    "title":"SIMPANG 4 BASUKI RAHMAT - MOJOKAMPUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://data.bojonegorokab.go.id/live/local/4d630ff3-a34a-45bc-b265-d63b004cd2c0.m3u8"
+    ]
+  },
+   {
+    "title":"SIMPANG 4 PLN - SAWUNGGALING",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://data.bojonegorokab.go.id/live/local/94774749-ebac-4563-b91e-cd24249f15ba.m3u8"
+    ]
+  },
+   {
+    "title":"SIMPANG 3 CAMPUREJO - LETTU SUYITNO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://data.bojonegorokab.go.id/live/local/d12980d8-4400-4cf7-a554-e8a3b09eb0b7.m3u8"
+    ]
+  }
+]
