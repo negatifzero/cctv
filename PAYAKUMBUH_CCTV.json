@@ -1,0 +1,266 @@
+[
+{
+    "title":"Simpang Bunian - Bunian 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/bn1/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Bunian - Bunian 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/bn2/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Bunian - Bunian 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/bn3/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Muhammadiyah - Muhamadiyah 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/QaJ4NhcSJ4/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Muhammadiyah - Muhamadiyah 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/MHDY2/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Muhammadiyah - Muhamadiyah 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/XVKYfT8YoP/s.m3u8"
+    ]
+  },
+{
+    "title":"Bypass - Bypass 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/cuVE2N8yIO/s.m3u8"
+    ]
+  },
+{
+    "title":"Bypass - Bypass 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/V9FzFQ3Q3N/s.m3u8"
+    ]
+  },
+{
+    "title":"Bypass - Bypass 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/tYTV0BM5mH/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Kasda - Kasda 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/FwwxuaB3hb/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Kasda - Kasda 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/gDJljUq4Mx/s.m3u8"
+    ]
+  },
+{
+    "title":"Labuh Silang - Labuh Silang 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/qD9apnKkYZ/s.m3u8"
+    ]
+  },
+{
+    "title":"Labuh Silang - Labuh Silang 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/kjM2oU1pUF/s.m3u8"
+    ]
+  },
+{
+    "title":"Labuh Silang - Labuh Silang 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/0EIZdUn3UD/s.m3u8"
+    ]
+  },
+{
+    "title":"Labuh Silang - Labuh Silang 4",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/ue96RIcNQA/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Benteng - Benteng 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/suC2PxPRv4/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Benteng - Benteng 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/hBBgFGdknA/s.m3u8"
+    ]
+  },
+{
+    "title":"Balai Panjang - Balai Panjang 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/FIGMIKkE4n/s.m3u8"
+    ]
+  },
+{
+    "title":"Balai Panjang - Balai Panjang 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/UtpwaDFmrb/s.m3u8"
+    ]
+  },
+{
+    "title":"Tanjung Anau - Tanjung Anau 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/0Pm0zN6kQv80/s.m3u8"
+    ]
+  },
+{
+    "title":"Tanjung Anau - Tanjung Anau 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/TJANAU2/s.m3u8"
+    ]
+  },
+{
+    "title":"Tanjung Anau - Tanjung Anau 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/SLjJldKa4280/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Parik - Simpang Parik 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/parik1/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Parik - Simpang Parik 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/parik2/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Parik - Simpang Parik 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/parik3/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang DPRD - Simpang DPRD 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/VaZ3T10gaP/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang DPRD - Simpang DPRD 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/dprd2/s.m3u8"
+    ]
+  },
+{
+    "title":"Tugu Adipura - Tugu Adipura 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/adipura1/s.m3u8"
+    ]
+  },
+{
+    "title":"Tugu Adipura - Tugu Adipura 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/adipura2/s.m3u8"
+    ]
+  },
+{
+    "title":"Tugu Adipura - Tugu Adipura 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/adipura3/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Napar - Napar 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/napar1/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Napar - Napar 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/napar2/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Napar - Napar 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://live.payakumbuhkota.go.id/OhPyXmpVzIzGrIbRobOdB5AgpfEsqs/hls/DFe8pMmKYT/napar3/s.m3u8"
+    ]
+  }
+]
