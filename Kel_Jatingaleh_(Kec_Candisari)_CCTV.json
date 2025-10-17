@@ -1,0 +1,20 @@
+[
+ 
+  {
+    "title":"RW : 2 | RT : 6 (Jatingaleh)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/8957/101/2024/110b1bcf-ba6d-494c-9111-986d904d781b_101.m3u8"
+    ]
+  }, 
+
+  {
+    "title":"RW : 2 | RT : 6 (2) (Jatingaleh)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/8957/201/2024/110b1bcf-ba6d-494c-9111-986d904d781b_201.m3u8"
+    ]
+  }
+]
