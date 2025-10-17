@@ -1,0 +1,706 @@
+[
+  {
+    "title":"SIMPANG BOROBUDUR PLAZA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Borobudur_Plaza.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG JATI KENCANA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_JatiKencana.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SUNGAI BUNTUNG 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/bpbd/BPBD_buntung2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG KYAI MOJO 2 - JL. KYAI MOJO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG PINGIT 3 - JL. TENTARA PELAJAR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit3.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG PINGIT 2 - JL. TENTARA PELAJAR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG BPK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_bpk.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"RTHP SEGORO AMARTO TEGAKREJO 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/rthp/rthp_segoro_amarto_tegalrejo_1.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"RTHP SEGORO AMARTO TEGAKREJO 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/rthp/rthp_segoro_amarto_tegalrejo_2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SUNGAI KALI WINONGO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/bpbd/BPBD_kaliwinongo.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG JLAGRAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_jlagran.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"RTHP PAKUDAYA PAKUNCEN 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/rthp/rthp_pakudaya_pakuncen_2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"RTHP PAKUDAYA PAKUNCEN 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/rthp/rthp_pakudaya_pakuncen_1.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG WIEOBRAJAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_wirobrajan.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG SERANGAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_serangan.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG NGABEAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Parkiran_Ngabean.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG TAMAN SARI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_tamansari.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG SUGENG JERONI 1 - JL. SUGENG JERONI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SugengJeroni1.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG JOKTENG KULON",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_joktengkulon.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO SELATAN TETEG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_1_Selatan_Teteg.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO DEPAN TOKO SUBUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_2_Depan_Toko_Subur.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO DEPAN DISPAR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_3_Depan_Dispar.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO DEPAN DPRD",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_4_Depan_DPRD.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO PERWAKILAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_5_Perwakilan.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO MALL UTARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_6_Mall_Utara.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO MALL SELATAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_7_Mall_Selatan.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO MUTIARA LAMA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_8_Mutiara_Lama.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO MUTIARA BARU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_9_Mutiara_Baru.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO TERANG BULAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_11_Terang_Bulan.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO SIMPANG PAJEKSAN SURYATMAJAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_22_Simpang_Pajeksan_Suryatmajan.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO RAMAYANA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_12_Ramayana.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO GUNUNGMAS",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_13_Gunungmas.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO PASAR BERINGHARJO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"MALIOBORO SIMPANG REKSOBAYAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG KM 0",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG JETIS",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Jetis.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SUNGAI CODE - SARDJITO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/bpbd/BPBD_code_sardjito.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG MIROTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG TUGU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Tugu.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG TERBANG VIEW BARAT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Barat.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG TERBANG VIEW UTARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Utara.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG TERBANG VIEW TIMUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Timur.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG GRAMEDIA 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Gramedia_2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG GRAMEDIA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_gramedia.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG BAUSASRAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_S4_Bausasran.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG GONDOMANAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_gondomanan.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG PERMATA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_permata.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG IBU RESWO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG PASAR GADING - J. MT HARYNO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_PasarGading2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPAMH JOTENG WETAN JL. PARANGTRITIS",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JoktengWetan.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG JOKTENG WETAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_joktengwetan.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG SOP MERAH - JL. KOL SUGIYONO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SopMerah1.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG TUNGKAK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_tungkak.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"RTHP BRONTOKUSUMAN (BLKG KEL) 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/rthp/rthp_brontokusuman_blkgKel_2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"RTHP BRONTOKUSUMAN (BLKG KEL) 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/rthp/rthp_brontokusuman_blkgKel_1.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG JOGOKARYAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_jogokaryan.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG UKDW",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_ukdw.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG TUNJUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_tunjung.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG GAYAM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_gayam.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"RTHP GUNUNGKETUR 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/rthp/rthp_gunungketur_1.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"RTHP GUNUNGKETUR 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/rthp/rthp_gunungketur_2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG SENTUL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_sentul.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"RTHP KLITREN 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/rthp/rthp_klitren_1.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"RTHP KLITREN 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/rthp/rthp_klitren_2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"PASAR DEMANGAN VIEW SELATAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Pasar_Demangan_View_Selatan.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG DEMANGAN VIEW UTARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Utara.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG DEMANGAN VIEW TIMUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG DEMANGAN VIEW SELATAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Selatan.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG DEBRITTO VIEW UTARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_DeBritto_View_Utara.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG APMD",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_apmd.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SUNGHAI GAJAH WONG 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/bpbd/BPBD_gajahwong1.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SUNGHAI GAJAH WONG 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/bpbd/BPBD_gajahwong2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG AMONGROGO VIEW TIMUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Amongrogo_View_Timur.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG CENDANA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_cendana.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"RTHP SEMAKI 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/rthp/rthp_semaki_1.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"RTHP SEMAKI 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/rthp/rthp_semaki_2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG GLAGAHSARI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Glagahsari.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG UST",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_UST.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG BALAIKOTA VIEW TIMUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Timur.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG BALAIKOTA VIEW UTARA-BARAT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Utara.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG SGM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_simpangsgm.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG GEDONGKUNING",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Gedongkuning.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG APPI - JL MENTRI SUPENO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG APPI 2 - JL MENTRI SUPENO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG GAMBIRAN 1 - JL. VETERAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Gambiran1.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG GAMBIRAN 2 - JL. VETERAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Gambiran2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG REJOWINANGUN VIEW TIMUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Rejowinangun_View_Timur.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"SUNGAI NGENTAK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjss.jogjakota.go.id/bpbd/BPBD_ngentak.stream/playlist.m3u8"
+    ]
+  }
+]
