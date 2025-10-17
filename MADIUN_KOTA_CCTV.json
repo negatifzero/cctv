@@ -1,0 +1,740 @@
+[
+ 
+  {
+    "title":"Simpang 4 501 - Jln. Urip Sumoharjo Dari Arah Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/501A4"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 501- Jln. Urip Sumoharjo ( 501 )",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/501A3"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 501 - Jln. Sido Makmur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/501A1"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 501 - Jln. Tirta Raya",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/501A2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Agus Salim - Jln. Merpati",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/agussalim4"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Agus Salim - Jln. Citandui",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/agussalim2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Agus Salim - Jln. Agus Salim",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/agussalim3"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Agus Salim - Jln. Agus Salim Arah Alun - Alun",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/agussalim1"
+    ]
+  }, 
+  {
+    "title":"Simpang 3 Bali - Jln. Kenari",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/bali1"
+    ]
+  }, 
+  {
+    "title":"Simpang 3 Bali - Jln. Panglima Sudirman - Jln. Mastrip",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/bali2"
+    ]
+  }, 
+  {
+    "title":"Simpang 3 Bali - Jln. Bali",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/bali3"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Cokroaminoto - Jln. Sawo Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/cokro1"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Jln. Cokroaminoto Arah Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/cokro2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Fatur - Jln. Taman Praja",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/fatur2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Fatur - Jln. Kelapa Manis",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/fatur4"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Fatur - Jln. Letkol Suwarno",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/fatur1"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Fatur - Jln. Sumber Karya",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/fatur3"
+    ]
+  }, 
+  {
+    "title":"Simpang 3 Gading - Jln. Ring Road Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/gading3"
+    ]
+  }, 
+  {
+    "title":"Simpang 3 Gading - Jln. Raya Solo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/gading2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Gajah - Jln. Ciliwung",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/gajah1"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Gajah - Jln. Kalimosodo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/gajah3"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Gajah - Jln. Soekarno Hatta",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/gajah2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Gajah - Arah Dari Te an",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/gajah4"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 IKIP - Jln. Letkol Suwarno",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/ikip3"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 IKIP - Jln. Auri",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/ikip2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 IKIP - Jln. Setia Budi ( Arah Timur )",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/ikip4"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 IKIP - Jln. Setia Budi ( Arah Barat )",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/ikip1"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Klegen - Jln. M.T Haryono",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/klegen4"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Klegen - Jln. Mastrip",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/klegen2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Klegen - Jln. Thamrin",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/klegen3"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Klegen - Jln. Setia Budi",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/klegen1"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Pandan - Alun - Alun Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/pandan4"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Pandan - Alun - Alun Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/pandan3"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Pandan - Jln. Pandan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/pandan1"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Pandan - Jln. Semeru",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/pandan2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 PGA - Jln. Sumber Karya",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/vga4"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 PGA - Jln. M.T Haryono Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/vga1"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 PGA - Jln. M.T Haryono Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/vga3"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 PGA - Jln. Tulus Bakti",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/vga2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Sleko - Jln. Agus Salim",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/seleko2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Sleko - Jln. Musi",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/seleko4"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Sleko - Jln. Trunojoyo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/seleko1"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Sleko - Jln. Meyjen Sungkono",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/seleko3"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Tean - Jln. Raya Madiun-Ponorogo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/tean1"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Tean - Jln. D.I Panjaitan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/tean2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Tean - Jln. Kapten Tendean",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/tean3"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Tugu - Tugu 0 Kilometer",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/tugu2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Tugu - Jln. Panglima Sudirman Arah Dari Alun - Alun",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/tugu1"
+    ]
+  }, 
+  {
+    "title":"Simpang 3 Merak - Jln. Merak",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/merak2"
+    ]
+  }, 
+  {
+    "title":"Simpang 3 Merak - Jln. Trunojoyo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/merak3"
+    ]
+  }, 
+  {
+    "title":"Simpang 3 Merak - Jln. Soekarno Hatta",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/merak1"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Rejoagung - Jln. Raya Madiun - Caruban",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/rejoagung3"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Rejoagung - Jln. Yos Sudarso",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/rejoagung2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Rejoagung - Jln. Ring Road Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/rejoagung1"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Serayu - Jln. D.I Panjaitan Arah Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/serayu2"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Serayu - Jln. Serayu Arah Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/serayu4"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Serayu - Jln. D.I Panjaitan Arah Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/serayu3"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Serayu - Jln. Serayu Timur Arah Bunderan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/serayu1"
+    ]
+  }, 
+  {
+    "title":"Simpang 5 Tugu Pendekar - Jln. Thamrin",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/proliman4"
+    ]
+  }, 
+  {
+    "title":"Simpang 5 Tugu Pendekar - Jln. Diponegoro Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/proliman1"
+    ]
+  }, 
+  {
+    "title":"Simpang 5 Tugu Pendekar - Jln. Diponegoro Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/proliman2"
+    ]
+  }, 
+  {
+    "title":"Simpang 5 Tugu Pendekar - Jln. S. Parman",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/proliman3"
+    ]
+  }, 
+  {
+    "title":"Simpang 3 Prambanan - Jln. Yos Sudarso Arah Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/prambanan2"
+    ]
+  }, 
+  {
+    "title":"Simpang 3 Prambanan - Jln. Prambanan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/prambanan3"
+    ]
+  }, 
+
+ {
+    "title":"Simpang 3 Prambanan - Jln. Yos Sudarso Arah Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/prambanan1"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Ring Road - Jln. Wahyu Hidayat III",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/ringroad2"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Ring Road Arah Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/ringroad3"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Ring Road - Jln. Keningar",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/ringroad1"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Asahan - Jln. Kapuas",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/salak1"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Asahan - Jln. Asahan ( Selatan )",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/salak2"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Asahan- Jln. Asahan ( Utara )",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/salak3"
+    ]
+  }, 
+ {
+    "title":"Simpang 3 Pule - Jln. Dr. Soetomo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/pule1"
+    ]
+  }, 
+ {
+    "title":"simpang 3 Pule - Jln. Panglima Sudirman (Arah Pasar Besar)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/pule3"
+    ]
+  }, 
+ {
+    "title":"Simpang 3 Pule - Jln. Panglima Sudirman",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/pule2"
+    ]
+  }, 
+ {
+    "title":"Simpang 3 Hayam Wuruk - Jln. Urip Sumoharjo ( Barat )",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/hayamwuruk3"
+    ]
+  }, 
+ {
+    "title":"Simpang 3 Hayam Wuruk - Jln. Hayam Wuruk",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/hayamwuruk1"
+    ]
+  }, 
+ {
+    "title":"Simpang 3 Hayam Wuruk - Jln. Urip Sumoharjo ( Timur )",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/hayamwuruk2"
+    ]
+  }, 
+ {
+    "title":"Simpang 3 Joyo - Jln. Slamet Riyadi",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/joyo1"
+    ]
+  }, 
+ {
+    "title":"Simpang 3 Joyo - Jln. Imam Bonjol",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/joyo2"
+    ]
+  }, 
+ {
+    "title":"Simpang 3 Joyo - Jln. Diponegoro",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/joyo3"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Pahlawan - Jln. jawa",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/pahlawan4"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Pahlawan - Jln. Pahlawan (PSC)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/pahlawan3"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Pahlawan - Jln. pahlawan utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/pahlawan2"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Pahlawan - Jln. A. Yani",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/pahlawan1"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Puspowarno - Jln. Puspowarno",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/puspowarno2"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Puspowarno - Jln. Raya Sidomulyo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/puspowarno1"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Puspowarno - Jln. Ring Road Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/puspowarno4"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Puspowarno - Jln. Ring Road Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/puspowarno3"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Sriti - Jln. Kolonel Marhadi",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/sriti1"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Sriti - Jln. Meyjen Sungkono",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/sriti4"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Sriti - Jln. A. Yani",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/sriti3"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Sriti - Jln. Urip Sumoharjo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.villabs.id/streamer-jsmpeg/streamer/sriti2"
+    ]
+  }
+]
