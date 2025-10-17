@@ -1,0 +1,79 @@
+hapus => https://kanghen10.github.io/smart-video-player/#
+langsung akses => https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/BdBowldl4p/s.m3u8
+
+
+[
+ 
+ {
+    "title":"BNI MAJALAYA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/BdBowldl4p/s.m3u8"
+    ]
+  },
+ {
+    "title":"GADING TUTUKA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/68Z9P3bRmK/s.m3u8"
+    ]
+  },
+ {
+    "title":"KATAPANG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/08fP29L14l/s.m3u8"
+    ]
+  },
+ {
+    "title":"DESA SOREANG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/Z1yMOD012l/s.m3u8"
+    ]
+  },
+ {
+    "title":"CIPARAY",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/s0BPNnOcMS/s.m3u8"
+    ]
+  },
+ {
+    "title":"RANCAMANYAR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/MLhHQFNqih/s.m3u8"
+    ]
+  },
+ {
+    "title":"KOPO SAYATI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/Xv2ERL1yXY/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang PEMDA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/kRTdYHeHLZ/s.m3u8"
+    ]
+  },
+ {
+    "title":"TOL SOROJA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://cctv.bandungkab.go.id/278e09911c911de73dc6624c2bdda83c/hls/dishub/vlWaaKJA8Y/s.m3u8"
+    ]
+  }
+]
