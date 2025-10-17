@@ -1,0 +1,251 @@
+[
+  {
+    "title":"Pantai Lovina (BPBD Provinsi Bali)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=1&m3u8=live.m3u8"
+    ]
+  },
+  {
+    "title":"Pantai Tanah Lot (BPBD Provinsi Bali)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=6&m3u8=live.m3u8"
+    ]
+  },
+  {
+    "title":"Pelabuhan Benoa (BPBD Provinsi Bali)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=2&m3u8=live.m3u8"
+    ]
+  },
+  
+
+  {
+    "title":"SP. Benoa (Dishub Provinsi Bali)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=14&m3u8=live.m3u8"
+    ]
+  },
+  {
+    "title":"SP. Pemelisan (Dishub Provinsi Bali)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=13&m3u8=live.m3u8"
+    ]
+  },
+  {
+    "title":"SP. Tirtanadi (Dishub Provinsi Bali)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=12&m3u8=live.m3u8"
+    ]
+  },
+  {
+    "title":"SP. Pantai Sindhu (Dishub Provinsi Bali)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=11&m3u8=live.m3u8"
+    ]
+  },
+  {
+    "title":"Pantai Sanur (BPBD Provinsi Bali)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=3&m3u8=live.m3u8"
+    ]
+  },
+  {
+    "title":"SP. Bali Beach (Dishub Provinsi Bali)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=10&m3u8=live.m3u8"
+    ]
+  },
+
+  {
+    "title":"SP. Padanggalak (Dishub Provinsi Bali)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=9&m3u8=live.m3u8"
+    ]
+  },
+ 
+  {
+    "title":"Pasar Seni Guwang (BPBD Provinsi Bali)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=4&m3u8=live.m3u8"
+    ]
+  },
+  
+  {
+    "title":"Simpang BTDC",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=27&m3u8=live.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Tanjung Benoa",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=26&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Pintu Tol",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=25&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Taman Griya",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=24&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang UNUD",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=23&m3u8=live.m3u8"
+    ]
+  },
+
+ {
+    "title":"Pelabuhan Benoa",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=2&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Kedonganan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=22&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"Underpass Ngurah Rai Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=28&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"Underpass Ngurah Rai Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=29&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Patung Kuda",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=21&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Benoa",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=20&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Sindu",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=17&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"SP. Pamelasan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=19&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"SP. Tirtanadi",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=18&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"Pantai Sanur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=3&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Bali Beach",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=16&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"SP. Padang Galak",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=15&m3u8=live.m3u8"
+    ]
+  },
+ {
+    "title":"Pasar Seni Guwang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=4&m3u8=live.m3u8"
+    ]
+  },
+ 
+
+
+  {
+    "title":"Pelabuhan Padang Bay (BPBD Provinsi Bali)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-player-ultimate/#https://transcode.baliprov.dev/get-m3u8.php?srv=internals&channel=7&m3u8=live.m3u8"
+    ]
+  }
+]
