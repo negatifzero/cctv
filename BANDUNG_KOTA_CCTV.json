@@ -1,0 +1,453 @@
+hapus => https://kanghen10.github.io/WebRTC_player/#
+langsung akses => https://atcs-dishub.bandung.go.id:1990/GedeTim/
+
+[
+  {
+    "title":"GEDEBAGE (Dari Arah Timur)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/GedeTim/"
+    ]
+  },
+   {
+    "title":"GEDEBAGE (Dari Arah Barat)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/GedeBar/"
+    ]
+  },
+ {
+    "title":"GEDEBAGE (Dari Arah Selatan)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/GedeSel/"
+    ]
+  },
+ {
+    "title":"GEDEBAGE (Dari Arah Utara)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/GedeUt/"
+    ]
+  },
+ {
+    "title":"SP SAMSAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Samsat/"
+    ]
+  },
+ {
+    "title":"SAMSAT (Dari Arah Barat)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/SamsatBar/"
+    ]
+  },
+ {
+    "title":"SP BUAHBATU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Buahbatu/"
+    ]
+  },
+ {
+    "title":"BUAH BATU (Dari Arah Timur)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/BubatTim/"
+    ]
+  },
+ {
+    "title":"BUAH BATU (Dari Arah Selatan)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/BubatSel/"
+    ]
+  },
+ {
+    "title":"BUAH BATU (Dari Arah Barat)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/BubatBar/"
+    ]
+  },
+ {
+    "title":"BATU (Dari Arah Utara)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/BubatUt/"
+    ]
+  },
+ {
+    "title":"SP BATUNUNGGAL",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Batununggal/"
+    ]
+  },
+ {
+    "title":"BATUNUNGGAL (Dari Arah Barat)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/BatuBar/"
+    ]
+  },
+ {
+    "title":"SP MOCH TOHA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/MochToha/"
+    ]
+  },
+ {
+    "title":"MOH TOHA (Dari Arah Barat )",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/TohaBar/"
+    ]
+  },
+ {
+    "title":"MOH TOHA (Dari Arah Selatan)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/TohaSel/"
+    ]
+  },
+ {
+    "title":"MOH TOHA (Dari Arah Utara)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/TohaUt/"
+    ]
+  },
+ {
+    "title":"MOH TOHA (Dari Arah Timur)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/TohaTim/"
+    ]
+  },
+ {
+    "title":"SP CIBADUYUT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Cibaduyut/"
+    ]
+  },
+ {
+    "title":"SP PASAR CARINGIN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/PasarCaringin/"
+    ]
+  },
+ {
+    "title":"SP PASIR KOJA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/PasirKoja/"
+    ]
+  },
+ {
+    "title":"PASIRKOJA (Dari Arah Selatan)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/PaskojSel/"
+    ]
+  },
+ {
+    "title":"PASIRKOJA (Dari Arah Utara)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/PaskojUt/"
+    ]
+  },
+ {
+    "title":"SP JAMIKA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Jamika/"
+    ]
+  },
+ {
+    "title":"SP GARDUJATI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Gardujati/"
+    ]
+  },
+ {
+    "title":"SP TAMBLONG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Tamblong/"
+    ]
+  },
+ {
+    "title":"SP LIMA ASIA AFRIKA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/SimpangLima/"
+    ]
+  },
+ {
+    "title":"SP TOL PASTEUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Pasteur/"
+    ]
+  },
+ {
+    "title":"PASTEUR (Dari Arah Timur)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/PasteurTim/"
+    ]
+  },
+ {
+    "title":"PASTEUR (Dari Arah Barat)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/PasteurBar/"
+    ]
+  },
+ {
+    "title":"PASTEUR (Dari Arah Utara)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/PasteurUt/"
+    ]
+  },
+ {
+    "title":"SP PASIR KALIKI BARU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/PaskalPTZ2/"
+    ]
+  },
+ {
+    "title":"SP CIPAGANTI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Cipaganti/"
+    ]
+  },
+ {
+    "title":"SP CIHAMPELAS PTZ PASTER",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/CihampelasPtz/"
+    ]
+  },
+ {
+    "title":"SP TAMANSARI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Tamansari/"
+    ]
+  },
+ {
+    "title":"SP CIKAPAYANG PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Cikapayang/"
+    ]
+  },
+ {
+    "title":"SP PAHLAWAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Pahlawan/"
+    ]
+  },
+ {
+    "title":"SP CIKUTRA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Cikutra/"
+    ]
+  },
+ {
+    "title":"SP CIMUNCANG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Cimuncang/"
+    ]
+  },
+ {
+    "title":"SP PADASUKA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Padasuka/"
+    ]
+  },
+ {
+    "title":"UJUNG BERUNG (Dari Arah Barat)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/UberBar/"
+    ]
+  },
+ {
+    "title":"UJUNG BERUNG (Dari Arah Utara)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/UberUt/"
+    ]
+  },
+ {
+    "title":"SP LINGKAR BUAHBATU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/BubatLingkar/"
+    ]
+  },
+ {
+    "title":"SP GATSU LINGKAR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/GatsuLingkar/"
+    ]
+  },
+ {
+    "title":"SP TALAGA BODAS",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/TalagaLingkar/"
+    ]
+  },
+ {
+    "title":"SP SRIWIJAYA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/SriwijayaLingkar/"
+    ]
+  },
+ {
+    "title":"SP M. RAMDAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/RamdanLingkar/"
+    ]
+  },
+ {
+    "title":"SP PT. INTI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/TohaLingkar/"
+    ]
+  },
+ {
+    "title":"SP MARTANEGARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Marling/"
+    ]
+  },
+ {
+    "title":"SP TEGALEGA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/Tegalega/"
+    ]
+  },
+ {
+    "title":"CINAMBO (Dari Arah Selatan)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/CinamboSel/"
+    ]
+  },
+ {
+    "title":"CINAMBO (Dari Arah Barat)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/CinamboBar/"
+    ]
+  },
+ {
+    "title":"SP Sunda - Veteran",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/SundaVet/"
+    ]
+  },
+ {
+    "title":"SP Sunda - Jawa",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/SundaJaw/"
+    ]
+  },
+ {
+    "title":"SP Jawa - Sumatera",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/SumJawa/stream/"
+    ]
+  },
+ {
+    "title":"SP Pasirkoja - Peta",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://atcs-dishub.bandung.go.id:1990/SimpangLimaPeta/"
+    ]
+  }
+]
