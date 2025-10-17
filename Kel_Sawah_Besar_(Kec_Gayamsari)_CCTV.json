@@ -1,0 +1,83 @@
+[
+ 
+  {
+    "title":"RW : 6 | RT : 2 (Sawah Besar)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/9127/101/2024/fbbe4747-ad21-4236-ac6c-71883eef9e51_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 6 | RT : 2 (2) (Sawah Besar)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/9127/201/2024/fbbe4747-ad21-4236-ac6c-71883eef9e51_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 6 (Sawah Besar)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5245/101/2024/34ab47f4-8f7e-4876-89da-1dd312804264_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 6 (2) (Sawah Besar)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5245/201/2024/34ab47f4-8f7e-4876-89da-1dd312804264_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 9 | RT : 2 (Sawah Besar)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5615/101/2024/7bcdb38a-086b-48a3-8c1d-7a82b026e0b3_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 9 | RT : 2 (2) (Sawah Besar)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5615/201/2024/7bcdb38a-086b-48a3-8c1d-7a82b026e0b3_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 9 | RT : 2 (3) (Sawah Besar)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5615/301/2024/7bcdb38a-086b-48a3-8c1d-7a82b026e0b3_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (Sawah Besar)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5031/101/2024/a22e165f-57c8-46d8-81ff-595a0333af7c_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (2) (Sawah Besar)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5031/201/2024/a22e165f-57c8-46d8-81ff-595a0333af7c_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (3) (Sawah Besar)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5031/301/2024/a22e165f-57c8-46d8-81ff-595a0333af7c_301.m3u8"
+    ]
+  }
+]
