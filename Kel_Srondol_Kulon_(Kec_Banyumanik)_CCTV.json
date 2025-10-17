@@ -1,0 +1,67 @@
+[
+ 
+  {
+    "title":"RW : 2 | RT : 3 (Srondol Kulon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/d6bde8ab-8351-409b-b4dd-1fb3d30e396d/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 3 (2) (Srondol Kulon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/c6e89480-c43e-44dd-89fa-1661af07a323/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 1 (Srondol Kulon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/cab20ad4-5435-4d9b-b9c0-ccfb50977e2b/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 1 (2) (Srondol Kulon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/82db41ae-73db-471a-8e30-8b4a779a49bd/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 10 | RT : 6 (Srondol Kulon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/893ad4cb-1c68-4101-8b2c-85441bc956fc/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 10 | RT : 6 (2) (Srondol Kulon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/d4870ea9-36b5-4fe7-a8b6-b17d3fc3ee5f/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 7 | RT : 1 (Srondol Kulon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/473fb074-8710-4d9e-a0f9-8a628305170e/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 7 | RT : 1 (2) (Srondol Kulon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/6d65d063-fba7-4311-9571-23ab2e30a530/index.m3u8"
+    ]
+  }
+]
