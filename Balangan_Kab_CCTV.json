@@ -1,0 +1,268 @@
+[
+ 
+  {
+    "title":"Kantor Bupati (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream001.m3u8"
+    ]
+  },
+ 
+  {
+    "title":"Depan Diskominfo (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream002.m3u8"
+    ]
+  },
+  {
+    "title":"Mesjid Al Akbar (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream003.m3u8"
+    ]
+  },
+  {
+    "title":"Simp. 3 Taman Sehati (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream004.m3u8"
+    ]
+  },
+   {
+    "title":"Simp Batu Piring (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream005.m3u8"
+    ]
+  },
+   {
+    "title":"Simp Ban Ganal (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream006.m3u8"
+    ]
+  },
+   {
+    "title":"Jembatan Paringin (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream007.m3u8"
+    ]
+  },
+   {
+    "title":"Bundaran Paringin (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream008.m3u8"
+    ]
+  },
+   {
+    "title":"Simp Pasar Paringin (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream009.m3u8"
+    ]
+  },
+   {
+    "title":"Depan Bank Kalsel (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream010.m3u8"
+    ]
+  },
+   {
+    "title":"Depan Dekranasda (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream011.m3u8"
+    ]
+  },
+   {
+    "title":"Depan Indomaret Rica (PARINGIN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream012.m3u8"
+    ]
+  },
+   {
+    "title":"Desa Bungin (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream013.m3u8"
+    ]
+  },
+   {
+    "title":"Desa Layap (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream014.m3u8"
+    ]
+  },
+   {
+    "title":"Simp 4 Gunung Pandau (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream015.m3u8"
+    ]
+  },
+   {
+    "title":"Simp 4 Kecamatan Parsel (PARINGIN SELATAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream016.m3u8"
+    ]
+  },
+   {
+    "title":"Jembatan Pasar Lampihong (LAMPIHONG)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream017.m3u8"
+    ]
+  },
+   {
+    "title":"Tugu Gula Habang (LAMPIHONG)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream018.m3u8"
+    ]
+  },
+   {
+    "title":"Simp 3 Polres (BATU MANDI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream019.m3u8"
+    ]
+  },
+   {
+    "title":"Simp 3 Desa Pudak (AWAYAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream020.m3u8"
+    ]
+  },
+   {
+    "title":"Simp 3 Arah Pasar Awayan (AWAYAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream021.m3u8"
+    ]
+  },
+   {
+    "title":"Simp 3 Kecamatan Awayan (AWAYAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream022.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang 3 Lok Batu (BATU MANDI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream023.m3u8"
+    ]
+  },
+   {
+    "title":"Simp 3 Muara Ninian (JUAI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream024.m3u8"
+    ]
+  },
+   {
+    "title":"Simp 3 Halong (HALONG)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream025.m3u8"
+    ]
+  },
+   {
+    "title":"Depan Kecamatan Batu Mandi (BATU MANDI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream026.m3u8"
+    ]
+  },
+   {
+    "title":"Simp 3 Mantimin (BATU MANDI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream027.m3u8"
+    ]
+  },
+   {
+    "title":"Jembatan POP (PARINGIN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream028.m3u8"
+    ]
+  },
+   {
+    "title":"Simp 3 Arah GM (PARINGIN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream029.m3u8"
+    ]
+  },
+   {
+    "title":"Simp Polsek Juai (JUAI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream030.m3u8"
+    ]
+  },
+   {
+    "title":"Tugu Gula Habang Lampihong (LAMPIHONG)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream031.m3u8"
+    ]
+  },
+   {
+    "title":"Simp Koramil Halong (HALONG)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream032.m3u8"
+    ]
+  },
+   {
+    "title":"Simp 3 Bihara (AWAYAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.balangankab.go.id/streams/stream033.m3u8"
+    ]
+  }
+]
