@@ -1,0 +1,357 @@
+[
+ 
+  {
+    "title":"Depan Mako Polres Purwakarta",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/depan-mako-polres.m3u8"
+    ]
+  }, 
+{
+    "title":"Gapura Pemda",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/gapura-pemda.m3u8"
+    ]
+  }, 
+{
+   "title":"Gapura Pemda 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/gapura-pemda-2.m3u8"
+    ]
+  }, 
+
+{
+    "title":"Gerbang Mayadatar Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/gerbang-mayadatar-timur.m3u8"
+    ]
+  }, 
+
+{
+    "title":"Gerbang Mayadatar Timur 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/gerbang-mayadatar-timur-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Halte Usman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/halte-usman.m3u8"
+    ]
+  }, 
+{
+    "title":"Halte Usman 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/halte-usman-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Patung Tugu Kecelakaan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/patung-tugu-kecelakaan.m3u8"
+    ]
+  }, 
+{
+    "title":"Patung Tugu Kecelakaan 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/patung-tugu-kecelakaan-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Perempatan Ciganea",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/perempatan-ciganea.m3u8"
+    ]
+  }, 
+{
+    "title":"Perempatan Haji Iming",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/perempatan-haji-iming.m3u8"
+    ]
+  }, 
+{
+    "title":"Perempatan Parcom",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/perempatan-parcom.m3u8"
+    ]
+  }, 
+{
+    "title":"Perempatan Pasar Jumat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/perempatan-pasar-jumat.m3u8"
+    ]
+  }, 
+{
+    "title":"Perempatan Pemda",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/perempatan-pemda.m3u8"
+    ]
+  }, 
+{
+    "title":"Perempatan Pemda 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/perempatan-pemda-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Perempatan Pemda 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/perempatan-pemda-3.m3u8"
+    ]
+  }, 
+{
+    "title":"Perempatan Sadang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/perempatan-sadang.m3u8"
+    ]
+  }, 
+{
+    "title":"Perempatan Sudirman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/perempatan-sudirman.m3u8"
+    ]
+  }, 
+{
+    "title":"Perempatan Sudirman 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/perempatan-sudirman-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Pertigaan Disduk Umama",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/pertigaan-disduk-umama.m3u8"
+    ]
+  }, 
+{
+    "title":"Pertigaan Gentong",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/pertigaan-gentong.m3u8"
+    ]
+  }, 
+{
+    "title":"Pertigaan Gentong 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/pertigaan-gentong-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Pertigaan Golden Futsal",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/pertigaan-golden-futsal.m3u8"
+    ]
+  }, 
+{
+    "title":"Pertigaan Golden Futsal 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/pertigaan-golden-futsal-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Pertigaan Patung Egrang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/pertigaan-patung-egrang.m3u8"
+    ]
+  }, 
+{
+    "title":"Pertigaan Patung Egrang 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/pertigaan-patung-egrang-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Pertigaan Sasak Beusi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/pertigaan-sasak-beusi.m3u8"
+    ]
+  }, 
+{
+    "title":"Pertigaan Sasak Beusi 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/pertigaan-sasak-beusi-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Pertigaan Telkom",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/pertigaan-telkom.m3u8"
+    ]
+  }, 
+{
+    "title":"Pertigaan Telkom 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/pertigaan-telkom-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Pintu Timur Situ Buleud",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/pintu-timur-situ-buleud.m3u8"
+    ]
+  }, 
+{
+    "title":"Pintu Timur Situ Buleud 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/pintu-timur-situ-buleud-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Rel Kereta Api Simpang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/rel-kereta-api-simpang.m3u8"
+    ]
+  }, 
+{
+    "title":"Rel Kereta Api Simpang 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/rel-kereta-api-simpang-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Simpang Jalan Kopi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/simpang-jalan-kopi.m3u8"
+    ]
+  }, 
+{
+    "title":"Simpang Jalan Kopi 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/simpang-jalan-kopi-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Simpang SMPN 5 Purwakarta",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/simpang-smpn-5-purwakarta.m3u8"
+    ]
+  }, 
+{
+    "title":"Simpang SMPN 5 Purwakarta 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/simpang-smpn-5-purwakarta-2.m3u8"
+    ]
+  }, 
+{
+    "title":"STIE Wikara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/stie-wikara.m3u8"
+    ]
+  }, 
+{
+    "title":"STIE Wikara 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/stie-wikara-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Taman Pasanggrahan Padjadjaran",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/taman-pasanggrahan-padjadjaran.m3u8"
+    ]
+  }, 
+{
+    "title":"Taman Sribaduga 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/taman-sribaduga-2.m3u8"
+    ]
+  }, 
+{
+    "title":"Tikungan BKPSDM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/tikungan-bkpsdm.m3u8"
+    ]
+  }, 
+{
+    "title":"Tikungan BKPSDM 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.purwakartakab.go.id/streams/tikungan-bkpsdm-2.m3u8"
+    ]
+  }
+]
