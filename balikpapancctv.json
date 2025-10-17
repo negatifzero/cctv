@@ -1,0 +1,450 @@
+[
+ {
+    "title":"DEPAN STADION BATAKAN KAMERA FIX",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/DEPAN_STADION_BATAKAN_KAMERA_FIX.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASAR BUTON PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_PASAR_BUTON_PTZ.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASAR BUTON FIX",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/PASAR_BUTON_FIX.m3u8"
+    ]
+  },
+   {
+    "title":"SP STRAAT 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_STRAAT_3.m3u8"
+    ]
+  },
+   {
+    "title":"SP STRAAT 3 FIX ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_STRAAT_3_FIX.m3u8"
+    ]
+  },
+   {
+    "title":"SP STRAAT 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_STRAAT_1.m3u8"
+    ]
+  },
+   {
+    "title":"SP STRAAT 1 FIX",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_STRAAT_1_FIX.m3u8"
+    ]
+  },
+   {
+    "title":"SP PERTAMINA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_PERTAMINA_PTZ.m3u8"
+    ]
+  },
+   {
+    "title":"SP PERTAMINA FIX 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_PERTAMINA_FIX_1.m3u8"
+    ]
+  },
+   {
+    "title":"SP PERTAMINA FIX 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_PERTAMINA_FIX_2.m3u8"
+    ]
+  },
+   {
+    "title":"SP PERTAMINA FIX 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_PERTAMINA_FIX_3.m3u8"
+    ]
+  },
+   {
+    "title":"KTL DEPAN DPRD",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/KTL_DEPAN_DPRD.m3u8"
+    ]
+  },
+   {
+    "title":"SP BELLER",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_BELLER_PTZ.m3u8"
+    ]
+  },
+   {
+    "title":"CCTV TUGU JAM FIX 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/TUGU_JAM_FIX_2.m3u8"
+    ]
+  },
+   {
+    "title":"CCTV TUGU JAM FIX 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/TUGU_JAM_FIX_3.m3u8"
+    ]
+  },
+   {
+    "title":"SP KARGO BANDARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_KARGO_BANDARA.m3u8"
+    ]
+  },
+   {
+    "title":"SP KARGO BANDARA KAMERA FIX",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_KARGO_BANDARA_KAMERA_FIX.m3u8"
+    ]
+  },
+   {
+    "title":"DEPAN BANDARA ARAH TUGU KB",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/DEPAN_BANDARA_ARAH_TUGU_KB.m3u8"
+    ]
+  },
+   {
+    "title":"PERUM REGENCY ARAH KORPRI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/PERUM_REGENCY_FIX_1.m3u8"
+    ]
+  },
+   {
+    "title":"DEPAN REGENCY ARAH POLDA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/PERUM_DEPAN_REGENCY_FIX_2.m3u8"
+    ]
+  },
+   {
+    "title":"CCTV SP MARKONI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/markoni.m3u8"
+    ]
+  },
+   {
+    "title":"CCTV MARKONI FIX",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/MARKONI_FIX.m3u8"
+    ]
+  },
+   {
+    "title":"SP MARKONI FIX 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_MARKONI_FIX_2.m3u8"
+    ]
+  },
+   {
+    "title":"SP LE GRANDEUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/le_grandeur.m3u8"
+    ]
+  },
+   {
+    "title":"SP DAMAI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/damai.m3u8"
+    ]
+  },
+   {
+    "title":"SP DAMAI FIX",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/DAMAI_FIX.m3u8"
+    ]
+  },
+   {
+    "title":"SP GUNUNG MALANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/gn_malang.m3u8"
+    ]
+  },
+   {
+    "title":"SP GUNUNG MALANG FIX",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_GUNUNG_MALANG_FIX.m3u8"
+    ]
+  },
+   {
+    "title":"SP RAPAK 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/RAPAK_FIX3.m3u8"
+    ]
+  },
+   {
+    "title":"CCTV KORPRI 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/KORPRI_FIX1.m3u8"
+    ]
+  },
+   {
+    "title":"SP BALIKPAPAN BARU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/bpn_ptz.m3u8"
+    ]
+  },
+   {
+    "title":"SP BALIKPAPAN BARU FIX 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/bnb_fix1.m3u8"
+    ]
+  },
+   {
+    "title":"SP BALIKPAPAN BARU FIX 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/bnb_fix2.m3u8"
+    ]
+  },
+   {
+    "title":"SP LAB COAL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/lab_coal.m3u8"
+    ]
+  },
+   {
+    "title":"SP TUGU KB",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/tugu_kb.m3u8"
+    ]
+  },
+   {
+    "title":"SP PUSKIB",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/puskip.m3u8"
+    ]
+  },
+   {
+    "title":"KTL RUHUI RAHAYU 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/KTL_RUHUI_RAHAYU1.m3u8"
+    ]
+  },
+   {
+    "title":"KTL RUHUI RAHAYU 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/KTL_RUHUI_RAHAYU2.m3u8"
+    ]
+  },
+   {
+    "title":"KTL RUHUI RAHAYU 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/KTL_RUHUI_RAHAYU3.m3u8"
+    ]
+  },
+   {
+    "title":"KTL SUDIRMAN 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/KTL_2_SUDIRMAN.m3u8"
+    ]
+  },
+   {
+    "title":"KTL SUDIRMAN 2 FIX",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/KTL_SUDIRMAN_2_FIX.m3u8"
+    ]
+  },
+   {
+    "title":"KTL SUDIRMAN 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/KTL_3_SUDIRMAN.m3u8"
+    ]
+  },
+   {
+    "title":"KTL SUDIRMAN 4",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/KTL_4_SUDIRMAN.m3u8"
+    ]
+  },
+   {
+    "title":"SP WIKA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_WIKA.m3u8"
+    ]
+  },
+   {
+    "title":"SP WIKA FIX",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_WIKA_FIX.m3u8"
+    ]
+  },
+   {
+    "title":"SP BATU AMPAR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_BATU_AMPAR.m3u8"
+    ]
+  },
+   {
+    "title":"SP PATIMURA BATU AMPAR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_PATIMURA_1.m3u8"
+    ]
+  },
+   {
+    "title":"SP PERUMNAS",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_PERUMNAS.m3u8"
+    ]
+  },
+   {
+    "title":"TANJAKAN MAZDA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/TANJAKAN_MAZDA.m3u8"
+    ]
+  },
+   {
+    "title":"SP KARIANGAU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_KARIANGAU.m3u8"
+    ]
+  },
+   {
+    "title":"SP KARIANGAU FIX",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/KARIANGAU_FIX.m3u8"
+    ]
+  },
+   {
+    "title":"SP KEBUN SAYUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_KEBUN_SAYUR.m3u8"
+    ]
+  },
+   {
+    "title":"SP KEBUN SAYUR FIX 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_KEBUN_SAYUR_FIX_1.m3u8"
+    ]
+  },
+   {
+    "title":"SP KEBUN SAYUR FIX 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_KEBUN_SAYUR_FIX_2.m3u8"
+    ]
+  },
+   {
+    "title":"SP GRANDCITY PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/SP_GRANDCITY_PTZ.m3u8"
+    ]
+  },
+   {
+    "title":"SP GRANDCITY FIX",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.144.82.251/camera/GRANDCITY_FIX.m3u8"
+    ]
+  }
+]
