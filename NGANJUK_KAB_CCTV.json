@@ -1,0 +1,579 @@
+[
+
+{
+    "title":"PLOSO BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Ploso/streams/HYPcZCTJkzyuqQwj1693902775048.m3u8"
+    ]
+  },
+{
+    "title":"PLOSO SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Ploso/streams/D6r01kcb7YWrHf0f1693903095709.m3u8"
+    ]
+  },
+{
+    "title":"POS TAMAN NYAWIJI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/TamanNyawiji/streams/71tF7VInlntvKNM21693982595056.m3u8"
+    ]
+  },
+{
+    "title":"TAMAN NYAWIJI SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/TamanNyawiji/streams/vyhoZBV83qVQGcvt1693982466217.m3u8"
+    ]
+  },
+{
+    "title":"TAMAN NYAWIJI DALAM SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/TamanNyawiji/streams/hP2k7TRrlmSrjRhb1693982651421.m3u8"
+    ]
+  },
+{
+    "title":"TAMAN NYAWIJI DALAM UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/TamanNyawiji/streams/qmPuTgFzpK9k0rYN1693982720008.m3u8"
+    ]
+  },
+{
+    "title":"TAMAN NYAWIJI UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/TamanNyawiji/streams/nl02Kc9PMH2BOCEE1693982380258.m3u8"
+    ]
+  },
+{
+    "title":"TAMAN NYAWIJI PARKIRAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/TamanNyawiji/streams/j0k3iojpdJzTswwj1693982830485.m3u8"
+    ]
+  },
+{
+    "title":"TAMAN NYAWIJI TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/TamanNyawiji/streams/OJ7dBoSB9i1P1UIW1693982411058.m3u8"
+    ]
+  },
+{
+    "title":"WINONG UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Winong/streams/gy7YpTJqn3EwTuiM1693982245715.m3u8"
+    ]
+  },
+{
+    "title":"WINONG SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Winong/streams/njWshtbkkW0QgRXQ1693982261323.m3u8"
+    ]
+  },
+{
+    "title":"PASAR BARU SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/PasarBaru/streams/zbhJZpydfCsXY4p31693982653293.m3u8"
+    ]
+  },
+{
+    "title":"PASAR BARU BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/PasarBaru/streams/XisQsaHWgl22fDyC1693982606338.m3u8"
+    ]
+  },
+{
+    "title":"PASAR BARU UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/PasarBaru/streams/5vliEKp5Q6LjahvL1693982570705.m3u8"
+    ]
+  },
+{
+    "title":"ALUN-ALUN UTARA 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AlunAlun/streams/nrQUpkDhhf0re79F1693955822842.m3u8"
+    ]
+  },
+{
+    "title":"ALUN-ALUN UTARA 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AlunAlun/streams/LPEEFaKO2cGzFBr91693956088386.m3u8"
+    ]
+  },
+{
+    "title":"ALUN-ALUN SELATAN 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AlunAlun/streams/vk4ejE9IxCPw4vhT1693956187753.m3u8"
+    ]
+  },
+{
+    "title":"SMPN 1 BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AlunAlun/streams/DQ3wfSR0zBSpsw281693902559387.m3u8"
+    ]
+  },
+{
+    "title":"ALUN-ALUN UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AlunAlun/streams/La0yXxu4BhN81khi1693976599169.m3u8"
+    ]
+  },
+{
+    "title":"ALUN-ALUN TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AlunAlun/streams/s6taGsAh5sbExjsr1698981384811.m3u8"
+    ]
+  },
+{
+    "title":"ALUN-ALUN SELATAN 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AlunAlun/streams/OJ0AY4hTW4W6DWuw1693955937342.m3u8"
+    ]
+  },
+{
+    "title":"ALUN-ALUN BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AlunAlun/streams/3woxjRaN95FEA4nN1718862114953.m3u8"
+    ]
+  },
+{
+    "title":"SMPN 1 TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AlunAlun/streams/8Vq88GLBwS57xO1A1693955711937.m3u8"
+    ]
+  },
+{
+    "title":"ALUN-ALUN TUGU 20",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AlunAlun/streams/6VXPwYxHz2rXaSey1693976820982.m3u8"
+    ]
+  },
+{
+    "title":"ALUN-ALUN LAPANGAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AlunAlun/streams/5rj8NMTNdHc0rv4I1693976899377.m3u8"
+    ]
+  },
+{
+    "title":"A.YANI JAYASTAMBA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AYani/streams/5vFg7g6brwnHnbhG1693983503295.m3u8"
+    ]
+  },
+{
+    "title":"A.YANI TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AYani/streams/7zA33zFSICQtus7n1693983396973.m3u8"
+    ]
+  },
+{
+    "title":"A.YANI BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AYani/streams/AgcTTWJmQI8B0wcH1693983454021.m3u8"
+    ]
+  },
+{
+    "title":"SLUMBUNG UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Slumbung/streams/z5MBDm3eUylvnsIW1693982855991.m3u8"
+    ]
+  },
+{
+    "title":"SLUMBUNG SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Slumbung/streams/Y2btIxqaxGF8ejOU1693982893074.m3u8"
+    ]
+  },
+{
+    "title":"DONGDET TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Dungdet/streams/raoiga9f7rTOPfjE1693984341261.m3u8"
+    ]
+  },
+{
+    "title":"DONGDET BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Dungdet/streams/1dJCdvcmDwwFwKid1693984300107.m3u8"
+    ]
+  },
+{
+    "title":"GANUNG KIDUL SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Ganung/streams/7AgWymFbmOGarBjF1693983992717.m3u8"
+    ]
+  },
+{
+    "title":"GANUNG KIDUL BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Ganung/streams/VAqju3h5DACPSufg1693983920270.m3u8"
+    ]
+  },
+{
+    "title":"GANUNG KIDUL TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Ganung/streams/KpbIbG2yDJvXMJIv1693984071530.m3u8"
+    ]
+  },
+{
+    "title":"GANUNG KIDUL UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Ganung/streams/CZAQTyC4WRS0sADj1711521906371.m3u8"
+    ]
+  },
+{
+    "title":"MASTRIP TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Mastrip/streams/g87LxvRqfaORjC2a1693984476007.m3u8"
+    ]
+  },
+{
+    "title":"MASTRIP SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Mastrip/streams/rOg3grNoqfJgrqxq1693984513042.m3u8"
+    ]
+  },
+{
+    "title":"PERTIGAAN MUSTIKA SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Mustika/streams/QHEsLSnpwW2ACyML1693984725448.m3u8"
+    ]
+  },
+{
+    "title":"PERTIGAAN MUSTIKA UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Mustika/streams/Sq3oQGSdMovVO2u01693984794198.m3u8"
+    ]
+  },
+{
+    "title":"PERTIGAAN MUSTIKA TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Mustika/streams/absYZC6PZWr4qGf91693984654247.m3u8"
+    ]
+  },
+{
+    "title":"DAM TANJUNG UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/DamTanjung/streams/BDfPGCxfctEJQ4Tp1711080589646.m3u8"
+    ]
+  },
+{
+    "title":"DAM TANJUNG SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/DamTanjung/streams/Hu47sIiA3RN07pdG1711080637302.m3u8"
+    ]
+  },
+{
+    "title":"SIMPANG RSI UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/PertigaanRSI/streams/Joc4qZ5f70QN6cHe1711080777722.m3u8"
+    ]
+  },
+{
+    "title":"SIMPANG RSI SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/PertigaanRSI/streams/hX8vUYdpU5hydRur1711080871764.m3u8"
+    ]
+  },
+{
+    "title":"SIMPANG RSI BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/PertigaanRSI/streams/WM4tNe7lbZI4QwT01711080940545.m3u8"
+    ]
+  },
+{
+    "title":"ADIPURA GATSU UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AdipuraGatsu/streams/LQ0RQGuKlRWso4wf1711416820592.m3u8"
+    ]
+  },
+{
+    "title":"ADIPURA GATSU SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AdipuraGatsu/streams/BdwV5rWSq0Ys8oJm1711417026258.m3u8"
+    ]
+  },
+{
+    "title":"ADIPURA GATSU BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/AdipuraGatsu/streams/zbiLa9e1Hfgjjk3S1711416912597.m3u8"
+    ]
+  },
+{
+    "title":"KUNCIR UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Kuncir/streams/Jn53GIS5J8iAOIkT1711429647238.m3u8"
+    ]
+  },
+{
+    "title":"KUNCIR TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Kuncir/streams/5ShlOmCGAk3pl1Xv1711429708954.m3u8"
+    ]
+  },
+{
+    "title":"KUNCIR BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Kuncir/streams/DS3ZllobiejPJmHy1711429751359.m3u8"
+    ]
+  },
+{
+    "title":"PASAR SUKOMORO BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/PasarSukomoro/streams/A5wi1bgyVti1mWba1711937120689.m3u8"
+    ]
+  },
+{
+    "title":"PASAR SUKOMORO SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/PasarSukomoro/streams/Ggt9UxrMuoT8hMqt1711937163230.m3u8"
+    ]
+  },
+{
+    "title":"PASAR SUKOMORO TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/PasarSukomoro/streams/criPct3TiQeoWic01711937191759.m3u8"
+    ]
+  },
+{
+    "title":"KERTOSONO BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/SimpangKertosono/streams/kq1pv2ZqO5uwBy401712284057750.m3u8"
+    ]
+  },
+{
+    "title":"KERTOSONO SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/SimpangKertosono/streams/iFqIxu5z1Z8qm6sO1712286664672.m3u8"
+    ]
+  },
+{
+    "title":"KERTOSONO UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/SimpangKertosono/streams/ismtk9pLyZmIh6yi1712284190526.m3u8"
+    ]
+  },
+{
+    "title":"KERTOSONO TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/SimpangKertosono/streams/CxtJpFVmGil31sGs1712284145172.m3u8"
+    ]
+  },
+{
+    "title":"PERTIGAAN SELATAN DESA KUNCIR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Kuncir/streams/DgDdVpexXNyXT0Z31718163186635.m3u8"
+    ]
+  },
+{
+    "title":"TL PASAR LENGKONG SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Lengkong/streams/mN8Gwz4E54LB0Prn1718350807272.m3u8"
+    ]
+  },
+{
+    "title":"SPBU LENGKONG UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Lengkong/streams/enUpWfTH2S9b4Lo91718351105414.m3u8"
+    ]
+  },
+{
+    "title":"SPBU LENGKONG BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Lengkong/streams/KFcD0nGT01tnIAN51718351334370.m3u8"
+    ]
+  },
+{
+    "title":"SIMPANG 3 PKM TIMUR LENGKONG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Lengkong/streams/FdG7Q8H4bxUHDyrp1718350495777.m3u8"
+    ]
+  },
+{
+    "title":"SIMPANG 3 PKM UTARA LENGKONG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Lengkong/streams/1ZyaEYbcaavtTYzj1718350621567.m3u8"
+    ]
+  },
+{
+    "title":"PERTIGAAN TIMUR DESA KUNCIR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Kuncir/streams/qT2mWX7zJH3BGLL11718947507408.m3u8"
+    ]
+  },
+{
+    "title":"BALAI DESA KUNCIR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Kuncir/streams/tQICmEGvnhvhuWbd1718162942565.m3u8"
+    ]
+  },
+{
+    "title":"DEPAN KANTOR BALAI DESA KUNCIR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/Kuncir/streams/QYXbPCzweWIhKBD41718163032565.m3u8"
+    ]
+  },
+{
+    "title":"MPP DALAM -2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/MallPelayananPublik/streams/sMHxtXSFtsg2qs1W1720059051180.m3u8"
+    ]
+  },
+{
+    "title":"MPP DALAM-1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/MallPelayananPublik/streams/6dvDue3LabsXrjMd1720059214056.m3u8"
+    ]
+  },
+{
+    "title":"MPP DALAM-3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/MallPelayananPublik/streams/1zXdvQSTB3x7BUUG1720059290110.m3u8"
+    ]
+  },
+{
+    "title":"MPP DALAM-4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://wxyz.nganjukkab.go.id/MallPelayananPublik/streams/YUZpXMPc6vTskojS1720059372695.m3u8"
+    ]
+  }
+]
