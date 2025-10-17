@@ -1,0 +1,280 @@
+[
+ 
+ {
+    "title":"SP BATUNUNGGAL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spbatununggal.m3u8"
+    ]
+  },
+ {
+    "title":"SP BUAHBATU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spbuahbatu.m3u8"
+    ]
+  },
+ {
+    "title":"SP CIBADUYUT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spcibaduyut.m3u8"
+    ]
+  },
+ 
+ {
+    "title":"SP CIHAMPELAS PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spcihampelas.m3u8"
+    ]
+  },
+ {
+    "title":"SP CIHAPIT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spcipahit.m3u8"
+    ]
+  },
+ {
+    "title":"SP CIKAPAYANG PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spcikapayang.m3u8"
+    ]
+  },
+ {
+    "title":"SP CIKUTRA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spcikutra.m3u8"
+    ]
+  },
+ {
+    "title":"SP CIMUNCANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spcimuncang.m3u8"
+    ]
+  },
+ {
+    "title":"SP CIPAGANTI PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spcipaganti.m3u8"
+    ]
+  },
+ {
+    "title":"SP Gardujati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spgardujati.m3u8"
+    ]
+  },
+ {
+    "title":"SP GATSU LINGKAR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spgatsu.m3u8"
+    ]
+  },
+ {
+    "title":"SP GUDANG UTARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spgdutara.m3u8"
+    ]
+  },
+
+ {
+    "title":"SP LIMA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/splima.m3u8"
+    ]
+  },
+ {
+    "title":"SP LINGKAR BUAHBATU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/splingkarbubat.m3u8"
+    ]
+  },
+
+ {
+    "title":"SP MARTANEGARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spmartanegara.m3u8"
+    ]
+  },
+ {
+    "title":"SP MERDEKA ACEH",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spmerdekaaceh.m3u8"
+    ]
+  },
+ {
+    "title":"SP MOCH TOHA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spmohtoha.m3u8"
+    ]
+  },
+ {
+    "title":"SP M. RAMDHAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spmramdhan.m3u8"
+    ]
+  },
+ {
+    "title":"SP OTISTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spotista.m3u8"
+    ]
+  },
+ {
+    "title":"SP PADASUKA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/sppadasuka.m3u8"
+    ]
+  },
+ {
+    "title":"SP PAHLAWAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/sppahlawan.m3u8"
+    ]
+  },
+
+ {
+    "title":"SP PASAR CARINGIN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spcaringin.m3u8"
+    ]
+  },
+ {
+    "title":"SP PASIR KALIKI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/sppasirkalikii.m3u8"
+    ]
+  },
+ 
+ {
+    "title":"SP PT. INTI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spptinti.m3u8"
+    ]
+  },
+ {
+    "title":"SP Riau Pengadilan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spgardujati.m3u8"
+    ]
+  },
+ {
+    "title":"SP SAMSAT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/samsat.m3u8"
+    ]
+  },
+ {
+    "title":"SP SRIWIJAYA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spsriwijaya.m3u8"
+    ]
+  },
+ {
+    "title":"SP SUNDA-VETERAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/spsundavet.m3u8"
+    ]
+  },
+ {
+    "title":"SP TALAGA BODAS",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/sptalagabodas.m3u8"
+    ]
+  },
+ {
+    "title":"SP TAMANSARI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/sptamansari.m3u8"
+    ]
+  },
+ {
+    "title":"SP TAMBLONG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/sptamblong.m3u8"
+    ]
+  },
+ {
+    "title":"SP TEGALEGA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/sptegalega.m3u8"
+    ]
+  },
+ {
+    "title":"SP TELKOM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/sptelkom.m3u8"
+    ]
+  },
+ {
+    "title":"SP TOL PASTEUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DISHUB/sppasteur.m3u8"
+    ]
+  }
+]
