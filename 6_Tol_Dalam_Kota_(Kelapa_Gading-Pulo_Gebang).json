@@ -1,0 +1,74 @@
+[ 
+  {
+    "title":"23+150",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://camera.jtd.co.id/camera/share/tios/2/27/index.m3u8"
+    ]
+  },
+{
+    "title":"24+150",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://camera.jtd.co.id/camera/share/tios/2/25/index.m3u8"
+    ]
+  },
+{
+    "title":"25+540",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://camera.jtd.co.id/camera/share/tios/2/80/index.m3u8"
+    ]
+  },
+{
+    "title":"26+800",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://camera.jtd.co.id/camera/share/tios/2/20/index.m3u8"
+    ]
+  },
+{
+    "title":"27+100",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://camera.jtd.co.id/camera/share/tios/2/19/index.m3u8"
+    ]
+  },
+{
+    "title":"28+150",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://camera.jtd.co.id/camera/share/tios/1/61/index.m3u8"
+    ]
+  },
+{
+    "title":"28+600",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://camera.jtd.co.id/camera/share/tios/2/20/index.m3u8"
+    ]
+  },
+{
+    "title":"GERBANG TOL CAKUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://camera.jtd.co.id/camera/share/tios/2/81/index.m3u8"
+    ]
+  },
+{
+    "title":"ON RAMP BEKASI (28+150)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://camera.jtd.co.id/camera/share/tios/2/20/index.m3u8"
+    ]
+  }
+]
