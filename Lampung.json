@@ -1,0 +1,881 @@
+hapus=> https://kanghen10.github.io/WebRTC_player/#
+
+langsung akses=> https://stream.lihatcctv.com/stream/01982b1d-faf1-72f7-94e0-423ffc069e31
+
+[
+{
+    "title":"Tugu Adipura",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01982b1d-faf1-72f7-94e0-423ffc069e31"
+    ]
+  },
+{
+    "title":"Tugu Adipura 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196aec1-1676-7262-9982-46fe2ca262bb"
+    ]
+  },
+{
+    "title":"Tugu Adipura 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836d7-79ab-7028-8c35-629040097228"
+    ]
+  },
+{
+    "title":"Tugu Juang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196eb9d-2e1a-72cb-babc-0a2c2d573152"
+    ]
+  },
+{
+    "title":"Pemkot Lampung",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ebd3-f25d-73f0-89b1-1685140006ea"
+    ]
+  },
+{
+    "title":"Simpang 3 RA Basyid",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ebd8-3acb-71b3-9f6e-ba47274a9755"
+    ]
+  },
+{
+    "title":"Stasiun Tanjung Karang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ebdb-cd7f-7033-93a1-77ba876e961c"
+    ]
+  },
+{
+    "title":"Simpang ITERA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ebdf-efdd-7307-adfa-b0273b207a09"
+    ]
+  },
+{
+    "title":"PKOR Way Halim",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ec00-56c8-72fe-914b-706dca06c154"
+    ]
+  },
+{
+    "title":"Jl. Wolter M (Gubernuran)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ae7b-0d1e-7197-813d-1deedb6cf843"
+    ]
+  },
+{
+    "title":"Mall Bumi Kedaton (MBK)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ec03-7f7e-71b5-85d6-9aba0f9a00c0"
+    ]
+  },
+{
+    "title":"Simpang Pasar Tugu",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ec06-790d-7159-a125-d4b14ddd7d90"
+    ]
+  },
+{
+    "title":"Jl. Antasari Simpang Moro",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ec07-b622-7190-b55a-8e4a1cfc6453"
+    ]
+  },
+{
+    "title":"JL. Gajah Mada",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ec08-5cdd-7182-a34d-cad58f73db51"
+    ]
+  },
+{
+    "title":"Simpang Lungsir (Masjid Al-Furqon)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ec09-42e7-732f-95dd-78190e7ce338"
+    ]
+  },
+{
+    "title":"Raden Intan - Pangkal Pinang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196f291-10b1-7098-86d0-ad97610abce1"
+    ]
+  },
+{
+    "title":"Simpang Gereja HKBP",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196f293-008f-7354-b039-e3635909cf2c"
+    ]
+  },
+{
+    "title":"Simpang Tugu Bambu Jl.G.Mada (BPK Penabur)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196f293-ca93-72b5-8b55-239d6272cb54"
+    ]
+  },
+{
+    "title":"Jl. Jend. Sudirman - Jl. M. Yamin",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196f294-65a9-70b5-b40f-e0210ce08c15"
+    ]
+  },
+{
+    "title":"Simpang MH Thamrin Monginsidi",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196f295-1106-7032-8285-d083018cc3c3"
+    ]
+  },
+{
+    "title":"Fly Over Kemiling",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196f295-b473-71ea-ba3c-c5965395fd9c"
+    ]
+  },
+{
+    "title":"Bawah Fly Over 1 (Imam Bonjol)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ebe2-56e9-705d-8690-819d65bc2580"
+    ]
+  },
+{
+    "title":"Bawah Fly Over 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ebe1-8543-7001-b4cc-2bc1558ca4de"
+    ]
+  },
+{
+    "title":"Pintu Masuk Terminal Rajabasa",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196f296-c238-7104-a24e-11a5a0a45597"
+    ]
+  },
+{
+    "title":"Jl. P Emir M Noer - Cut Nyak Dien",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196f297-f7e7-7141-9e35-00272f62c35e"
+    ]
+  },
+{
+    "title":"Simpang Gramedia",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970ab6-0394-7130-9c8e-32901364dc66"
+    ]
+  },
+{
+    "title":"Pintu Masuk Lapangan Saburai",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01983687-8dc1-73dd-947b-031139e2c3e3"
+    ]
+  },
+{
+    "title":"PERUM POLDA BAYPASS",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970ab6-ca43-711e-b49f-2b7ac3f8ff66"
+    ]
+  },
+{
+    "title":"Simpang BKP",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970ab7-e6af-73d8-b415-fddf2f3e03b2"
+    ]
+  },
+{
+    "title":"Jl. Jend. Sudirman (Puti Minang Pahoman)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970ab8-863a-72c8-a166-f1f5af745e26"
+    ]
+  },
+{
+    "title":"Bundaran Raden Intan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970ab9-3fe0-7349-be3f-cf619954d11e"
+    ]
+  },
+{
+    "title":"Terminal Rajabasa",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970ab9-e1da-7139-9383-e325aec2d881"
+    ]
+  },
+{
+    "title":"Simpang Sukarame",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970aba-893b-715f-a231-10c75f86c8e1"
+    ]
+  },
+{
+    "title":"JL. Soekarno Hatta - Jl. Putri Dibalau",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01983691-189f-71d3-b6cb-3abafd8ce983"
+    ]
+  },
+{
+    "title":"Dinas Kesehatan Provinsi",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970abb-19ad-71a7-b73d-ed6f3865286f"
+    ]
+  },
+{
+    "title":"Simpang Pasar Kota Karang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836e2-a51b-704c-96e2-e216ac45c7ef"
+    ]
+  },
+{
+    "title":"PERPUTARAN SMA 5 Way Halim",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970abc-34bc-713d-aadc-29186817e416"
+    ]
+  },
+{
+    "title":"Jl. RYA CUDU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970abc-e182-715f-b298-a17f127e3fae"
+    ]
+  },
+{
+    "title":"Simpang Universitas Saburai",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970abd-a408-7084-a713-a9a1ba04bc56"
+    ]
+  },
+{
+    "title":"Terminal Kemiling",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970abe-1d0c-72a8-961a-a8c2a1f38877"
+    ]
+  },
+{
+    "title":"Simpang Kejati",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970abe-95b4-72d7-91a3-9e22d0691e42"
+    ]
+  },
+{
+    "title":"JL P Legundi -  Tirtayasa",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970abf-55cc-73e0-a0db-2359d19c1007"
+    ]
+  },
+{
+    "title":"Mall Kartini",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01970ff4-f400-72e1-ae58-e3c5a459dc87"
+    ]
+  },
+{
+    "title":"Teuku Umar - Makam Pahlawan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01983645-2a09-70a9-a93a-e263139a799e"
+    ]
+  },
+{
+    "title":"Simpang Kupang Begadang (JL Dipenogoro - Warsito)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836a2-9f36-726e-8ef8-fc7525c5e016"
+    ]
+  },
+{
+    "title":"JL Gatot Subroto - Yos Sudarso",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836a3-d5ee-70f3-aa5a-f4d43f9173c9"
+    ]
+  },
+{
+    "title":"JL WR Mongonsidi",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836a5-1981-729e-bf14-b8dc90562a2e"
+    ]
+  },
+{
+    "title":"JL R Intan - Kamboja",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836a6-3c7e-71dd-949b-420b87c6a128"
+    ]
+  },
+{
+    "title":"JL ZA Pagar Alam",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836a8-85c1-731a-93cf-8aeedcfea2ef"
+    ]
+  },
+{
+    "title":"JL Mongonsidi -  R Said (Thamrin - Dipenogoro)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836a9-d382-7008-b796-d40bfe4c8878"
+    ]
+  },
+{
+    "title":"Simpang Brimob (JL Gajah Mada - KS Tubun)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836ab-c123-71fa-998c-ef0bc4c1ed0c"
+    ]
+  },
+{
+    "title":"JL Dipenogoro - Cut Mutia",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836ac-c806-7118-bff9-ba03db42cc1a"
+    ]
+  },
+{
+    "title":"Under Pass UNILA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836af-6973-72d3-97f8-8792ad14c807"
+    ]
+  },
+{
+    "title":"Pos Kota TBS",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836b0-5ecd-7276-898c-9aa168957eae"
+    ]
+  },
+{
+    "title":"Simpang Teluk ABN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836b1-8181-73f2-ba05-8581addd7c4b"
+    ]
+  },
+{
+    "title":"WR Supratman - A Dahlan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836b3-0e68-71ba-b238-5e0c08f6b945"
+    ]
+  },
+{
+    "title":"DPRD Kota",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836b4-12b1-7362-b6f5-a062263edeaa"
+    ]
+  },
+{
+    "title":"P Emir M Noer - Tamin",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836b6-47dd-7023-8216-a2ee9d63948d"
+    ]
+  },
+{
+    "title":"JL Sultan Agung (Transmart)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836b7-653a-700a-befe-58ebdb21fb96"
+    ]
+  },
+{
+    "title":"JL Sultan Agung (PKOR)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836b8-6009-73bb-8efc-73d7d91fb532"
+    ]
+  },
+{
+    "title":"Pasar Panjang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836b9-4a43-712d-9ac9-e447ddc4fd2d"
+    ]
+  },
+{
+    "title":"JL Soekarno Hatta - Urip Sumoharjo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836ba-b652-717b-b912-413b20fac6d2"
+    ]
+  },
+{
+    "title":"Simpang Chandra Karang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836bb-b2be-7371-b9ac-c2b592ca7c19"
+    ]
+  },
+{
+    "title":"JL Arif RH - JL Urip Sumoharjo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836bc-787e-7077-8417-7b736f5b72ad"
+    ]
+  },
+{
+    "title":"JL Sudirman - Cokro",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836bd-4a8a-72e9-a342-7f8891014685"
+    ]
+  },
+{
+    "title":"JL Kimaja BTN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836be-0fb3-70fd-a315-dbcb214e7820"
+    ]
+  },
+{
+    "title":"Simpang Way Halim Permai",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836be-bff0-726e-b36b-343a82c4a29c"
+    ]
+  },
+{
+    "title":"JL Urip S - KiMaja",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836bf-8bf6-739e-9284-90f23d0f12bb"
+    ]
+  },
+{
+    "title":"JL ZA Pagar Alam - KFC",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836c0-631b-7267-b2d4-0039ae211ab6"
+    ]
+  },
+{
+    "title":"Perputaran RS Immanuel",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836c1-aa96-733d-b078-985110a39ec4"
+    ]
+  },
+{
+    "title":"Lampung City Mall",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836c2-5c4e-726c-a820-f7760910cf68"
+    ]
+  },
+{
+    "title":"Simpang SMPN 19",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01983692-aae5-71c6-a04f-be479d460d15"
+    ]
+  },
+{
+    "title":"Rumah Dinas Walikota",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836c3-995c-7084-9a41-72842133dd67"
+    ]
+  },
+{
+    "title":"Lapangan Baruna",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836c4-5860-7317-b7ee-78c81bf40d3a"
+    ]
+  },
+{
+    "title":"Pos Pol Pahoman",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836c5-153e-73b1-9089-e986ade811e3"
+    ]
+  },
+{
+    "title":"Yos Sudarso - Simpang Way Lunik",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836c5-da62-708b-b3c5-3474d886dc27"
+    ]
+  },
+{
+    "title":"Perempatan PU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836c6-ccc8-706a-825b-7a96786f6922"
+    ]
+  },
+{
+    "title":"Perputaran RS Advent",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836cc-05ce-73c5-a22b-1e99b2576078"
+    ]
+  },
+{
+    "title":"Fly Over Kimaja",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836cc-f29d-700f-a0b1-673ad644ab43"
+    ]
+  },
+{
+    "title":"Gedung Hall ABC PKOR B",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836cd-e7f3-700c-b2ff-0ad86da8afcf"
+    ]
+  },
+{
+    "title":"Simpang Pulau Damar",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836ce-cae9-7325-a28d-682846d3ad3c"
+    ]
+  },
+{
+    "title":"Gerbang UNILA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836cf-8671-720d-ae94-ddca972bc7cf"
+    ]
+  },
+{
+    "title":"Pintu Masuk Lapangan SABURAI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01983687-8dc1-73dd-947b-031139e2c3e3"
+    ]
+  },
+{
+    "title":"Vihara Teluk (Thay Hin Bio)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ae79-d72e-719f-9797-32273014dda1"
+    ]
+  },
+{
+    "title":"Gapura DPRD",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ae7b-0d1e-7197-813d-1deedb6cf843"
+    ]
+  },
+{
+    "title":"PTZ Kantor Gubernur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ae7d-ffe1-706b-8f64-d3f454840928"
+    ]
+  },
+{
+    "title":"Simpang SMP 19",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/01983692-aae5-71c6-a04f-be479d460d15"
+    ]
+  },
+{
+    "title":"A Yani - MT Haryono",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ae81-1086-71ce-97e9-0011f020e524"
+    ]
+  },
+{
+    "title":"Simpang UNSILENT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ae9c-de7f-71fd-a35d-9bf040ad3ff0"
+    ]
+  },
+{
+    "title":"Raden Intan - Katamso",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019739db-6be5-7075-9268-c4cb113f7bc5"
+    ]
+  },
+{
+    "title":"Lapangan KORPRI - POLDA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836d3-e87d-70b8-9046-abd8b93f0e14"
+    ]
+  },
+{
+    "title":"Mahan Agung (Depan Gedung PKK)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836d4-a78a-7379-85ae-8b0db64ab927"
+    ]
+  },
+{
+    "title":"Simpang RS Abdul Moeloek",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836d6-3ac2-7188-972e-b9cb7cd06726"
+    ]
+  },
+
+{
+    "title":"Simpang Ahmad Dahlan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836dd-8730-7048-a30f-3eaa6e673d4c"
+    ]
+  },
+{
+    "title":"Taman Gajah",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ae74-4715-7125-a9b7-4e12123eac26"
+    ]
+  },
+
+{
+    "title":"Tugu Pengantin",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836de-cffb-72f8-9ab0-edbf6e8605c2"
+    ]
+  },
+{
+    "title":"Tugu Raden Intan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836df-ba57-7193-98f2-639ebbf12af4"
+    ]
+  },
+{
+    "title":"Simpang Chandra Teluk (Tugu Pagoda)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836e1-df7d-7314-8c1d-303cd502277d"
+    ]
+  },
+{
+    "title":"Simpang Bambu Kuning",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836e0-c726-7332-9782-463a029d42fb"
+    ]
+  },
+{
+    "title":"Gatot Subroto - Slamet Riadi",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836e3-9d46-732b-9605-bee2fc8b97f0"
+    ]
+  },
+{
+    "title":"JL Teungku Cik Ditiro (Perputaran 1)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ebbd-3480-704b-a12b-22d969683218"
+    ]
+  },
+{
+    "title":"JL Teungku Cik Ditiro 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ebc5-b34e-72f6-8428-29d2d844787e"
+    ]
+  },
+{
+    "title":"JL Pramuka (SD IT Baitul Jannah)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ebc9-03e0-70fd-ba8d-29471062f222"
+    ]
+  },
+{
+    "title":"JL Raden Imba Kesuma - Simpang SPN Kemiling",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ebdf-6667-7333-b7b6-b01dc5f45ba3"
+    ]
+  },
+{
+    "title":"JL Raden Imba Kesuma 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0196ebe0-7d3c-7380-a23c-0b5764b869b7"
+    ]
+  },
+
+{
+    "title":"Perputaran Begadang Resto",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0197678d-169e-7095-b827-29d1cacef678"
+    ]
+  },
+{
+    "title":"Simpang Polsek TBT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0197678d-8dff-71db-a531-c8b2069ec41b"
+    ]
+  },
+{
+    "title":"Pos Pam Hotel Nusantara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/0197678d-169e-7095-b827-29d1cacef678"
+    ]
+  },
+{
+    "title":"PTZ Depan Gedung Sumpah Pemuda",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.lihatcctv.com/stream/019836e4-a682-72b0-9fc5-87e81e56c658"
+    ]
+  }
+]
