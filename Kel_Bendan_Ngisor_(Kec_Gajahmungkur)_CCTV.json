@@ -1,0 +1,171 @@
+[
+ 
+  {
+    "title":"RW : 4 | RT : 3 (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/392/201/2024/70b4c728-b051-46ab-bccd-508e605e647b_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 6 (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/406/201/2024/a0f5040c-365b-473c-b966-72a4242ac5d8_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 3 | RT : 3 (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/395/301/2024/1efaf27f-8a86-4e30-a186-452109805bd0_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 3 | RT : 3 (2) (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/395/401/2024/1efaf27f-8a86-4e30-a186-452109805bd0_401.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 6 (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/406/101/2024/a0f5040c-365b-473c-b966-72a4242ac5d8_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 3 (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/392/101/2024/70b4c728-b051-46ab-bccd-508e605e647b_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 3 | RT : 3 (3) (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/395/201/2024/1efaf27f-8a86-4e30-a186-452109805bd0_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 3 | RT : 4 (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/394/101/2024/1baeb153-d7ba-49cf-bc8a-1fb5d090e39d_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 3 | RT : 4 (2) (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/394/201/2024/1baeb153-d7ba-49cf-bc8a-1fb5d090e39d_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/410/101/2024/8439408f-8e36-4321-b51a-30601c79fa19_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (2) (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/410/201/2024/8439408f-8e36-4321-b51a-30601c79fa19_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 7 (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/405/101/2024/b079c815-41a5-49d1-8129-cb299aa1593b_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 7 (2) (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/405/201/2024/b079c815-41a5-49d1-8129-cb299aa1593b_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 4 (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/390/101/2024/c4cda910-8152-4c0f-a3e0-0bcfe55436a7_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 4 (2) (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/390/201/2024/c4cda910-8152-4c0f-a3e0-0bcfe55436a7_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 7 (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantausemar.semarangkota.go.id/hls/398/1/e572b4b7-3a72-4729-b9e3-251587e20d1b_1.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 7 (2) (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/398/201/2024/e572b4b7-3a72-4729-b9e3-251587e20d1b_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 2 (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/403/401/2024/b658c607-bfd6-4cb1-8d13-28c93a6fb33c_401.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 2 (2) (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/403/301/2024/b658c607-bfd6-4cb1-8d13-28c93a6fb33c_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 2 (3) (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/403/201/2024/b658c607-bfd6-4cb1-8d13-28c93a6fb33c_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 2 (4) (Bendan Ngisor)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/403/101/2024/b658c607-bfd6-4cb1-8d13-28c93a6fb33c_101.m3u8"
+    ]
+  }
+]
