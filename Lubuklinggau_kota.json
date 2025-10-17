@@ -1,0 +1,210 @@
+[
+ {
+    "title":"Balai Kota Lt 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/cctv_lt1_balkot.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Depan Koperasi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/depan_dinas_koperasi.m3u8"
+    ]
+  },
+ {
+    "title":"Depan FKPPI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/depan_fkppi.m3u8"
+    ]
+  },
+ {
+    "title":"Depan POLRES",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/depan_polres.m3u8"
+    ]
+  },
+ {
+    "title":"Depan Rumah Walikota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/depan_r_wali.m3u8"
+    ]
+  },
+ {
+    "title":"Depan Stasiun",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/depan_stasiun.m3u8"
+    ]
+  },
+ {
+    "title":"Gerbang Keluar Balaikota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/gerbang_keluar_balkot.m3u8"
+    ]
+  },
+ {
+    "title":"Gerbang Masuk Balaikota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/gerbang_masuk_balkot.m3u8"
+    ]
+  },
+ {
+    "title":"Lapangan Tembak",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/lapangan_tembak.m3u8"
+    ]
+  },
+ {
+    "title":"Makam Pahlawan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/makam_pahlawan.m3u8"
+    ]
+  },
+ {
+    "title":"Panovu Perpustakaan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/panovu_perpustakaan.m3u8"
+    ]
+  },
+ {
+    "title":"Parkir Balaikota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/parkir_balkot_1.m3u8"
+    ]
+  },
+ {
+    "title":"Parkiran Polres",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/parkiran_polres.m3u8"
+    ]
+  },
+ {
+    "title":"Pertigaan Keswari Permai",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/pertigaan_keswari_permai.m3u8"
+    ]
+  },
+ {
+    "title":"Pertigaan KPU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/pertigaan_l_kpu.m3u8"
+    ]
+  },
+ {
+    "title":"Pertigaan Perumnas",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/pertigaan_perumnas.m3u8"
+    ]
+  },
+ {
+    "title":"Pertigaan Stasiun",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/pertigaan_stasiun.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang RCA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/simpang_rca.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Masjid 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/simpang_masjid_1.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Masjid 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/simpang_masjid_2.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Notaris",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/simpang_notaris.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Pasar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/simpang_pasar.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Rumah Walikota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/simpang_r_wali.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Talang Rejo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/simpang_talang_rejo.m3u8"
+    ]
+  },
+ {
+    "title":"Terminal Kalimantan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/terminal_kalimantan.m3u8"
+    ]
+  },
+ {
+    "title":"Watas",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ssc.lubuklinggaukota.go.id/web/cctv/watas.m3u8"
+    ]
+  }
+]
