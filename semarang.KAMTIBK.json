@@ -1,0 +1,106 @@
+[
+  {
+    "title":"OUT - JALAN PEMUDA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/7a7e9ef2-0d31-41c2-bd27-2466165ed551/index.m3u8"
+    ]
+  },
+  {
+    "title":"OUT - JALAN PEMUDA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/83c52313-1b6f-4fda-a3a1-f15c95f5757d/index.m3u8"
+    ]
+  },
+  {
+    "title":"OUT - BALAI KOTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/ab6a612c-8260-44dd-96c7-34316b2d9b26/index.m3u8"
+    ]
+  },
+  {
+    "title":"PAHLAWAN 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/c20f9449-975d-44b4-ac30-d61ac9e68542/index.m3u8"
+    ]
+  },
+  {
+    "title":"PAHLAWAN 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/28fe698a-4b7a-4d3b-b26c-2bca2ce31682/index.m3u8"
+    ]
+  },
+  {
+    "title":"PAHLAWAN PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/529ae981-1b44-45a6-8ccb-2ec6fb3477cd/index.m3u8"
+    ]
+  },
+  {
+    "title":"IN - JALAN PEMUDA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/811cb379-b9bf-4dd4-aeab-0870449dc0f5/index.m3u8"
+    ]
+  },
+  {
+    "title":"IN - JALAN PEMUDA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/946a1492-49ed-498a-9445-168328db9ac6/index.m3u8"
+    ]
+  },
+  {
+    "title":"IN - DPRD",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/137a3a82-afee-4fe1-836b-8f8cb583171c/index.m3u8"
+    ]
+  },
+  {
+    "title":"BELAKANG 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/58b23023-3b2e-43a3-8416-11db657bccbf/index.m3u8"
+    ]
+  },
+  {
+    "title":"BELAKANG 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/cd7c7b70-9712-4a2c-bfe3-bcba299c95bd/index.m3u8"
+    ]
+  },
+  {
+    "title":"BELAKANG 03",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/c7230c65-dcfb-40a3-b6d5-c04f450628d3/index.m3u8"
+    ]
+  },
+  {
+    "title":"BALKOT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/42eafe23-d2f5-427b-8638-38ff8d61b20f/index.m3u8"
+    ]
+  }
+]
