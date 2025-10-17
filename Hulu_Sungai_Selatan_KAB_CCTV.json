@@ -1,0 +1,83 @@
+[
+
+{
+    "title":"Tugu Dodol",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.hulusungaiselatankab.go.id/hls/kompi/simpang-kompi.m3u8"
+    ]
+  },
+{
+    "title":"Tugu Ketupat Al-Falah",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.hulusungaiselatankab.go.id/hls/alfalah/ketupat-alfalah.m3u8"
+    ]
+  },
+{
+    "title":"Muara Sangkuang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.hulusungaiselatankab.go.id/hls/muarasangkuang/muara-sangkuang.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Kompi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.hulusungaiselatankab.go.id/hls/kompi/simpang-kompi.m3u8"
+    ]
+  },
+{
+    "title":"Muara Gambah",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.hulusungaiselatankab.go.id/hls/gambah/muara-gambah.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Lima",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.hulusungaiselatankab.go.id/hls/lima/simpang-lima.m3u8"
+    ]
+  },
+{
+    "title":"Muara Banta",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.hulusungaiselatankab.go.id/hls/muarabanta/muara-banta.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Murni",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.hulusungaiselatankab.go.id/hls/murni/simpang-murni.m3u8"
+    ]
+  },
+{
+    "title":"Tugu Ketupat Hamalau",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.hulusungaiselatankab.go.id/hls/hamalau/ketupat-hamalau.m3u8"
+    ]
+  },
+{
+    "title":"Simpang BRI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.hulusungaiselatankab.go.id/hls/simpangbri/simpang-bri.m3u8"
+    ]
+  }
+]
