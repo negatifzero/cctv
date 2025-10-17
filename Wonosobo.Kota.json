@@ -1,0 +1,38 @@
+[
+
+{
+    "title":"PEREMPATAN SMP 1 WONOSOBO (ARAH TIMUR)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://mata.wonosobokab.go.id/memfs/fddfbc7d-f45f-4d2c-a12e-8dea7b6e0cfa_output_0.m3u8"
+    ]
+  }, 
+
+{
+    "title":"PEREMPATAN SETDA (S4 SETDA (ARAH BARAT))",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://mata.wonosobokab.go.id/memfs/77985c2b-6291-416d-ac92-1704a614b75b_output_0.m3u8"
+    ]
+  }, 
+
+{
+    "title":"PERTIGAAN PAHLAWAN (PAHLAWAN 1)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://mata.wonosobokab.go.id/memfs/deb5d233-162c-4092-a365-230c9ccc3799_output_0.m3u8"
+    ]
+  }, 
+
+{
+    "title":"SAMBON",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://mata.wonosobokab.go.id/memfs/8050670a-2555-437c-b34e-2f88b4a703cb_output_0.m3u8"
+    ]
+  }
+]
