@@ -1,0 +1,340 @@
+[
+  {
+    "title":"Simpang Jati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/jati.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG MITRA BATIK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/mitrabatik.m3u8"
+    ]
+  },
+  
+
+  {
+    "title":"SIMPANG CIMULU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/cimulu.m3u8"
+    ]
+  },
+
+  {
+    "title":"SIMPANG MASJID AGUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/masjidagungptz.m3u8"
+    ]
+  },
+    {
+    "title":"SIMPANG RANCABANGO ARAH Arah Simpang Bantar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/rancabangoptz.m3u8"
+    ]
+  },
+    {
+    "title":"SIMPANG RANCABANGO Arah Jati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/rancabangoarahjati.m3u8"
+    ]
+  },
+      {
+    "title":"SIMPANG RANCABANGO Arah Letnan Harun",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/rancabangoarahletnanharun.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG WASITA KUSUMA ARAH BANDUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/wasitakusumaarahbandung.m3u8"
+    ]
+  },
+   {
+    "title":"SIMPANG WASITA KUSUMA ARAH LETNAN HARUN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/wasitakusumaarahletnanharun.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG WASITA KUSUMA ARAH BOJONG JENGKOL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/wasitakusumaarahbojongjengkol.m3u8"
+    ]
+  },
+
+  {
+    "title":"SIMPANG DEWI SARTIKA ARAH CIMULU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/dewisartikaarahcimulu.m3u8"
+    ]
+  },
+ {
+    "title":"SIMPANG DEWI SARTIKA ARAH MASJID AGUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/dewisartikaarahmasjidagung.m3u8"
+    ]
+  },
+
+  {
+    "title":"SIMPANG BOJONG JENGKOL ARAH WASITA KUSUMA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/bojongjengkolarahwasita.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG BOJONG JENGKOL ARAH LEUWIDAHU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/bojongjengkolarahleuwidahu.m3u8"
+    ]
+  },
+    {
+    "title":"SIMPANG LIMA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/simpanglima.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG CIBOGOR ARAH CIAMIS",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/cibogorarahciamis.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG CIBOGOR ARAH SUTISNA SENJAYA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/cibogorarahsutsen.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG CIBOGOR ARAH M. HATTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/cibogorarahmhatta.m3u8"
+    ]
+  },
+  
+  {
+    "title":"SIMPANG LEUWIDAHU ARAH JATI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/leuwidahuarahbojongjengkol.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG LEUWIDAHU ARAH BOJONG JENGKOL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/leuwidahuarahjati.m3u8"
+    ]
+  },
+ 
+  {
+    "title":"TAMAN ALUN-ALUN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/alunalunptz.m3u8"
+    ]
+  },
+      {
+    "title":"RUAS M HATTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/mhatta.m3u8"
+    ]
+  },
+  {
+    "title":"BATAS KOTA ARAH BANDUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/bataskotaarahbandung.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG ALUN-ALUN ARAH SUTSEN (Sutisna Senjaya)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/alunalunarahsutsen.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG ALUN-ALUN ARAH TENTARA PELAJAR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/alunalunarahtentarapelajar.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG ALUN-ALUN ARAH OTISTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/alunalunarahotista.m3u8"
+    ]
+  },
+    {
+    "title":"Taman Kota (Batu Andesit) Arah HZ Mustofa",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/tamankota.m3u8"
+    ]
+  },
+  {
+    "title":"KARANG RESIK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/bataskotaciamis.m3u8"
+    ]
+  },
+  
+  {
+    "title":"BATAS KOTA ARAH CIAMIS",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/bataskotaciamis.m3u8"
+    ]
+  },
+  
+  {
+    "title":"SIMPANG SUTSEN (Sutisna Senjaya)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/sutisnasenjaya.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG BANTAR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/bantar.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG CIHIDEUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/cihideung.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG NAGARAWANGI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/nagarawangi.m3u8"
+    ]
+  },
+
+        {
+    "title":"Simpang Pataruman PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/patarumanptz.m3u8"
+    ]
+  },
+          {
+    "title":"Simpang Pataruman FIX (Arah Nagarawangi)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/patarumanarahnagarawangi.m3u8"
+    ]
+  },
+          {
+    "title":"Simpang Panyerutan PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/panyerutanptz.m3u8"
+    ]
+  },
+          {
+    "title":"Simpang Panyerutan FIX (Arah Nagarawangi)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/panyerutanarahnagarawangi.m3u8"
+    ]
+  },
+          {
+    "title":"SIMPANG PASEH",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/pasehptz.m3u8"
+    ]
+  },
+           {
+    "title":"SIMPANG RUMAH SAKIT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/rumahsakit.m3u8"
+    ]
+  },
+          {
+    "title":"SIMPANG PADAYUNGAN Arah Kawalu",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/padayunganarahkawalu.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG GUNUNG SABEULAH",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.tasikmalayakota.go.id/camera/gunungsabeulah.m3u8"
+    ]
+  }
+]
