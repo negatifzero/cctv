@@ -1,0 +1,290 @@
+[
+{
+    "title":"KEC.BEBER-JALAN GRONGGONG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/215602f7-0cbb-43c3-8ed3-1083f9b138b2_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.SUMBER-SIMP BABAKAN SUMBER",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/3f7c74ef-7901-4344-8715-752c7f6f1bbc_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.SUMBER-ALUN-ALUN PATARAKSA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/ba94e3cb-ff3f-42de-95bb-2e13fb53ba86_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.SUMBER-SIMPANG DPRD",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/d9132e9d-a9ca-48b0-a1f1-1c9f707bc24b_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.SUMBER-JALAN KANTOR BUPATI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/a3e3f02f-34a3-4965-808a-855703c21d6e_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"PEREMPATAN DISDIK SUMBER",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/2357e776-ad6b-4bfc-b83f-bd7b3106655a_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.SUMBER-SIMPANG KENANGA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/d42bf3ab-38bd-4e06-9a42-2fcfafdb04aa_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.PABUARAN-SIMP PASAR PABUARAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/858ed1bc-6ba6-48fa-9067-2755ff518296_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.PALIMANAN-SIMPANG PALIMANAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/03abf72b-50b8-416d-ba4f-8d31b321a770_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.SUMBER-SIMPANG PASAR SUMBER 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/7febbdc0-59ed-4526-96cc-417629c76334_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.PALIMANAN-SIMPANG PALIMANAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/0ee80c88-ce2e-44e5-876c-0f0df757a7a5_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.SUMBER-SIMPANG PASAR SUMBER 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/22e17cf5-3945-4ce0-b77b-11ee65c073c4_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.SUMBER-SIMPANG TAMAN PKK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/0ba55700-6269-4281-8995-cc209a60285d_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.PALIMANAN-SIMPANG PALIMANAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/d7038283-383d-4ae3-bf07-b830d84e6cfb_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"PERTIGAAN PASAR GEBANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/ce509abb-5d87-461c-8623-79029d0fb66f_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.CIWARINGIN-SIMP CIWARINGIN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/26cbdb8a-2558-41da-a5f3-3fca38ebddb4_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.KEDAWUNG-BUNDARAN KEDAWUNG 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/08f4912f-8979-4c70-9af9-9fde08e77960_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.LEMAHABANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/4a6609f7-4263-4dfb-8b98-bc8e4de41faf_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.GUNUNG JATI-JL MAKAM SUNAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/69ffbc71-81c7-4139-9ef7-fafb97f8d369_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"SIMPANG PASAR JUNGJANG 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/e8471cd1-0f70-4150-9ac2-fa18c926c356_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"SIMPANG PASAR JUNGJANG 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/dda7364d-428c-4dd5-92fd-9271edca0166_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.KEDAWUNG-BUNDARAN KEDAWUNG 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/04afffc3-7881-4deb-ad67-c1322cd0aea3_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.WERU-SIMPANG PLERED 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/ca9fda3a-1794-446b-a584-7943ec8cc937_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.WERU-SIMPANG PLERED 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/90b33500-c499-4ea4-9043-0ffd35f7372e_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.SUMBER-JALAN KANTOR DPRD",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/ae11f329-1cb7-43e6-88d4-fa6cb3195ced_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.WERU-SIMPANG PLERED 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/af707ed2-d762-469d-9483-fc3110f3d937_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.TALUN-EXIT TOL CIPERNA 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/c3cf602f-7751-43e6-be69-820aa5ca1834_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.TALUN-EXIT TOL CIPERNA 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/1dc0f916-f12d-4bc3-acaf-efdf364bf0da_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.PLUMBON-EXIT TOL 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/98f36e18-97fc-428e-935d-107c8a1fca4f_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"SIMPANG TERMINAL LOSARI 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/28e36d45-192a-453b-bdac-06b51897aff0_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"SIMPANG TERMINAL LOSARI 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/ad53bc01-0415-4a8e-a006-00da6a69eb2e_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.ASTANAJAPURA-EXIT TOL 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/831767fc-d1fc-4e49-a8da-dba41fb12f88_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.ASTANAJAPURA-EXIT TOL 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/b305b7f4-6586-4ef3-ac99-52fe5730cb28_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"KEC.TALUN-SIMPANG CEMPAKA 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/b724f8c4-f7f8-4ade-975d-a51f79b2747c_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"SIMPANG PASAR KRAMAT 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/bf96e652-1014-4ad7-9a82-70bcd1343248_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"SIMPANG PASAR KRAMAT 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-backend.cirebonkab.go.id/memfs/4457f1d1-33de-4643-bc91-92c8b757d1fb_output_0.m3u8"
+    ]
+  }
+]
