@@ -1,0 +1,211 @@
+[
+ 
+  {
+    "title":"RW : 2 | RT : 2 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/257/101/2024/23ec1153-d7f6-462a-a471-8c09ab29c1e3_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 1 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/269/101/2024/5fa90c73-6cef-4022-95ef-c4f4939572d4_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 3 | RT : 4 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/253/101/2024/3ba26e45-0997-4142-9a9c-945401777e9b_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 2 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/248/101/2024/6094d587-0516-426a-a309-8eaaab888204_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 6 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/260/101/2024/8b674966-f41c-46bf-8f2f-942659ae8d49_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 6 (2) (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/260/201/2024/8b674966-f41c-46bf-8f2f-942659ae8d49_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 1 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/247/201/2024/914dd7e8-200e-4abf-a8d9-3b12c0da91d8_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 1 (2) (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/247/301/2024/914dd7e8-200e-4abf-a8d9-3b12c0da91d8_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 2 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/250/101/2024/c04d1991-da11-4b2c-9c9d-07c15e9d0553_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 2 (2) (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/250/201/2024/c04d1991-da11-4b2c-9c9d-07c15e9d0553_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 9 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantausemar.semarangkota.go.id/hls/268/201/27881882-1918-4c51-8706-6d2d1afb0760_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 6 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantausemar.semarangkota.go.id/hls/262/201/9a2b0b54-5b4d-4a48-be83-ed11db728bee_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 6 (2) (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/262/101/2024/9a2b0b54-5b4d-4a48-be83-ed11db728bee_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 2 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/248/201/2024/6094d587-0516-426a-a309-8eaaab888204_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 4 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/259/301/2024/fd4beb91-a415-4919-a160-6398a99bc5d2_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 5 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/271/101/2024/3d587ec4-dd66-4d63-881b-f7bde4562a35_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 6 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/260/301/2024/8b674966-f41c-46bf-8f2f-942659ae8d49_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 6 (2) (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/260/401/2024/8b674966-f41c-46bf-8f2f-942659ae8d49_401.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 4 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/259/101/2024/fd4beb91-a415-4919-a160-6398a99bc5d2_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 4 (2) (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/259/201/2024/fd4beb91-a415-4919-a160-6398a99bc5d2_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 3 | RT : 4 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/253/201/2024/3ba26e45-0997-4142-9a9c-945401777e9b_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 2 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/257/201/2024/23ec1153-d7f6-462a-a471-8c09ab29c1e3_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 1 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/269/201/2024/5fa90c73-6cef-4022-95ef-c4f4939572d4_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 9 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/268/101/2024/27881882-1918-4c51-8706-6d2d1afb0760_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 7 (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/7197/101/2024/97327cd3-6cce-4ae3-8447-392d57bc4152_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 7 (2) (Karangrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/7197/201/2024/97327cd3-6cce-4ae3-8447-392d57bc4152_201.m3u8"
+    ]
+  }
+]
