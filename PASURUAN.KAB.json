@@ -1,0 +1,259 @@
+[
+  {
+    "title":"Pasar Nguling",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/PASAR_NGULING.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 3 Sumurwaru",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/SUMURWARU.m3u8"
+    ]
+  },
+
+  {
+    "title":"Exit Tol grati",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/EXIT_TOL_GRATI.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 3 Semambung",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/SEMAMBUNG.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 3 Ngopak",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/NGOPAK.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 4 Rejoso",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/REJOSO.m3u8"
+    ]
+  },
+  {
+    "title":"Ranggeh Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/RANGGEHTIMUR.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 3 Pasar Ranggeh",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/RANGGEH.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 4 Warungdowo Tengah",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/WARUNGDOWO_TENGAH.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 4 Warungdowo Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/WARUNGDOWO_SIDOGIRI.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 4 Warungdowo Wetan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/WARUNGDOWO_WETAN.m3u8"
+    ]
+  },
+  {
+    "title":"Tambakrejo Kraton",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/TAMBAKREJO.m3u8"
+    ]
+  },
+  {
+    "title":"Perkantoran Raci",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/PERKANTORANRACI.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 4 ST Bangil",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/SP4_STBANGIL_1.m3u8"
+    ]
+  },
+  {
+    "title":"Alun - Alun Bangil",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/ALUNALUNBANGIL.m3u8"
+    ]
+  },
+  {
+    "title":"Exit Tol Bangil",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/EXIT_TOL_BANGIL.m3u8"
+    ]
+  },
+  {
+    "title":"Cargo Beji Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/BEJIBARAT.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 3 Gempol",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/SP3_GEMPOL.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 4 Patung Sapi",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/PATUNGSAPI.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Polsek Pandaan 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/POLSEKPDN_2.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Polsek Pandaan 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/POLSEKPDN_1.m3u8"
+    ]
+  },
+  {
+    "title":"P21 PANDAN - BANGIL",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/P21_BANGIL.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 4 P21 KARTINI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/P21_KARTINI.m3u8"
+    ]
+  },
+  {
+    "title":"S4 Taman Dayu",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/TAMANDAYU.m3u8"
+    ]
+  },
+  {
+    "title":"S4 Taman Dayu Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/TAMANDAYUUTARA.m3u8"
+    ]
+  },
+  {
+    "title":"Jalur Maut Purwodadi SBY",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/PURWODADI_SBY.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 3 Purwosari Malang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/PURWOSARI_MLG.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 3 Purwosari Surabaya",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/PURWOSARI_SBY.m3u8"
+    ]
+  },
+  {
+    "title":"Halte Wonorejo Dishub Pasuruan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/KANTOR_DISHUB_ARAH_MALANG.m3u8"
+    ]
+  },
+  {
+    "title":"Kantor Dishub Pasuruan Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/KANTOR_DISHUB_ARAH_PASURUAN.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 3 Contong",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/CONTONG.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang 3 Al Yasini",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://dishub.pasuruankab.go.id:5444/LiveApp/streams/AL-YASINI.m3u8"
+    ]
+  }
+]
