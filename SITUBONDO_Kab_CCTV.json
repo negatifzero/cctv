@@ -1,0 +1,162 @@
+[
+{
+    "title":"Simpang Besuki",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Simpang%20Besuki"
+    ]
+  },
+{
+    "title":"Simpang Buduan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Simpang%20Buduan"
+    ]
+  },
+{
+    "title":"Simpang Tiga Panarukan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Simpang%20Tiga%20Panarukan"
+    ]
+  },
+{
+    "title":"Simpang Tiga Wringinanom",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Simpang%20Tiga%20Wringinanom"
+    ]
+  },
+{
+    "title":"Simpang Tiga DPRD",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Simpang%20Tiga%20DPRD"
+    ]
+  },
+{
+    "title":"Depan Kominfo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Depan%20Kominfo"
+    ]
+  },
+{
+    "title":"Alun-Alun Situbondo (2)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Alun-Alun%20Situbondo%20(2)"
+    ]
+  },
+{
+    "title":"Alun-Alun Situbondo (1)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Alun-Alun%20Situbondo%20(1)"
+    ]
+  },
+{
+    "title":"Simpang Alun-Alun Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Simpang%20Alun-Alun%20Timur"
+    ]
+  },
+{
+    "title":"Alun-Alun Situbondo (3)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Alun-Alun%20Situbondo%20(3)"
+    ]
+  },
+{
+    "title":"Simpang Tiga Jalan Tembus",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Simpang%20Tiga%20Jalan%20Tembus"
+    ]
+  },
+{
+    "title":"Dam Pintu Lima",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Dam%20Pintu%20Lima"
+    ]
+  },
+{
+    "title":"Simpang MAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Simpang%20MAN"
+    ]
+  },
+{
+    "title":"Simpang SMP 1 Panji",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Simpang%20SMP%201%20Panji"
+    ]
+  },
+{
+    "title":"Simpang Capore",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Simpang%20Capore"
+    ]
+  },
+{
+    "title":"Simpang Tiga PG Panji",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Simpang%20Tiga%20PG%20Panji"
+    ]
+  },
+{
+    "title":"Simpang Kapongan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Simpang%20Kapongan"
+    ]
+  },
+{
+    "title":"Simpang Tiga Ps Kampung",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Simpang%20Tiga%20Ps.%20Kampung"
+    ]
+  },
+{
+    "title":"Simpang Tiga Asembagus",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Simpang%20Tiga%20Asembagus"
+    ]
+  },
+{
+    "title":"Gerbang Desa Wonorejo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cctv.situbondokab.go.id/stream/Gerbang%20Desa%20Wonorejo"
+    ]
+  }
+]
