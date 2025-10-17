@@ -1,0 +1,107 @@
+[
+ 
+  {
+    "title":"RW : 2 | RT : 4 (Bendan Duwur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/188/201/2024/08f2afc2-b124-4da5-81b6-120c19dd4c0a_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (Bendan Duwur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/183/201/2024/4e2b2da5-38a4-4905-8293-6bbd409727ed_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (2) (Bendan Duwur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/183/301/2024/4e2b2da5-38a4-4905-8293-6bbd409727ed_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (3) (Bendan Duwur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/183/401/2024/4e2b2da5-38a4-4905-8293-6bbd409727ed_401.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 3 | RT : 2 (Bendan Duwur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantausemar.semarangkota.go.id/hls/191/201/49a5f731-5a71-48c6-83f9-2bfc5cb03329_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 6 | RT : 2 (Bendan Duwur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/205/301/2024/96bbcde2-13b7-4834-a628-6b82377d7739_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 3 | RT : 3 (Bendan Duwur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantausemar.semarangkota.go.id/hls/192/101/8efcaebf-2aee-48d6-b4d1-e9866115ea94_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (4) (Bendan Duwur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/183/101/2024/4e2b2da5-38a4-4905-8293-6bbd409727ed_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 4 (Bendan Duwur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/188/101/2024/08f2afc2-b124-4da5-81b6-120c19dd4c0a_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 7 | RT : 3 (Bendan Duwur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/209/201/2024/045c7623-28f7-426a-a8e9-d45f74317f27_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 1 (Bendan Duwur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/200/201/2024/1bbca6c3-a5c2-4310-b918-958e41b01b2e_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 1 (2) (Bendan Duwur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/200/101/2024/1bbca6c3-a5c2-4310-b918-958e41b01b2e_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 6 | RT : 2 (2) (Bendan Duwur)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/205/101/2024/96bbcde2-13b7-4834-a628-6b82377d7739_101.m3u8"
+    ]
+  }
+]
