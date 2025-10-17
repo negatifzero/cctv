@@ -1,0 +1,459 @@
+[
+{
+    "title":"Batas Timur Kota",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/bts-blandongan"
+    ]
+  }, 
+
+{
+    "title":"Taman Sekargadung (02)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-kota-2"
+    ]
+  }, 
+{
+    "title":"Taman Sekargadung (03)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-sekargadung-3"
+    ]
+  }, 
+{
+    "title":"Taman Sekargadung (04)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-sekargadung-4"
+    ]
+  }, 
+{
+    "title":"Taman Sekargadung (05)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-sekargadung-5"
+    ]
+  }, 
+{
+    "title":"Simpang Ketepeng 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/sm-ketepeng-1"
+    ]
+  }, 
+{
+    "title":"Simpang Ketepeng 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      ""
+    ]
+  }, 
+{
+    "title":"Simpang Ketepeng 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/sm-ketepeng-3"
+    ]
+  }, 
+{
+    "title":"Simpang Ketepeng 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/sm-ketepeng-4"
+    ]
+  }, 
+{
+    "title":"Taman Gor (01)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-gor-1"
+    ]
+  }, 
+{
+    "title":"Taman Gor (02)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-gor-2"
+    ]
+  }, 
+{
+    "title":"Taman Gor (03)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-gor-3"
+    ]
+  }, 
+{
+    "title":"Taman Lansia (02)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-lansia-2"
+    ]
+  }, 
+{
+    "title":"Taman Lansia (03)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-lansia-3"
+    ]
+  }, 
+{
+    "title":"Taman Lansia (04)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-kota-4"
+    ]
+  }, 
+{
+    "title":"Taman Lansia (05)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-lansia-5"
+    ]
+  }, 
+{
+    "title":"Taman Lansia (06)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-lansia-6"
+    ]
+  }, 
+{
+    "title":"Pasar Kebonagung 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/kebonagung-5"
+    ]
+  }, 
+{
+    "title":"Pasar Kebonagung 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/kebonagung-6"
+    ]
+  }, 
+{
+    "title":"Pasar Kebonagung 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/kebonagung-7"
+    ]
+  }, 
+{
+    "title":"Pasar Kebonagung 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/kebonagung-9"
+    ]
+  }, 
+{
+    "title":"Pasar Kebonagung 5",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/kebonagung-10"
+    ]
+  }, 
+{
+    "title":"Pasar Kebonagung 6",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/kebonagung-11"
+    ]
+  }, 
+{
+    "title":"Pasar Kebonagung 7",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/kebonagung-12"
+    ]
+  }, 
+{
+    "title":"Pasar Kebonagung 8",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/kebonagung-13"
+    ]
+  }, 
+{
+    "title":"Pasar Kebonagung 9",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/kebonagung-14"
+    ]
+  }, 
+{
+    "title":"Simpang 4 Kebonagung",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/sm-kebonagung-1"
+    ]
+  }, 
+{
+    "title":"Simpang Kebonagung Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/sm-kebonagung-2"
+    ]
+  }, 
+{
+    "title":"Simpang Kebonagung Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/sm-kebonagung-3"
+    ]
+  }, 
+{
+    "title":"Simpang Kebonagung Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/sm-kebonagung-4"
+    ]
+  }, 
+{
+    "title":"Simpang Kebonagung Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/sm-kebonagung-5"
+    ]
+  }, 
+{
+    "title":"Bukir Pintu Masuk 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/bukir-101"
+    ]
+  }, 
+{
+    "title":"Taman Kota (01)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-kota-1"
+    ]
+  }, 
+{
+    "title":"Taman Kota (02)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-kota-2"
+    ]
+  }, 
+{
+    "title":"Taman Kota (04)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-kota-4"
+    ]
+  }, 
+{
+    "title":"Taman Kota (07)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-kota-7"
+    ]
+  }, 
+{
+    "title":"Taman Kota (08)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-kota-8"
+    ]
+  }, 
+{
+    "title":"Taman Kota",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/tm-kota-12"
+    ]
+  }, 
+{
+    "title":"Simpang Apotek 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/sm-apotek-1"
+    ]
+  }, 
+{
+    "title":"Simpang Apotek Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/sm-apotek-2"
+    ]
+  }, 
+{
+    "title":"Simpang Apotek Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/sm-apotek-3"
+    ]
+  }, 
+{
+    "title":"Simpang Apotek Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/sm-apotek-4"
+    ]
+  }, 
+{
+    "title":"Parkiran UPT Pos Depan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-1"
+    ]
+  }, 
+{
+    "title":"Pos Depan UPT 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-2"
+    ]
+  }, 
+{
+    "title":"Pos Depan Security",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-3"
+    ]
+  }, 
+{
+    "title":"Pos Depan 3 Security",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-5"
+    ]
+  }, 
+{
+    "title":"Parkiran Utara 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-6"
+    ]
+  }, 
+{
+    "title":"Parkiran Utara 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-7"
+    ]
+  }, 
+{
+    "title":"Lorong Tengah 2 Area Dalam Pasar",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-9"
+    ]
+  }, 
+{
+    "title":"Lorong Tengah 3 Area Dalam Pasar",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-10"
+    ]
+  }, 
+{
+    "title":"Pos Tengah UPT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-11"
+    ]
+  }, 
+{
+    "title":"Area tengah 2 UPT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-13"
+    ]
+  }, 
+{
+    "title":"Area Tengah 3 UPT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-14"
+    ]
+  }, 
+{
+    "title":"Area tengah 4 UPT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-15"
+    ]
+  }, 
+{
+    "title":"Pasar Burung 1 Area Loak",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-16"
+    ]
+  }, 
+{
+    "title":"Pasar Burung 2 Area Loak",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-17"
+    ]
+  }, 
+{
+    "title":"Pasar Burung 6 Area Loak",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://cam.pasuruankota.go.id/karangketug-21"
+    ]
+  }
+]
