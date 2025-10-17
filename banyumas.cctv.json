@@ -1,0 +1,215 @@
+[
+  {
+    "title":"SP GOR SATRIA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/gor_satria.m3u8"
+      
+    ]
+  },
+  {
+    "title":"GOR SATRIA BARAT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/gor_satria_barat.m3u8"
+    ]
+  },
+
+  {
+    "title":"GOR SATRIA SELATAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/gor_satria_selatan.m3u8"
+    ]
+  },
+  {
+    "title":"SP KEBON DALEM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/kebon_dalem.m3u8"
+    ]
+  },
+
+  {
+    "title":"KEBON DALEM BARAT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/kebon_dalem_barat.m3u8"
+    ]
+  },
+
+  {
+    "title":"KARANG BAWANG SELATAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/karang_bawang_selatan.m3u8"
+    ]
+  },
+  {
+    "title":"SP SUTOSUMAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/sutosuman.m3u8"
+    ]
+  },
+  {
+    "title":"SP KALIBOGOR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/kalibogor.m3u8"
+    ]
+  },
+  {
+    "title":"SP TANJUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/tanjung.m3u8"
+    ]
+  },
+  {
+    "title":"TANJUNG BARAT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/tanjung_barat.m3u8"
+    ]
+  },
+  {
+    "title":"TANJUNG UTARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/tanjung_utara.m3u8"
+    ]
+  },
+  {
+    "title":"SP KARANG PUCUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/karang_pucung.m3u8"
+    ]
+  },
+  {
+    "title":"SP SAMSAT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/samsat.m3u8"
+    ]
+  },
+  {
+    "title":"SP KARANG BAWANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/karang_bawang.m3u8"
+    ]
+  },
+  {
+    "title":"KARANG BAWANG TIMUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/karang_bawang_timur.m3u8"
+    ]
+  },
+
+  {
+    "title":"KARANG BAWANG BARAT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/karang_bawang_barat.m3u8"
+    ]
+  },
+  {
+    "title":"SP PANCURAWIS",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/pancurawis.m3u8"
+    ]
+  },
+  {
+    "title":"SP TUGU ADIPURA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id:80/camera/tugu_adipura.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS KALIBOGOR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/ruas_kalibogor.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS TANJUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/ruas_tanjung.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS PATRIOT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id:80/camera/ruas_patriot.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS TUGU ADIPURA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/ruas_tugu_adipura.m3u8"
+    ]
+  },
+  {
+    "title":"SP SAWANGAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/sawangan.m3u8"
+    ]
+  },
+  {
+    "title":"SP MUSEUM BRI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id/camera/museum_bri.m3u8"
+    ]
+  },
+  {
+    "title":"ALUN-ALUN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id:80/camera/alun_alun.m3u8"
+    ]
+  },
+  {
+    "title":"SP MASJID",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs.banyumaskab.go.id:80/camera/masjid.m3u8"
+    ]
+  }
+]
