@@ -1,0 +1,59 @@
+[
+ 
+  {
+    "title":"RW : 5 | RT : 6 (Banyumanik)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/569c7685-57fe-4f38-a900-ec6248eccde5/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 6 (2) (Banyumanik)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/6a5ac72d-092e-4cbb-91d3-306e8a6ce8c4/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 1 (Banyumanik)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/318c1167-d90c-4320-a79e-eab6daf6fb32/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (Banyumanik)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/b0486265-f659-46ef-9148-71c63cf076b6/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (2) (Banyumanik)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/2e4ca561-0321-4f79-9243-f1430b2ea338/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 3 (Banyumanik)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/b57ab8cc-d7c1-461c-9eb1-277711534396/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 5 | RT : 3 (2) (Banyumanik)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/be59e2b3-7302-4e69-a46e-d77291ea45d3/index.m3u8"
+    ]
+  }
+]
