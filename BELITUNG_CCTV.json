@@ -1,0 +1,310 @@
+hapus => https://kanghen10.github.io/smart-video-player/#
+langsung akses => https://hls.belitung.go.id/memfs/93cb9851-507d-4d0c-901f-ac4c2ee0b993_output_0.m3u8
+
+[
+ 
+  {
+    "title":"KV. Senang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/93cb9851-507d-4d0c-901f-ac4c2ee0b993_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Terminal Tanjungpandan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/cd0073fa-4649-4550-a0c1-89f70cf6b290_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Kantor Lurah Parit",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/a4f29883-1f42-4306-9bf2-d6893d36a5dc_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Traffic Light Terminal",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/9fa9e4ba-4785-4627-97c3-6c754a36e103_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Traffic Light Pangkallalang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/43b23740-f3b4-4ab3-b4ba-36a3dc8ed49d_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Jemb. Jl. Anwar Aid",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/ceeaa936-2903-4c60-8248-b305afaf6035_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Pasar Tanjungpandan Jl. Kimting",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/4b23a850-b382-44f1-b86a-e0d09885b65f_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Traffic Light Jl. Pemuda",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/fd5fe1f1-e39a-4b76-b3ad-3aa826ff8eee_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Traffic Light Simp. Membalong",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/1931908a-c391-4e7b-83ad-4c8e232104b8_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"RSUD Marsidi Judono",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/74e56daf-c97f-4fe6-8317-74e2b6e6c707_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Traffic Light Kp. Ujung Jl. Sriwijaya",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/0be93fbd-40a1-4581-a43a-d63cefbe9d52_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Pendopo Tanjung Kelayang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/f54575c6-7cbe-4fdd-aca1-8a75da3fbb28_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Patung Keluarga Masjid Al Mabrur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/c71b0343-63b0-4add-8e49-925a84aaf850_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Hal Gedung Nasional",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/de84bd46-bc34-4f2c-a2e4-02150150dd41_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Museum Tanjungpandan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/45aad411-0c5a-479c-9381-d84ec8377fb0_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Pantai Wisata Tanjung Pendam",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/a9b077da-151e-4696-84a8-601f4b688821_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Jemb. Jl. Bambang Utoyo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/5c396c53-49ff-45f0-8704-5af57b203510_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Simp. Kerjan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/970611b5-f41e-480d-90f9-3d6e69ce0bac_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Jemb. Siburik Pelabuhan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/095bdcf4-a830-4a81-baf1-ce51757ba8f1_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Jemb. Jl. Marsda Adi Sucipto",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/d9f39ee5-6645-4b23-a062-783671d2990e_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Simpang 4 Sijuk",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/78775f38-e547-4320-a305-4077bd41b152_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Pasar Tanjungpandan - Siburik",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/3460cbae-8707-4c2e-96af-b015d55a378c_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Simp. DPRD",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/b8b4d443-a99b-461c-95c6-d78cc8a659db_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Traffic Light Terminal 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/bf1315a4-4423-4e38-b130-2bf99c9922dc_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Traffic Light Terminal 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/b4357d67-408b-48a5-bf7b-1af137498748_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Simp. Kantor Pol PP",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/b397840b-bb5e-4559-b30f-a926426a725b_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Traffic Light Rumah Adat 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/6a309f45-1443-4c83-ade8-216480dba858_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Traffic Light Rumah Adat 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Simp. Dinas Arpus",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/faccf9a0-6192-4886-b614-44ec29a26a61_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Traffic Light Kp Ujung 2 Sriwijaya",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/b0eb1f65-894b-44c6-a96c-62f885f26bd5_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Kantor Bapenda",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/ef5e12ec-7965-4f81-83d1-fec4b1f9a351_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Traffic Light Rahat 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/192b5202-636b-4e3c-b0b9-3af690fa9801_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"PKM Tanjungpandan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/3d97b4eb-cd67-452a-aa3d-ae07723b92f5_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Simp. Masjid AL Mabrur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/cd4f1f43-84e7-42cc-840b-0f88c92f6520_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Simp. Dinas Pendidikan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/c644d2e4-4009-4a79-bcd0-c29f71c14810_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Halaman Gedung Nasional 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/9a5ca43d-e15d-4cab-b4ad-fe15ee241a01_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Kantor Dekranasda",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/38c1e6b5-76b1-4b5d-9686-e50ad898a928_output_0.m3u8"
+    ]
+  }, 
+  {
+    "title":"Kantor Dinas Perikanan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://hls.belitung.go.id/memfs/4fb61e8a-1bbe-4b45-b2fc-c1d45daa6d5d_output_0.m3u8"
+    ]
+  }
+]
