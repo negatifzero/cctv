@@ -1,0 +1,162 @@
+[
+  {
+    "title":"Simpang Rumah Sakit Arah Kodim",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/t1ZKv7QiNLncxXwU11017104949620.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Cirahong Arah Nagrak",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/087972640406421621987862.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Graha Arah Pusaka",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/mlyBgXYmbs62oPK1115697332827732.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Kodim Arah Banjar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/llKMI6Md87NqN3AA11768312384889.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Pusaka Arah Kelenteng",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/2qLLaZwZ84dVBWiI11686757500847.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Lokasana Arah Alun Alun",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/6iDzPLcO3yq4pBzp11977624022919.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Ramona Arah Stasiun",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/9eeihg8mCPjdSPZA11438123584949.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Pasar Ciamis Arah Graha",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/Gil7iBjt6ifeZweD11492401663749.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Lokasana Arah Tonjong",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/JxZImmEqsMsGIkvl11101292506546.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Tonjong Arah Tyara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/XMUXif4e7LYm1dgs11233744357045.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Cirahong Arah Pahlawan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/ZWkyJ1Y0nbyfPDX6115497951775580.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Kodim",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/gLLoY1uqLSTTHKHN11918887577126.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Graha Arah Kodim",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/hh6qhYgQ4PQFkmEy11620099659764.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Pahlawan Arah Benteng",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/jfBkbIf4VOZN1pqr12222132016316.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Cirahong Arah Cirahong",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/lwIqNcCk4X9zcERz12099901714808.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Kodim Arah Islamic Center",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/pSKFpYiCGcyKWWb812166747317920.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Tonjong Arah Alun Alun",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/2lXC4ckpEIMOOeu812101585077277.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Pahlawan Arah Ciamis",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/T1RDCka4hOT8XaYA12331511488363.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Pahlawan Arah Tasik",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/X05ielUCi3yg0qGw11383012047454.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Ramona Arah Pusaka",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ams.ciamiskab.go.id:5443/LiveApp/streams/b9oVcRmb6mygovh711323506940850.m3u8"
+    ]
+  }
+]
