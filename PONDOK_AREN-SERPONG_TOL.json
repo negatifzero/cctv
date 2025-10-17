@@ -1,0 +1,162 @@
+[ 
+  {
+    "title":"12+000",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/12+000"
+    ]
+  },
+ {
+    "title":"Gerbang Tol Pondok Aren Barat 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/Pondok%20Aren%20Barat%201"
+    ]
+  },
+ {
+    "title":"Gerbang Tol Pondok Aren Barat 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/Pondok%20Aren%20Barat%202"
+    ]
+  },
+ {
+    "title":"km 05+500",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/5+500"
+    ]
+  },
+ {
+    "title":"KM 06+000",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/6+100"
+    ]
+  },
+ {
+    "title":"KM 06+200",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/6+200"
+    ]
+  },
+ {
+    "title":"km 06+600",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/6+600"
+    ]
+  },
+ {
+    "title":"KM 08+075",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/8+075"
+    ]
+  },
+ {
+    "title":"KM 08+200",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/8+200"
+    ]
+  },
+ {
+    "title":"km 08+700",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/8+700"
+    ]
+  },
+ {
+    "title":"KM 09+200",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/9+200"
+    ]
+  },
+ {
+    "title":"km 09+700",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/9+700"
+    ]
+  },
+ {
+    "title":"KM 10+000",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/10+000"
+    ]
+  },
+ {
+    "title":"KM 10+000 Weaving",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/KM%2010+000%20Weaving"
+    ]
+  },
+ {
+    "title":"km 10+500",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/10+500"
+    ]
+  },
+ {
+    "title":"KM 10+600Weaving",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/KM%2010+600Weaving"
+    ]
+  },
+ {
+    "title":"KM 11+000",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/11+000"
+    ]
+  },
+ {
+    "title":"km 11+500",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/11+500"
+    ]
+  },
+ {
+    "title":"Ramp 10+600 A",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/Ramp%2010+600%20B"
+    ]
+  },
+ {
+    "title":"Ramp 10+600 B",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://cctv.nusantarainfrastructure.com/stream/singleplayer/Ramp%2010+600%20A"
+    ]
+  }
+]
