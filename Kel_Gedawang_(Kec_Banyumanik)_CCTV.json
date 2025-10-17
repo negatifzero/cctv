@@ -1,0 +1,67 @@
+[
+ 
+  {
+    "title":"RW : 8 | RT : 3 (Gedawang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/ce40be05-b1fe-459b-9907-e16bbb23687a/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 9 | RT : 6 (Gedawang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/1b988108-3d7e-494b-b1b8-d7931ddbf2d6/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 9 | RT : 6 (2) (Gedawang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/af7a127a-bc6e-4df2-ba25-0bb47f16c23c/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 9 | RT : 6 (3) (Gedawang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/67f27070-bf9e-43ea-b866-e22e02aaa145/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 8 | RT : 3 (Gedawang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/7a3fb8ad-dfe2-4bf4-bae7-2dfa49b5e04a/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 8 | RT : 4 (Gedawang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/d6254e69-19d6-4786-8910-dfd5829ef8dd/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 8 | RT : 4 (2) (Gedawang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/79b02c53-324e-4298-ac94-9b988e48c48c/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 9 | RT : 6 (Gedawang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/eeabe42c-c656-4837-8e4d-e468941a3b1d/index.m3u8"
+    ]
+  }
+]
