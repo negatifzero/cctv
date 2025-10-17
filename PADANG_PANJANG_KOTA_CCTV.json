@@ -1,0 +1,97 @@
+hapus => https://kanghen10.github.io/smart-video-player/#
+langsung akses => https://shinobi.padangpanjang.go.id:3443/6eb6da4bc3f1e2e3ef8eb666a71aecd0/hls/oaXN1MwuCv/QoCXs9cs1a80/s.m3u8
+
+[
+
+
+{
+    "title":"Simpang Kacang Kayu 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://shinobi.padangpanjang.go.id:3443/6eb6da4bc3f1e2e3ef8eb666a71aecd0/hls/oaXN1MwuCv/QoCXs9cs1a80/s.m3u8"
+
+    ]
+  },
+{
+    "title":"Simpang Kacang Kayu 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://shinobi.padangpanjang.go.id:3443/6eb6da4bc3f1e2e3ef8eb666a71aecd0/hls/oaXN1MwuCv/dm2hw05pSr80/s.m3u8"
+
+    ]
+  },
+
+{
+    "title":"Simpang Ekor Lubuk",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://shinobi.padangpanjang.go.id:3443/6eb6da4bc3f1e2e3ef8eb666a71aecd0/hls/oaXN1MwuCv/UDEN2btJxO80/s.m3u8"
+
+    ]
+  },
+{
+    "title":"Simpang MTSN Ganting",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://shinobi.padangpanjang.go.id:3443/6eb6da4bc3f1e2e3ef8eb666a71aecd0/hls/oaXN1MwuCv/x1xOZVgP5h80/s.m3u8"
+
+    ]
+  },
+{
+    "title":"Simpang MTSN Ganting 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://shinobi.padangpanjang.go.id:3443/6eb6da4bc3f1e2e3ef8eb666a71aecd0/hls/oaXN1MwuCv/68tOrpL1bR80/s.m3u8"
+
+    ]
+  },
+{
+    "title":"Simpang PDAM",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://shinobi.padangpanjang.go.id:3443/6eb6da4bc3f1e2e3ef8eb666a71aecd0/hls/oaXN1MwuCv/Uwk7X4zIS380/s.m3u8"
+
+    ]
+  },
+{
+    "title":"Jembatan Layang Simpang 8",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://shinobi.padangpanjang.go.id:3443/6eb6da4bc3f1e2e3ef8eb666a71aecd0/hls/oaXN1MwuCv/lyAvo4XEEs80/s.m3u8"
+
+    ]
+  },
+{
+    "title":"M. Syafei",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://shinobi.padangpanjang.go.id:3443/6eb6da4bc3f1e2e3ef8eb666a71aecd0/hls/oaXN1MwuCv/pqsUdYmB1f80/s.m3u8"
+
+    ]
+  },
+{
+    "title":"Simpang Serambi",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://shinobi.padangpanjang.go.id:3443/6eb6da4bc3f1e2e3ef8eb666a71aecd0/hls/oaXN1MwuCv/u3cGwkLb6d80/s.m3u8"
+
+    ]
+  },
+{
+    "title":"Simpang Serambi 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://shinobi.padangpanjang.go.id:3443/6eb6da4bc3f1e2e3ef8eb666a71aecd0/hls/oaXN1MwuCv/k5KRf08Wiw80/s.m3u8"
+    ]
+  }
+]
