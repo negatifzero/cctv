@@ -1,0 +1,372 @@
+[
+  {
+    "title":"Atap Kantor Walikota",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/atap/stream.m3u8"
+    ]
+  },
+
+ {
+    "title":"SP. Indomobil",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/INDOMOBIL_PTZ.m3u8"
+    ]
+  },
+ {
+    "title":"Sp Baloi",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/BALOI_PTZ.m3u8"
+    ]
+  },
+ {
+    "title":"Sp APT Harmoni",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/APTHARMONI_PTZ.m3u8"
+    ]
+  },
+ {
+    "title":"Sp Lippo",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/LIPPO_PTZ.m3u8"
+    ]
+  },
+ {
+    "title":"Sp Kara",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/KARA_PTZ.m3u8"
+    ]
+  },
+ {
+    "title":"Sp Kabil",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/KABIL_PTZ.m3u8"
+    ]
+  },
+ {
+    "title":"Sp Franky",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/FRANGKY_PTZ.m3u8"
+    ]
+  },
+ {
+    "title":"Sp Masjid Raya",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/MASJID_RAYA_PTZ.m3u8"
+    ]
+  },
+ {
+    "title":"Sp Collecta",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/COLLECTA_PTZ.m3u8"
+    ]
+  },
+ {
+    "title":"SP BANK INDONESIA",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/BI.m3u8"
+    ]
+  },
+ {
+    "title":"Sp Kalista 1",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/KALISTA_1.m3u8"
+    ]
+  },
+ {
+    "title":"Sp Kalista 3",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/KALISTA_3.m3u8"
+    ]
+  },
+ {
+    "title":"Sp Telkom Pelita",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/TELKOM_PELITA.m3u8"
+    ]
+  },
+ {
+    "title":"Sp Sei Harapan",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/SEI_HARAPAN.m3u8"
+    ]
+  },
+ {
+    "title":"Sp. Sei Harapan 1",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/SEI_HARAPAN_VID1.m3u8"
+    ]
+  },
+ {
+    "title":"Sp. Sei Harapan 2",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/SEI_HARAPAN_VID2.m3u8"
+    ]
+  },
+ {
+    "title":"Sp. Sei Harapan 3",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/SEI_HARAPAN_VID3.m3u8"
+    ]
+  },
+ {
+    "title":"Sp. Sei Harapan 4",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.248.199.102/camera/SEI_HARAPAN_VID4.m3u8"
+    ]
+  },
+ 
+ {
+    "title":"Gerb. Selatan Engku Putri",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/gerselatan/stream.m3u8"
+    ]
+  },
+ {
+    "title":"DPRD",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/dprd/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Kejaksaan BI",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/kejaksaanbi/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Gerb. Utara Engku Putri",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/gerutara/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Sukajadi 2",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/sukajadi2/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Madani Arah S. Panas",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/madaniseipanas/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Bundaran Madani Pancuran",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/madanipancuran/stream.m3u8"
+    ]
+  },
+ {
+    "title":"SP Batu Aji",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/batuaji/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Mata Kucing 1",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/matakucing1/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Pasar Jodoh 2",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/pasarjodoh2/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Simp Sei Ladi 2",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/seiladi2/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Sambau 1",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/sambau1/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Sambau 2",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/sambau2/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Delta Villa 2 Arah Mata Kucing",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/delta2/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Simp. Casablanca 2",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/casablanca2/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Nagoya Plaza",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/cobaan/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Pura Sei Ladi 1",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/pura1/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Simp. Kuda 1",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/simpkuda1/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Tanjakan Southlink 1",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/southlink1/stream.m3u8"
+    ]
+  },
+ {
+    "title":"PTZ Southlink",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/ptzsouthlink/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Pelabuhan Punggur",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/punggur1/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Pelabuhan Sekupang",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/sekupang/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Dang Anom 01",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/danganom1/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Dang Anom 03",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/danganom3/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Engku Hamidah 01",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/engkuhamidah1/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Temenggung 1",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/batuajidamkar1/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Temenggung 3",
+"provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://matanya.batam.go.id/cctv/batuajidamkar3/stream.m3u8"
+    ]
+  }
+]
