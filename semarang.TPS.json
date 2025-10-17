@@ -1,0 +1,290 @@
+[
+  {
+    "title":"TPS PASAR SIMONGAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/a718df17-8c95-47d8-b470-811a6a20850d/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS PASAR MANYARAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/a738b899-8430-4fd1-b544-5cdff33eed4c/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS PASAR KOBONG REJOMULYO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/8213c720-7854-4291-865e-c7f9d67725ab/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS PASAR PURWOYOSO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/4ed055aa-ef1e-49f2-83fa-1feebcc904d2/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS PASAR KAGOK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/294ef3c3-a785-47d5-8b61-5c30b58ecdfa/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS TEGALSARI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/14dd5540-e4c6-478f-b7c9-d2a478bbdf3e/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS GEMAH",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/dd40fecc-f450-4e7f-a4ac-b2430fe659ff/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS LAMPER KIDUL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/359d0e9b-74fd-44ca-9199-3a60a4718270/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS BULU LOR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/8c932a86-e58f-4e37-b10b-64c0a2dd01bd/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS KEC TEMBALANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/a107f965-f405-4f38-b9ff-bbcb0cf4fbd2/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS KALICARI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/a9c7b40e-9aea-487e-bc3b-15fe316ae53f/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS KELUD",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/9522cc1b-74d9-4d61-a437-091eeae7944a/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS PATRIOT RAYA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/13d19c33-0694-4d16-b3bd-4733a17ccc82/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS POMPA BARITO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/a843cd9c-5af1-477d-ae55-33e8287d1c58/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS RANDUSARI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/1579c351-414a-41b2-a594-ad4b27342e84/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS KRAMAS",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/10b2e679-e4f3-4c9a-ae66-78a9cd187891/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS KESEHATAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/4b5a639e-6e63-4c99-8a53-37655cedbbc1/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS STADION DIPONEGORO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/03c4ac1c-9142-4e22-b9c2-45386da18364/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS ABIMANYU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/59498b91-7095-4884-a16e-b7762ffdbc7f/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS BREMIS",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/637138bc-685d-4326-acf1-0b55dd56bc4b/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS WATULAWANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/680f76a1-a77a-40c8-a2a8-83b2f5a3e2cc/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS PASAR BANGETAYU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/23f44402-9345-4c55-8768-7f40915ba321/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS RASAMALA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/52587cc2-a0e2-4464-8872-7246add641f2/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS TAMBAKAJI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/7c98d931-6f6a-4b53-b8ee-902f8debd92b/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS SINGOSARI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/13e4271f-017c-4ce9-9447-881b1ed7d243/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS WONOTINGAL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/d7a40db3-48dc-46de-8c60-a13f717c1cbc/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS PASAR MRICAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/e2e92a61-764a-40e9-b8d0-67b07cc78db6/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS PURWOGONDO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/fce9d8c6-0e32-49f9-b1db-441e455b0e75/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS PASAR JERAKAH",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/28eaa111-3d06-470c-a84a-3fb0812e5c68/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS PASAR MANGKANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/f2127736-64ca-408b-a129-dd2e9b612b3b/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS TUGUREJO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/6c82a938-0d75-4faa-9fd8-3e60596e52db/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS PASAR BULU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/a7f7fe0a-304f-4287-8535-f07f958dac89/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS PASAR DARGO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/faa6c0ff-f8db-4e28-9d87-bb90c742df74/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS PASAR JATINGALEH",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/46c9391a-f397-4ed9-b194-cb5ce87e3d8b/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS BIMA RAYA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/c3dd768b-e725-4122-836e-a6c187c291ca/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPS BANGETAYU KULON",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/9fb2df78-db52-4c8f-8536-c7241fabd96b/index.m3u8"
+    ]
+  }
+]
