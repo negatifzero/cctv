@@ -1,0 +1,27 @@
+[
+ 
+  {
+    "title":"RW : 5 | RT : 4 (Jabungan)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/fcb926b8-c2a8-44c7-bc98-7e9b84426cc2/index.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 5 | RT : 4 (2) (Jabungan)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/f1d93036-9116-454b-b4e7-a25ab78393e5/index.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 6 | RT : 7 (Jabungan)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/1350056b-4598-4a33-857e-a2fe014b4a8c/index.m3u8"
+    ]
+  }
+]
