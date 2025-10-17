@@ -1,0 +1,266 @@
+[
+ {
+    "title":"Simpang Tiga Ngingas : Arah Ronggowarsito",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang3ngingas_arahronggowarsito.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Tiga Ngingas : Arah Solo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang3ngingas_arahsolo.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Tiga Ngingas : Arah Yogyakarta",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang3ngingas_arahyogyakarta.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Tiga Ngingas : PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang3ngingas_ptz.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Bareng : Arah Rajawali",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4bareng_arahrajawali.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Bareng : Arah Solo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4bareng_arahsolo.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Bareng : Arah Sungkur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4bareng_arahsungkur.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Bareng : Arah Yogyakarta",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4bareng_arahyogyakarta.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Bareng : PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4bareng_ptz.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Pandanrejo : Arah Matahari",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4pandanrejo_arahmatahari.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Pandanrejo : Arah Solo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4pandanrejo_arahsolo.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Pandanrejo : Arah Sungkur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4pandanrejo_arahsungkur.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Pandanrejo : Arah Yogyakarta",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4pandanrejo_arahyogyakarta.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Pandanrejo : PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4pandanrejo_ptz.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Lima Matahari : Arah Pandanrejo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang5matahari_arahpandanrejo.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Lima Matahari : Arah Pasar",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang5matahari_arahpasar.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Lima Matahari : Arah Solo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang5matahari_arahsolo.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Lima Matahari : Arah Yogyakarta",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang5matahari_arahyogyakarta.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Lima Matahari : PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang5matahari_ptz.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Pemda : PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4pemda_ptz.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Pemda : Arah Melati",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4pemda_arahmelati.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Pemda : Arah Pemda",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4pemda_arahsolo.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Pemda : Arah Solo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4pemda_arahsolo.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Empat Pemda : Arah Yogyakarta",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpang4pemda_arahyogyakarta.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Al-Aqsa : PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpangalaqsa_ptz.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Al-Aqsa : Arah ByPass",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpangalaqsa_arahbypass.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Al-Aqsa : Arah Kota",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpangalaqsa_arahkota.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Al-Aqsa : Arah Solo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/simpangalaqsa_arahsolo.m3u8"
+    ]
+  },
+  {
+    "title":"Posko Merapi : Desa Balerante 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/posko_balerante1.m3u8"
+    ]
+  },
+  {
+    "title":"Posko Merapi : Desa Balerante 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/posko_balerante2.m3u8"
+    ]
+  },
+  {
+    "title":"Posko Merapi : Desa Tegal Mulyo 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/posko_tegalmulyo1.m3u8"
+    ]
+  },
+  {
+    "title":"Posko Merapi : Desa Tegal Mulyo 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/posko_tegalmulyo2.m3u8"
+    ]
+  },
+  {
+    "title":"BPBD : POS INDUK",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.klaten.go.id:8080/cctv/hls/bpbd_merapi_pos_induk.m3u8"
+    ]
+  }
+]
