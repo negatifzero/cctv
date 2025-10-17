@@ -1,0 +1,82 @@
+[
+  {
+    "title":"Mberok Out",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/85edd930-2fca-4055-9195-d4e77d342e64/index.m3u8"
+    ]
+  },
+  {
+    "title":"Mberok IN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/8c6883c8-7cce-4d87-9d14-3de89e6297cb/index.m3u8"
+    ]
+  },
+  {
+    "title":"IPdome-Polder Tawang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/bc816a0c-c4d3-4ccb-ab41-1fd65e7335ac/index.m3u8"
+    ]
+  },
+  {
+    "title":"DPU-Museum Kota Lama",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/53bfde16-0c2e-4bc0-834f-d0d1c2dfcc9b/index.m3u8"
+    ]
+  },
+  {
+    "title":"SRI GUNTING 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/f8d9fd86-0c19-42f5-8133-c00613cc37c2/index.m3u8"
+    ]
+  },
+  {
+    "title":"SRI GUNTING 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/04adaee6-755a-45a4-8c2d-83092bdcc881/index.m3u8"
+    ]
+  },
+  {
+    "title":"GEREJA BLENDUK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/f1914909-c5f5-4289-b62d-5512a680dba6/index.m3u8"
+    ]
+  },
+  {
+    "title":"SIC KOTA LAMA MIC",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/cbb011d4-c42d-4c72-82f6-0779a78eeee1/index.m3u8"
+    ]
+  },
+  {
+    "title":"SRI GUNTING 03 MIC",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/c97ab77f-d6eb-4e02-9a21-bb2ea721a08f/index.m3u8"
+    ]
+  },
+  {
+    "title":"SAMPING OUDETRAP",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/bef82791-05b4-4ce9-bd2c-1472e93e4628/index.m3u8"
+    ]
+  }
+]
