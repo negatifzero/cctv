@@ -1,0 +1,146 @@
+[ 
+  {
+    "title":"AKSES CIAWI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/327294924686013390782781.m3u8"
+    ]
+  },
+{
+    "title":"AKSES CIGOMBONG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/261350381912633467488420.m3u8"
+    ]
+  },
+{
+    "title":"AKSES PARUNG KUDA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/135829900405160377344641.m3u8"
+    ]
+  },
+{
+    "title":"GT CARINGIN UTAMA ENTRANCE",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/168565171309485844596546.m3u8"
+    ]
+  },
+{
+    "title":"GT CARINGIN UTAMA EXIT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/562605461206449050005591.m3u8"
+    ]
+  },
+{
+    "title":"GT PARUNG KUDA ENTRANCE",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/391105348932952835614149.m3u8"
+    ]
+  },
+{
+    "title":"GT PARUNG KUDA EXIT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/225214113213968660084032.m3u8"
+    ]
+  },
+{
+    "title":"GT. Caringin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/035462094731391708865402.m3u8"
+    ]
+  },
+{
+    "title":"GT. CIAWI SELATAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/227374319950729322701285.m3u8"
+    ]
+  },
+{
+    "title":"GT. Cigombong A",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/577208699430530699650671.m3u8"
+    ]
+  },
+{
+    "title":"GT. Cigombong B",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/390022051470745093489871.m3u8"
+    ]
+  },
+{
+    "title":"IC CARINGIN KM. 53+380",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/998223146655371157400972.m3u8"
+    ]
+  },
+{
+    "title":"IC CIAWI SELATAN KM 48+200",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/357514173892609384751207.m3u8"
+    ]
+  },
+{
+    "title":"IC CIGOMBONG KM. 60+150",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/336845911722359113982848.m3u8"
+    ]
+  },
+{
+    "title":"KM 47+200 A",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/796749052161901029073168.m3u8"
+    ]
+  },
+{
+    "title":"KM 51+050 B",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/211884290923669138161535.m3u8"
+    ]
+  },
+{
+    "title":"KM 55+000 A",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/021325546274001698409340.m3u8"
+    ]
+  },
+{
+    "title":"KM 63",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/596666012682775058878209.m3u8"
+    ]
+  }
+]
