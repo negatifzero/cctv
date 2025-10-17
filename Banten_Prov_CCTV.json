@@ -1,0 +1,298 @@
+[
+  {
+    "title":"PAL LIMA UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=65be9f99-c9ce-4045-a722-a51ad11aafd4"
+    ]
+  },
+ {
+    "title":"PAL LIMA TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=d1b25253-280d-48fa-89d8-ef2c27adda9b"
+    ]
+  },
+ {
+    "title":"PAL LIMA BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=db52373d-894f-4279-9c2f-c9d50d3bc2b1"
+    ]
+  },
+ {
+    "title":"KEBON JAHE TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=a8a5eed6-d340-4002-89b8-89cd445c9210"
+    ]
+  },
+ {
+    "title":"KEBUN JAHE SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=f4901c8e-e3b2-4356-969d-ca5762d1f699"
+    ]
+  },
+ {
+    "title":"SAYABULU UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=70dd78e7-741b-4fb9-a0a1-7ceb6ba2f80d"
+    ]
+  },
+ {
+    "title":"SAYABULU TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=3b069c46-4e41-4903-ad22-22f17f0624e0"
+    ]
+  },
+ {
+    "title":"SAYABULU SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=99cc7673-dc89-4220-a0c2-e62964e1e27c"
+    ]
+  },
+ {
+    "title":"SAYABULUBARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=6f4e33ed-f9c7-4587-bbe0-a0e71363add6"
+    ]
+  },
+ {
+    "title":"BATOKBALITIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=d9b5c4af-23f4-411c-b0af-b2c263a65e1f"
+    ]
+  },
+ {
+    "title":"BATOK BALI SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=f4dcd999-d5f1-43f3-84b1-244332ebc7ca"
+    ]
+  },
+ {
+    "title":"BRIMOB UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=fcf9d25c-12f4-49d5-9ff5-48336e5dbad7"
+    ]
+  },
+ {
+    "title":"BRIMOB TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=5301c3c5-f007-4ce2-88a1-220ccfd20a7c"
+    ]
+  },
+ {
+    "title":"BRIMOB BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=16cd60dc-c7ad-425e-bd7d-6b96ed5e1a5b"
+    ]
+  },
+ {
+    "title":"KEPANDEAN SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=190604dd-4a61-427f-8b2b-c8c3e918f351"
+    ]
+  },
+ {
+    "title":"PISANG MAS UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=ffc44a84-39c5-4c94-92d7-c4121a4426db"
+    ]
+  },
+ {
+    "title":"PISANG MAS TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=7b5a6593-ad43-491c-ae85-192f7744d4c3"
+    ]
+  },
+ {
+    "title":"PISANG MAS SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=785bb760-4398-43c9-a08f-b054d9bd651d"
+    ]
+  },
+ {
+    "title":"PISANG MAS BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=89e2c32e-6782-499e-a7f2-877ec8100a19"
+    ]
+  },
+ {
+    "title":"PISANG MAS BARAT 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=0aa5daf2-3108-4e8b-a932-02a649e483d2"
+    ]
+  },
+ {
+    "title":"CICERI UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=6707cf59-2bd0-4849-90d6-24e7ef0e4b96"
+    ]
+  },
+ {
+    "title":"PAL LIMA SELATAN 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=2c118679-fefa-4f8b-9c72-a48a9fe5c4c4"
+    ]
+  },
+ {
+    "title":"CICERI SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=ebbfacb6-525d-423a-a1dc-239cc01fcf8f"
+    ]
+  },
+ {
+    "title":"CICERI BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=f7a5eca7-f07f-4726-8550-9c9aea4c66b5"
+    ]
+  },
+ {
+    "title":"BORU UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=e179c444-7b37-497c-93e6-7878e0243a5d"
+    ]
+  },
+ {
+    "title":"BORU TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=ba85b7cc-eb88-40c1-b490-925d804476b9"
+    ]
+  },
+ {
+    "title":"BORU SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=a942d95b-e9be-422b-87df-431ba4fa1b8b"
+    ]
+  },
+ {
+    "title":"BORU BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=baefe319-b8ce-443e-94ab-980ab2205d3f"
+    ]
+  },
+ {
+    "title":"SUMUR PECUNG BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=79d696b2-7ac6-4a0b-b6f7-efc5e76e642e"
+    ]
+  },
+ {
+    "title":"SUMUR PECUNG UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=39506f95-da19-4b31-ba0f-d0b248ece8bc"
+    ]
+  },
+ {
+    "title":"SEMPU TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=2a9853a8-f53b-48cb-bbff-fc6edfbf0dfa"
+    ]
+  },
+ {
+    "title":"RSUD LT 1 PENDAFTARAN - KASIR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=16eefa0e-e538-4aa3-8f90-426f7afb71c5"
+    ]
+  },
+ {
+    "title":"RSUD LT 1 PENDAFTARAN - KASIR (2)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=28da252f-08c5-401a-9238-f30759020c02"
+    ]
+  },
+ {
+    "title":"RSUD LT 1 RUANG IGD",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=0dbd98cb-bdfc-416c-8da2-9b894b052ce7"
+    ]
+  },
+ {
+    "title":"RSUD LT 1 PENDAFTARAN IGD",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=86112b09-8c77-4483-b607-8fee161d8ad9"
+    ]
+  },
+ {
+    "title":"RSUD LT 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=3f0e8fb8-7271-4c78-bf9d-8d766b4962a5"
+    ]
+  },
+ {
+    "title":"RSUD LT 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player3/#wss://cctv.bantenprov.go.id/play?id=e4019c7f-7960-435d-960c-cacdf4afe157"
+    ]
+  }
+]
