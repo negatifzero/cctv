@@ -1,0 +1,114 @@
+[
+{
+    "title":"Jl Raden Demang Hardja Kusuma (Bunderan Pemkot) 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcity.cimahikota.go.id/video/123/video123.m3u8"
+    ]
+  },
+{
+    "title":"Jl Raden Demang Hardja Kusuma (Bunderan Pemkot) 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcity.cimahikota.go.id/video/122/video122.m3u8"
+    ]
+  },
+{
+    "title":"Jl. Cimindi (Simpang Cimindi)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcity.cimahikota.go.id/video/57/video57.m3u8"
+    ]
+  },
+{
+    "title":"Jl. Dra Hj Djulaeha (Pasar Atas)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcity.cimahikota.go.id/video/120/video120.m3u8"
+    ]
+  },
+{
+    "title":"Jl. Jend. Amir Machmud (Simpang Cihanjuang Depan BJB)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcity.cimahikota.go.id/video/46/video46.m3u8"
+    ]
+  },
+{
+    "title":"Jl. Kebon Kopi (Simpang Kebon Kopi) 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcity.cimahikota.go.id/video/20/video20.m3u8"
+    ]
+  },
+{
+    "title":"Jl. Kebon Kopi (Simpang Kebon Kopi) 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcity.cimahikota.go.id/video/21/video21.m3u8"
+    ]
+  },
+{
+    "title":"Jl. Kolonel Masturi (Simpang Citeureup)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcity.cimahikota.go.id/video/133/video133.m3u8"
+    ]
+  },
+{
+    "title":"Jl. Melong Raya (Simpang Melong Arah Cijerah) 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcity.cimahikota.go.id/video/111/video111.m3u8"
+    ]
+  },
+{
+    "title":"Jl. Melong Raya (Simpang Melong Arah Parmindo) 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcity.cimahikota.go.id/video/112/video112.m3u8"
+    ]
+  },
+{
+    "title":"Jl. Melong Raya (Simpang Melong) 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcity.cimahikota.go.id/video/113/video113.m3u8"
+    ]
+  },
+{
+    "title":"Cigugur Tengah (Mengarah ke Jalan Utama)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.cruiser.my.id/hls/cam1/cam1.m3u8"
+    ]
+  },
+{
+    "title":"Cigugur Tengah (Mengarah ke JL Cigugur Tengah)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.cruiser.my.id/hls/cam2/cam2.m3u8"
+    ]
+  },
+{
+    "title":"Cigugur Tengah (Mengarah ke Pintu Air)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.cruiser.my.id/hls/cam3/cam3.m3u8"
+    ]
+  }
+]
