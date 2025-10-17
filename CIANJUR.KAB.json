@@ -1,0 +1,419 @@
+[
+ 
+{
+    "title":"Pasar Ciranjang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/ROZhiHw5Gqwb1711825504776.m3u8"
+    ]
+  },
+{
+    "title":"Jembatan Citarum",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/kzI3yr8DgyN01733292946046.m3u8"
+    ]
+  },
+{
+    "title":"Ruas JL Raya Bandung Masjid Al Zabbar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ruas-ciranjang.jaring.host/api/hls/camera_b/stream.m3u8"
+    ]
+  },
+{
+    "title":"Ruas JL Raya Bandung Rest Area Masjid Al Zabbar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ruas-ciranjang.jaring.host/api/hls/camera_a/stream.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 Pramuka Dari Arah Lingkar Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Pramuka_Dari_Arah_Lingkar.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 Pramuka PTZ 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Pramuka_PTZ_2.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 Pramuka Dari Arah Dr Hafiz",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Pramuka_Dari_Arah_Dr_Hafiz.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 Pramuka Dari Arah Jl. Raya Bandung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Pramuka_Dari_Arah_Bandung.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 DISHUB Dari Arah Bandung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Dishub_PTZ_2.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 DISHUB Arah Ramayana",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Dishub_PTZ_1.m3u8"
+    ]
+  },
+{
+    "title":"Ruas Jl Cipanas Tugu Btl Kecap",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/uBzr4OfA0rdu1742400809374.m3u8"
+    ]
+  },
+{
+    "title":"Rest Area Cipanas Puncak",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/Rp3eZ6fOI8DQ1744298591678.m3u8"
+    ]
+  },
+{
+    "title":"Ruas Jl Raya Cipanas Istana Cipanas",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/5RavDpLioXr81742400337477.m3u8"
+    ]
+  },
+{
+    "title":"SP 3 Cibodas",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/jymG4dgFNyUy1742662338464.m3u8"
+    ]
+  },
+{
+    "title":"SP 3 Hanjawar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/QmweddEwubmh1742662285986.m3u8"
+    ]
+  },
+{
+    "title":"Ruas Jl Raya Cipanas Bogor",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/K4zVFj6BbAJo1742659485930.m3u8"
+    ]
+  },
+{
+    "title":"Bundaran Lampu Gentur Dari Arah Dr Muwardi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/gLAw2ExVoK7k1742398721616.m3u8"
+    ]
+  },
+{
+    "title":"Bundaran Lampu Gentur Dari Arah Selakopi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Gentur_Dari_Arah_Selakopi.m3u8"
+    ]
+  },
+{
+    "title":"Bundaran Lampu Gentur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Gentur_PTZ_1.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 Warungkondang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Warungkondang.m3u8"
+    ]
+  },
+{
+    "title":"Tugu Pandan Wangi Dari Arah Sukabumi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP_3_Tugu_Pandan_Wangi_Arah_Sukabumi.m3u8"
+    ]
+  },
+{
+    "title":"Tugu Pandanwangi Dari Arah Cianjur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP_3_Tugu_Pandan_Wangi_Arah_BLK.m3u8"
+    ]
+  },
+{
+    "title":"Ruas Jl. Abdullah Bin Nuh-2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/BLK_VID_2.m3u8"
+    ]
+  },
+{
+    "title":"Ruas Jl. Abdullah Bin Nuh-4",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/BLK_VID_4.m3u8"
+    ]
+  },
+{
+    "title":"Ruas Jl. Abdullah Bin Nuh-3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/BLK_VID_3.m3u8"
+    ]
+  },
+{
+    "title":"Ruas Jl. Abdullah Bin Nuh-1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/BLK_VID_1.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 BLK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_BLK_PTZ_1.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 3 Moch. Ali",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/8888.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 3 RSUD Cianjur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_RSUD.m3u8"
+    ]
+  },
+{
+    "title":"Jl Mangunsarkoro Sinar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Sinar.m3u8"
+    ]
+  },
+{
+    "title":"Tugu Tauco Arah Ramayana",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Tauco_PTZ_2.m3u8"
+    ]
+  },
+{
+    "title":"Tugu Tauco Arah Dr Muwardi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/uZj8DaDFRSZx1742398262430.m3u8"
+    ]
+  },
+{
+    "title":"Sp3_Suge 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Suge_PTZ_2.m3u8"
+    ]
+  },
+{
+    "title":"SP3 _Suge 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Suge_PTZ_1.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 Toko Lili Dari Arah Warujajar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Toko_Lili_Dari_ArahWaruJajar.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 Toko Lili Dari Arah Suroso",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/OJqdMcQDdtLQ1723906510739.m3u8"
+    ]
+  },
+{
+    "title":"Jl Mangunsarkoro Toko AA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_TokoLili_PTZ_2.m3u8"
+    ]
+  },
+{
+    "title":"SP 4 Toko Lili",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/eJeHnt1XOesg1743263419006.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 3 Sasak",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Sasak_PTZ-1.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 3 Sasak Arah PUPR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Sasak_PTZ-2.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 3 Cikidang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Cikidang.m3u8"
+    ]
+  },
+{
+    "title":"SP 3 Warujajar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/uzsSYpxeSqev1743256114729.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 3 Joglo Toserba",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/D2oSvNP7C9HG1711825861872.m3u8"
+    ]
+  },
+{
+    "title":"Tugu Tauhid",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Tugu_Tauhid.m3u8"
+    ]
+  },
+{
+    "title":"SP3 Siliwangi BRI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/c5xOyAxF5Q4b1722831046145.m3u8"
+    ]
+  },
+{
+    "title":"SP3 Ariaciko",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/CaJbe3k8bc2b1733293035809.m3u8"
+    ]
+  },
+{
+    "title":"Alun-Alun Cianjur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/MyTOnfxISBjj1746015900027.m3u8"
+    ]
+  },
+{
+    "title":"SP-4-Syanghai",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/duohCUX31r8c1723911255849.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 Bojong PTZ 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Bojong_PTZ_2.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 Bojong PTZ 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Bojong_PTZ_1.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 Jebrod",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/rnuD9MomOrBY1733292787167.m3u8"
+    ]
+  },
+{
+    "title":"Bundaran Pasirhayam",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/ERymaaVPcAV31742740452498.m3u8"
+    ]
+  }
+]
