@@ -1,0 +1,442 @@
+[ 
+  {
+    "title":"Akses Bunder",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/402167080005467010903661.m3u8"
+    ]
+  },
+ {
+    "title":"Akses Bypass Krian",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/173701300195740936261885.m3u8"
+    ]
+  },
+{
+    "title":"Akses Cerme",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/515608024425012375631589.m3u8"
+    ]
+  },
+{
+    "title":"Akses Kedamean",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/116882800699685741425356.m3u8"
+    ]
+  },
+{
+    "title":"Entrance Belahanrejo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/041189990739437517920329.m3u8"
+    ]
+  },
+{
+    "title":"ENTRANCE BUNDER GRESIK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/847256887139548671784810.m3u8"
+    ]
+  },
+{
+    "title":"ENTRANCE CERME",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/960586018493109826517896.m3u8"
+    ]
+  },
+{
+    "title":"Entrance Lebani Gresik",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/984725404389959654354617.m3u8"
+    ]
+  },
+{
+    "title":"Exit Belahanrejo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/511709328065419305139203.m3u8"
+    ]
+  },
+{
+    "title":"EXIT BUNDER GRESIK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/375153524514321029341240.m3u8"
+    ]
+  },
+{
+    "title":"EXIT CERME",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/006355372207807401078801.m3u8"
+    ]
+  },
+{
+    "title":"Exit Lebani Gresik",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/331265484994449150672379.m3u8"
+    ]
+  },
+{
+    "title":"IC Cerme",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/704245419955557974280759.m3u8"
+    ]
+  },
+{
+    "title":"IC Kedamean",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/370001241597855866249572.m3u8"
+    ]
+  },
+{
+    "title":"JC Wringinanom On Ramp 4",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/910109879465748424910663.m3u8"
+    ]
+  },
+{
+    "title":"JC Wringinanom On Ramp 5",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/175371378340482202976674.m3u8"
+    ]
+  },
+{
+    "title":"JC Wringinanom On Ramp 8",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/306917244009412935401766.m3u8"
+    ]
+  },
+{
+    "title":"JC Wringinanom RAMP 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/825049788603424234685383.m3u8"
+    ]
+  },
+{
+    "title":"JC Wringinanom RAMP 4",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/048785164245493046337198.m3u8"
+    ]
+  },
+{
+    "title":"JC Wringinanom Ramp 5",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/678963470455811390923273.m3u8"
+    ]
+  },
+{
+    "title":"KM 00+954",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/323488124604250617743735.m3u8"
+    ]
+  },
+{
+    "title":"KM 01+775",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/274591739819863986114875.m3u8"
+    ]
+  },
+{
+    "title":"KM 04+400",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/818123076705089838222760.m3u8"
+    ]
+  },
+{
+    "title":"KM 05+400",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/350951419512183414606584.m3u8"
+    ]
+  },
+{
+    "title":"KM 06+500 JEMBATAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/361979054215261289199844.m3u8"
+    ]
+  },
+{
+    "title":"KM 07+500",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/960735591922704870290477.m3u8"
+    ]
+  },
+{
+    "title":"KM 08+500",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/616404066652360340518757.m3u8"
+    ]
+  },
+{
+    "title":"KM 10+408",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/054748348552116874910983.m3u8"
+    ]
+  },
+{
+    "title":"KM 11+467",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/528916500083901007009581.m3u8"
+    ]
+  },
+{
+    "title":"KM 12+431",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/842202782341896448890548.m3u8"
+    ]
+  },
+{
+    "title":"KM 14+390",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/825588406148061120496120.m3u8"
+    ]
+  },
+{
+    "title":"KM 15+392",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/756303659651485412306606.m3u8"
+    ]
+  },
+{
+    "title":"KM 16+425",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/892664223519713740462868.m3u8"
+    ]
+  },
+{
+    "title":"KM 17+418",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/891135508812924818614830.m3u8"
+    ]
+  },
+{
+    "title":"KM 18+415",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/777174388175367313054019.m3u8"
+    ]
+  },
+{
+    "title":"KM 19+478",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/508865423269463325705998.m3u8"
+    ]
+  },
+{
+    "title":"KM 20+392",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/331329686553155425247544.m3u8"
+    ]
+  },
+{
+    "title":"KM 21+455",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/752071176627300352963208.m3u8"
+    ]
+  },
+{
+    "title":"KM 22+375",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/710993991763834252257517.m3u8"
+    ]
+  },
+{
+    "title":"KM 23+937",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/621066352683466838258622.m3u8"
+    ]
+  },
+{
+    "title":"KM 24+940",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/055074335929058295473265.m3u8"
+    ]
+  },
+{
+    "title":"KM 25+947",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/246115504123339846509710.m3u8"
+    ]
+  },
+{
+    "title":"KM 26+966",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/312407351781794628193012.m3u8"
+    ]
+  },
+{
+    "title":"KM 27+822",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/662159049044107697247838.m3u8"
+    ]
+  },
+{
+    "title":"KM 28+900",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/733621788774298967360274.m3u8"
+    ]
+  },
+{
+    "title":"KM 3+500",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/236819452805180776792138.m3u8"
+    ]
+  },
+{
+    "title":"KM 4+100",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/130886110950527754855565.m3u8"
+    ]
+  },
+{
+    "title":"REST AREA A",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/573598975372662784330942.m3u8"
+    ]
+  },
+{
+    "title":"REST AREA B",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/786071105387933209751550.m3u8"
+    ]
+  },
+{
+    "title":"VMS Akses Belahanrejo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/261013076872275313443630.m3u8"
+    ]
+  },
+{
+    "title":"VMS Akses Bunder",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/723263257641971491529538.m3u8"
+    ]
+  },
+{
+    "title":"VMS Akses Cerme",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/465842735856954371105747.m3u8"
+    ]
+  },
+{
+    "title":"VMS Bypass Krian",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/179326080989230120481749.m3u8"
+    ]
+  },
+{
+    "title":"VMS KM 06+750",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/609973580051132322474270.m3u8"
+    ]
+  },
+{
+    "title":"VMS KM 23+300",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.waskitabumiwira.com/LiveApp/streams/632889324909601583972048.m3u8"
+    ]
+  }
+]
