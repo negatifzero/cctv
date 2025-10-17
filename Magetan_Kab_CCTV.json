@@ -1,0 +1,138 @@
+[
+ {
+    "title":"Jl. Taman Asri - S3 Perum T. Asri",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:847/stream20/file.m3u8"
+    ]
+  },
+ {
+    "title":"Jl. Mayjend Sukowati - S3_KPR Asabri",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:842/stream7/file.m3u8"
+    ]
+  },
+ {
+    "title":"Jl. Mayjend Sungkono - S4_Pasar Sayur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:842/stream1/file.m3u8"
+    ]
+  },
+ {
+    "title":"Jl. S. Parman Asrama Kodim",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:847/stream22/file.m3u8"
+    ]
+  },
+ {
+    "title":"Jl. Yos Sudarso - S4_Rani Puri",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:842/stream3/file.m3u8"
+    ]
+  },
+ {
+    "title":"Jl. Basuki Rahmat Timur - Alun-Alun",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:842/stream2/file.m3u8"
+    ]
+  },
+ {
+    "title":"JL. Basuki Rahmat Barat - S4_Gubernur Suryo Alun-Alun",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:842/stream8/file.m3u8"
+    ]
+  },
+ {
+    "title":"S4_Jl Timor-Lombok",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:847/stream21/file.m3u8"
+    ]
+  },
+ {
+    "title":"Jl. Mongindisi - Blok M",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:847/stream23/file.m3u8"
+    ]
+  },
+ {
+    "title":"Jl. Dr. Soetomo - S3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:842/stream5/file.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Panekan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:847/stream24/file.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Cepoko",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:847/stream18/file.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Milangasri",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:847/stream19/file.m3u8"
+    ]
+  },
+ {
+    "title":"Terminal Maospati",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:847/stream14/file.m3u8"
+    ]
+  },
+ {
+    "title":"Jl. Raya Maospati - S4_Pasar Jengglong",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:842/stream4/file.m3u8"
+    ]
+  },
+ {
+    "title":"Jl. Raya Maospati - S4 Bani Solan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:842/stream6/file.m3u8"
+    ]
+  },
+ {
+    "title":"S3 Refugia",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://saranganvision.my.id:847/stream16/file.m3u8"
+    ]
+  }
+]
