@@ -1,0 +1,410 @@
+[
+  {
+    "title":"CCTV SIMPANG 4 BATUAH 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=1"
+    ]
+  },
+  {
+    "title":"CCTV SIMPANG 4 BATUAH 2 (TUGU INTAN)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=2"
+    ]
+  },
+ {
+    "title":"A. YANI LAMPU MERAH",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=3"
+    ]
+  },
+ {
+    "title":"A. YANI (DARUSSALAM)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=4"
+    ]
+  },
+ {
+    "title":"SIMPANG 3 SEKUMPUL UJUNG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=5"
+    ]
+  },
+ {
+    "title":"SIMPANG 4 SEKUMPUL",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=6"
+    ]
+  },
+ {
+    "title":"IRIGASI SEKUMPUL 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=7"
+    ]
+  },
+ {
+    "title":"IRIGASI SEKUMPUL 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=8"
+    ]
+  },
+ {
+    "title":"GG MAHABBAH SEKUMPUL",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=9"
+    ]
+  },
+ {
+    "title":"GG NUSANTARA SEKUMPUL",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=10"
+    ]
+  },
+ {
+    "title":"GG MADRASAH SEKUMPUL",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=11"
+    ]
+  },
+ {
+    "title":"SEBERANG AZ SEKUMPUL",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=12"
+    ]
+  },
+ {
+    "title":"SIMP 4 PENDIDIKAN ALABAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=13"
+    ]
+  },
+ {
+    "title":"GG BERSAMA PENDIDIKAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=14"
+    ]
+  },
+ {
+    "title":"SIMP 4 TANJUNG REMA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=15"
+    ]
+  },
+ {
+    "title":"JL TANJUNG REMA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=16"
+    ]
+  },
+ {
+    "title":"SIMPANG 4 SULTAN ADAM",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=17"
+    ]
+  },
+ {
+    "title":"SIMPANG POLSEK MARTAPURA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=18"
+    ]
+  },
+ {
+    "title":"SIMP 3 SUNGAI SIPAI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=19"
+    ]
+  },
+ {
+    "title":"SIMPANG 3 PASAR PAPAN 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=20"
+    ]
+  },
+ {
+    "title":"SIMPANG 3 PASAR PAPAN 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=21"
+    ]
+  },
+ {
+    "title":"SIMP 4 PASAYANGAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=22"
+    ]
+  },
+ {
+    "title":"A YANI JL RAHAYU 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=23"
+    ]
+  },
+ {
+    "title":"A YANI JL RAHAYU 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=24"
+    ]
+  },
+ {
+    "title":"TUGU ADIPURA MTP",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=25"
+    ]
+  },
+ {
+    "title":"TAMAN SELAMAT DATANG 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=26"
+    ]
+  },
+ {
+    "title":"TAMAN SELAMAT DATANG 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=27"
+    ]
+  },
+ {
+    "title":"TAMAN SELAMAT DATANG 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=28"
+    ]
+  },
+ {
+    "title":"TAMAN CBS",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=29"
+    ]
+  },
+ {
+    "title":"TUGU INTAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=30"
+    ]
+  },
+ {
+    "title":"G PINTU CBS 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=31"
+    ]
+  },
+ {
+    "title":"G PINTU CBS 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=32"
+    ]
+  },
+ {
+    "title":"SIMPANG 3 BINCAU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=33"
+    ]
+  },
+ {
+    "title":"TUGU PANCASILA KM 17",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=34"
+    ]
+  },
+ {
+    "title":"KERTAK HANYAR KM 7",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=35"
+    ]
+  },
+ {
+    "title":"SIMPANG 3 H DUAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=36"
+    ]
+  },
+ {
+    "title":"RTH RATU ZALECHA 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=37"
+    ]
+  },
+ {
+    "title":"RTH RATU ZALECHA 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=38"
+    ]
+  },
+ {
+    "title":"TAMBAK ULU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=39"
+    ]
+  },
+ {
+    "title":"RTH SEKUMPUL",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=40"
+    ]
+  },
+ {
+    "title":"SIMPANG 3 ASTAMBUL",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=41"
+    ]
+  },
+ {
+    "title":"RTH KOMPAS",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=42"
+    ]
+  },
+ {
+    "title":"SIMPANG 4 SMKN MTP",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=43"
+    ]
+  },
+ {
+    "title":"MASJID INDRASARI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=44"
+    ]
+  },
+ {
+    "title":"MAKAM KH SALIM MAARUF",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=45"
+    ]
+  },
+ {
+    "title":"MAKAM KH SYARANI ARIF",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=46"
+    ]
+  },
+ {
+    "title":"MAKAM KH KAYSFUL ANWAR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=47"
+    ]
+  },
+ {
+    "title":"SIMP 3 JEMB DALAM PAGAR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=48"
+    ]
+  },
+ {
+    "title":"SIMPANG 4 SUNGAI TABUK 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=49"
+    ]
+  },
+ {
+    "title":"SIMPANG 4 SUNGAI TABUK 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=50"
+    ]
+  },
+ {
+    "title":"BATAS KOTA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/php-player/#https://cctv.banjarkab.go.id/proxy.php?id=67"
+    ]
+  }
+]
