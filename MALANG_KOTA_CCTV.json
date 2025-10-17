@@ -1,0 +1,1884 @@
+[ 
+{
+    "title":"S. Supriyadi (Arah Klaytan III) (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/045410553225288501472916.m3u8?token=null"
+    ]
+  }, 
+ 
+{
+    "title":"S. Supriadi Arah Utara (Klayatan III) (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/721240097001535400904802.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"S. Supriyadi Arah Selatan (Klaytan III) (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/906088015550297661590404.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Terusan Dieng Arah Barat (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Raya Langsep Arah Utara (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/448993781462444492103703.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Mergan Lori Arah Selatan (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/473307088033186544380122.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Jupri Arah Barat (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/425250660135490708615779.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"S. Supriadi Arah Utara (RST Soepraoen) (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/384637848342777611807113.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"S. Supriadi Arah Selatan (RST Soepraoen) (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/197345685908737433367460.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Halmahera Arah Selatan (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/858976621501627801724527.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Halmahera Arah Selatan (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/836708782306919156448722.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"S. Supriadi Arah Utara (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/456402990956810340846657.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Janti Barat Arah Timur (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/171077206204474544672476.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"S. Supriadi Arah Selatan (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/361570125945076654264551.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kol Sugiono Arah Selatan (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/519874872010984433957942.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kol Sugiono Arah Utara (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/639503580415824340703855.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Raya Kepuh Arah Utara (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/310071097451018441141169.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Raya Kepuh Arah Selatan (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/143404714352658300023454.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"S. Supriadi Arah Utara (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/336686011348989661063244.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Satsui Tubun Arah Timur (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/215178419587511478247119.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Gadang Pasar Arah Timur (Kec.Sukun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/292570058740218968707392.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Terusan Sulfat Arah Barat (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/255437547268502386905563.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Danau Kerinci Arah Selatan (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/148960239776637882670743.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ki Ageng Gribig Arah Utara (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/817521846151282907919064.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Raya Cemorokandang Arah Timur (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/143725395052441804689699.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ranu Grati Arah Barat (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/849859474089925604905534.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Danau Toba Arah Timur (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/004708955419442040752767.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Danau Kerinci Arah Utara (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/931466165340267193793620.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Danau Toba Arah Barat (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/037075518670899465560926.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Danau Toba Arah Timur (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/799063606348608223030193.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Danau Toba Arah Barat (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/133105391563125665089003.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ki Ageng Gribig Arah Utara (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/249126924447217291535999.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Martadinata Arah Utara (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/359461418488526462162650.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kebalen Wetan Arah Timur (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/839830267892971466247721.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Muharto Arah Barat (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/284039786620080380014346.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ki Ageng Gribig Arah Utara (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/424989231290086461229636.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Mayjen Sungkono Arah Selatan (Jembatan) (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/397487832387359645963672.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Gadang Arah Barat (Jembatan) (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/602903092982998690706438.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kyai Parseh Jaya Arah Utara (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/945917351993616433015698.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kyai Parseh Jaya Arah Selatan (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/791264717746791807536169.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Rajasa Arah Barat (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/390518457780656230115714.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Mayjen Sungkono Arah Selatan (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/872337836594410225468546.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Mayjend Sungkono Arah Utara (Block Office) (Kec.Kedungkandang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/648109998063016154575665.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Veteran Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/440008799417875731945423.m3u8?token=null"
+    ]
+  }, 
+
+{
+    "title":"Veteran Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/838413871917489102204055.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Bandung Arah Barat (Bundaran UKS) (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/699355759296848496652742.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ijen Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/268660637162985239935545.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ijen Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/742158442433359267079827.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Letjend Sutoyo Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/052357343710249808147659.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Letjend Sutoyo Arah Selatan (Hotel Savana) (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/435572404308262635105603.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"WR. Supratman Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/540407055746756125950976.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Jaksa Agung Suprapto Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/660120947895309721081787.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"W.R. Supratman Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/465602083379458835437909.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Jenderal Sudirman Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/855876619782149417527265.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Panglima Sudirman Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/281336549789753967841481.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Jendral Sudirman Arah Selatan (smpn 5) (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/054856199643889577039217.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ijen Arah Utara (Poltekes) (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/098343692068108583411220.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Merbabu Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/653722151300593309331609.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Galunggung Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/710655546702615517203062.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ijen Arah Selatan (Gereja) (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/408386140723144623861301.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Buring Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/735506210316890709562691.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Patimura Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/643592251459005888214586.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Patimura Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/844727028021085216938269.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Galunggung Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/564510132783646943412082.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Dieng Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/547359693237078797537666.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Langsep Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/573357726087672833075775.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ijen Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/627129209468594400740829.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ijen Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/143760541432235845327573.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Semeru Arah Timur (Perpustakaan) (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/421607974337796002196100.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Jaksa Agung Suprapto Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/655224432137058620115166.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Jaksa Agung Suprapto Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/092075042505129095657722.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Patimura Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/846669458386847680283620.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Patimura Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/057943232109594939574526.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Suropati Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/713173509121875472708904.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Patimura Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/008689729209182017615333.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Patimura Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/641491834085367672961096.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Trunojoyo Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/356109716679787773035183.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Panglima Sudirman Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/320035756896441723894425.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Sudirman Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/024271174990073130193626.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kawi Atas Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/495229592063339988032865.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ijen Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/322877538584592778525433.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Semeru Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/717958972035700755246088.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Bromo Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/138970978698975236916275.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Semeru Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/253598743355115924306355.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Semeru Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/776763144322125195609829.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kahuripan Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/994477999826297213214297.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Jaksa Agung Suprapto Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/395810883923327543094739.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Basuki Rahmat Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/876263708687156206364361.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Brigjend Slamet Riadi Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/654189372598870108548003.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Tugu Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/621626709539809832237018.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Tugu Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/938791837334761355142482.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Tugu Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/460831732288949136305143.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Tugu Arah Selatan (Balaikota) (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/188896189032493229715252.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kertanegara Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/231554183770498281450318.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Trunojoyo Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/027277786580967639165024.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kawi Arah barat (SMPN6) (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/067883214706611879049144.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Bromo Arah Utara (GKI Bromo) (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/664697529898892981084889.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kawi Arah Barat (BRI Kawi) (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/244729190133053856685781.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Arjuno Arah Utara (BRI Kawi) (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/599118267175295987908194.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kawi Arah Timur (BRI Kawi) (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/269060901340905226381917.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Basuki Rahmat arah utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/291214161756678285690451.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Majapahit Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/116009283303235824630445.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Basuki Rahmat Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/825109914933198114646936.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Aris Munandar Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/491236279805146068523382.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Aris Munandar Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/002327922068835068551525.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Trunojoyo Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/188475135081668166134552.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"KH. Hasyim Ashari Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/406217477871280304673887.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kauman Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/913339812782937126202419.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"KH. Hasyim Ashari Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/171664895247859983097279.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Merdeka Barat Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/818599107354393628794315.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Merdeka Barat Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/662201042760075959506830.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Merdeka Barat (Gereja) (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/403857627918649455935609.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Merdeka Utara Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/472503741586852378929425.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Merdeka Utara Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/375341952336011589690586.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Merdeka Utara Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/293434869573645632741268.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Agus Salim Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/217486301753431654065609.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Merdeka Timur Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/954955279531303785165551.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"SW Pranoto Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/421960655277255856257190.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Agus Salim Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/117940938424194503584011.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Agus Salim Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/222512201418345708685754.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"KH Ahmad Dahlan Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/422383028253759413095916.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Zainul Arifin Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/888598335546629776669925.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ade Irma Suryani Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/585001585243656697946585.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Arif Margono Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/789762621921935268666704.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"KH Wahid Hasyim Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/282903042902775461180091.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ade Irma Suryani Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/340486331612923975414024.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ade Irma Suryani Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/096052317426605718543303.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Syarif Al Qodri Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/333495472392613611434090.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ade Irma Suryani Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/588238642766249531642812.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"SW Pranoto Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/629217349359529662387028.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Pasar Besar Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/787400068366441690070099.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Sutan Syahrir Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/112214116527259160582301.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Pasar Besar Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/211248133615597097922668.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Zainul Arifin Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/411874064544847197125539.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Pasar Besar Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/791662500424223576621102.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Pasar Besar Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/623797234825519031426274.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Gatot Subroto Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/938035466891117643541014.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Yulius Usman Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/620853484047521997472024.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Arif Margono Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/713846259452297607019995.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Yulius Usman Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/920796867173871680340694.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Yulius Usman Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/530280435954205770660031.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Sulawesi Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/346702335161875943863648.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Halmahera Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/925117763280709584274906.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Nusakambangan Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/259213973885550105439889.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Arif Margono Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/652269633484216664565215.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Nusakambangan Arah Barat (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/212039658036127116733044.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Nusakambangan Arah Timur (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/520047642463517122795344.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Martadinata Arah Utara (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/385329642236762561556561.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kol Sugiono Arah Selatan (Kec.Klojen)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/103133560130391004996993.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"A Yani Utara (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/195874189915723862555674.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Raden Intan Arah Timur (Fly Over) (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/751047382267168358411551.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"A. Yani Arah Selatan (Fly Over) (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/957992467319427676437983.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Raden Intan Arah Barat (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/053338675520352467621994.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Panji Suroso Arah Selatan (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/466452347587002114136805.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Raden Intan Arah Barat (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/902490552268458858290479.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Pintu Keluar Terminal Arjosari (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/712057197220164117651869.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Panji Suroso Arah Utara (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/884548119530974853338399.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Panji Suroso Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/196782209615539550198936.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Panji Suroso Arah Selatan (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/323299835038577603023529.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Araya Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/044906552951351361548373.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ahmad Yani Arah Utara (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/178242276523301631131466.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"L.A Sucipto Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/506397672406115725994991.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ahmad Yani Arah Selatan (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/348389393952249311802450.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"A Yani Arah Utara (Masjid Sabilillah) (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/719653317344542196173839.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Borobudur Arah Barat (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/307023650278212238808482.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"A Yani Arah Selatan (Masjid Sabilillah) (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/982131430615781858979987.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"L.A Sucipto Arah Barat (Rel Kereta) (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/723151695977731792844774.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"L.A Sucipto Arah Timur (Rel Kereta) (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/383058139820804059897454.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Sunandar Priyo Sudarmo Arah Selatan (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/203640532758420394752179.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Raden Panji Suroso Arah Utara (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/563924488881364781254566.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Laksda Adi Sucipto Arah Barat (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/272315206096758266726516.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"LA Sucipto Arah Timur  (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/340493797437204668929658.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"LA Sucipto Arah Barat (Perbatasan) (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/537255318919087826651532.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Letjen S. Parman Arah Utara (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/637253114452609264665590.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ciliwung Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/837266608824147804260618.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Letjen S. Parman Arah Selatan (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/810133524862588268334710.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Sunandar Priyo Sudarmo Arah Utara (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/751339154948054004733945.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Sulfat Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/094128667156650236847266.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Sunandar Priyo Sudarmo Arah Selatan (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/436037012487980953940187.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Tumenggung Suryo Arah Utara (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/966506717989378844885521.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Tumenggung Suryo Arah Selatan (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/795110064442531890711535.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Sulfat Arah Barat (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/291829988431200667846093.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Terusan Sulfat Arah Barat (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/212852265924619178576872.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Terusan Sulfat Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/778411640624267613516944.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Terusan Sulfat Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/753337323046986013041375.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Tumenggung Suryo Arah Utara (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/444403449139429455057068.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Urip Sumoharjo Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/490601680936121642601185.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Sudirman Arah Utara (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/366629122294580263258917.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Urip Sumoharjo Arah Barat (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/498383745389554459491639.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kesatrian Arah Utara (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/786150212613240322734192.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Mayjen Wiyono Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/973041049647521784083717.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kesatrian Arah Selatan (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/031608321985243356752404.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Hamid Rusdi Arah Barat (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/760985375028014640425523.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Mayjen Wiyono Arah Barat (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/265177373892113388572492.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Ranugrati Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/192069978703913981773581.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Panglima Sudirman Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/969701327442840706448863.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Untung Suropati Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/427283423567089689597287.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Gatot Subroto Arah Selatan (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/239025669818857831915521.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Gatot Subroto Arah Utara (Jembatan Brantas) (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/717880005188495257691864.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Gatot Subroto Arah Selatan (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/192101052696608982929523.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Juanda Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/121335965337329637078039.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kampung Warna Warni (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/756753165339510713064459.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Martadinata Arah Selatan (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/006065046819333616502324.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Zainal Zakse Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/505886570472987236280044.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Zainal Zakse Arah Barat (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/420501415743258073902708.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Muharto Arah Timur (Kec.Blimbing)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/023076357712194374375085.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Tlogomas Arah Barat (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/764851199443964636246450.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Tlogomas Arah Timur (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/963661947392775741127849.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Tlogomas Arah Barat (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/572534477246123479166921.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Tlogomas Arah Barat (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/318197263503692449077822.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Tlogomas Arah Timur (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/704720868465795037095760.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Candi Panggung Arah Selatan (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/372979064320365430584084.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Sudimoro Arah Utara (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/889793263483161081015834.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Soekarno Hatta Arah Timur (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/682516686812038046706085.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Soekarno Hatta Arah Selatan (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/184398221253246434285173.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Borobudur Arah Timur (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/807179387709306202506877.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"MT Haryono Arah Barat (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/446907421280943044413749.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Soekarno Hatta Arah Utara (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/490076087057536757601215.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Soekarno Hatta Arah Selatan (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/227920422769509645238654.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Gajayana Arah Utara (Sardo) (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/385150101635081489243344.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Gajayana Arah Selatan (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/715337494726392556880466.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Gajayana Arah Selatan (Sardo) (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/455597782591873967365987.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Soekarno Hatta Arah Utara (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/003687850006099691498995.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"MT. Haryono Arah Barat (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/373865942595202639251772.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Panjaitan Arah Timur (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/673512185163543498056968.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Cengger Ayam Arah Utara (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/289833992881029327755836.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kalpataru Arah Barat (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/553368650971977610920123.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Kedawung Arah Timur (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/032716732487147302736608.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Melati Arah Selatan (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/006104464277312024187785.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Sumber Sari Arah Utara (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/639466428930627267991858.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Veteran Arah Timur (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/636589114401733445781917.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Sigura-Gura Arah Barat (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/967823448439028638648911.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Bendungan Sutami Arah Selatan (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/386132036661026320418844.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Sarangan Arah Barat (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/608341519678952535574036.m3u8?token=null"
+    ]
+  }, 
+{
+    "title":"Letjend Sutoyo Arah Utara (Kec.Lowokwaru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/274808309434970115761531.m3u8?token=null"
+    ]
+  }
+]
