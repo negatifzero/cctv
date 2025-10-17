@@ -1,0 +1,322 @@
+[
+ {
+    "title":"Bunderan 24, Tejo Agung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/2591791131537210056/index.m3u8"
+    ]
+  },
+{
+    "title":"Bunderan 29 Banjarsari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/6263382070789216486/index.m3u8"
+    ]
+  },
+{
+    "title":"Dam Raman , Purwo Asri",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/4128819652147680886/index.m3u8"
+    ]
+  },
+{
+    "title":"Depan Kantor Kesbang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/185556251854530786/index.m3u8"
+    ]
+  },
+{
+    "title":"Gapura Kota Metro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/2116384884348983807/index.m3u8"
+    ]
+  },
+{
+    "title":"JL. AH. Nasution 21",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/962615431574125534/index.m3u8"
+    ]
+  },
+{
+    "title":"JL. Ki Hajar Dewantara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/3878701785335196574/index.m3u8"
+    ]
+  },
+{
+    "title":"Jl. A.H. Nasution-Yosodadi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/8279475810511118087/index.m3u8"
+    ]
+  },
+{
+    "title":"Jl. Ahmad Yani",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/3601413923555796198/index.m3u8"
+    ]
+  },
+{
+    "title":"Jl. Ahmad Yani, PMI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/1412063481370363184/index.m3u8"
+    ]
+  },
+{
+    "title":"Jl. Letjen Alamsyah, Damkar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/4313004848422338651/index.m3u8"
+    ]
+  },
+{
+    "title":"Jl. Mayjen Riyachudu, Samber",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/671788996840005710/index.m3u8"
+    ]
+  },
+{
+    "title":"Lapangan Rejomulyo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/7295511935056079474/index.m3u8"
+    ]
+  },
+{
+    "title":"Masjid Taqwa",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/1142645557185266381/index.m3u8"
+    ]
+  },
+{
+    "title":"Pasar Cendrawasih",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/6857570804803323930/index.m3u8"
+    ]
+  },
+{
+    "title":"Perbatasan Metro Punggur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/5902659109449668453/index.m3u8"
+    ]
+  },
+{
+    "title":"Perbatasan Tejo Agung-Batanghari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/9209219041699412801/index.m3u8"
+    ]
+  },
+{
+    "title":"Perempatan Kel Iringmulyo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/2020438867522725576/index.m3u8"
+    ]
+  },
+{
+    "title":"Perempatan Purwosari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/2921920109367272689/index.m3u8"
+    ]
+  },
+{
+    "title":"Perempatan Radio Metropolis",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/5273029175238330919/index.m3u8"
+    ]
+  },
+{
+    "title":"Perempatan Taman Merdeka-Pertiwi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/7335140784518031117/index.m3u8"
+    ]
+  },
+{
+    "title":"Persimpangan Taqwa-Dispusarda",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/8618474526969899837/index.m3u8"
+    ]
+  },
+{
+    "title":"Pertigaan BPKAD-Pasar Shoping",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/2851760344054096802/index.m3u8"
+    ]
+  },
+{
+    "title":"Samber-Kecamatan Metro Pusat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/8302867235293926819/index.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Kampus",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/3492437679894575848/index.m3u8"
+    ]
+  },
+{
+    "title":"Simpang RSUD A. Yani",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/5421211350575270293/index.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Taqwa Rumdin Wali Wakil",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/2923159775363484515/index.m3u8"
+    ]
+  },
+{
+    "title":"Sumur Bandung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/2787718027873559648/index.m3u8"
+    ]
+  },
+{
+    "title":"Taman Makam Pahlawan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/96020701238088167/index.m3u8"
+    ]
+  },
+{
+    "title":"Traffic Light 22 H. Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/2667684031138422171/index.m3u8"
+    ]
+  },
+{
+    "title":"Traffic Light BAPPEDA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/5908903993053960435/index.m3u8"
+    ]
+  },
+{
+    "title":"Traffic Light Bata-Dominos",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/5257349040681077707/index.m3u8"
+    ]
+  },
+{
+    "title":"Traffic Light Ganjar Agung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/997694990780955050/index.m3u8"
+    ]
+  },
+{
+    "title":"Traffic Light Kel. Metro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/7725997528963138962/index.m3u8"
+    ]
+  },
+{
+    "title":"Traffic Light Margorejo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/325368837527426642/index.m3u8"
+    ]
+  },
+{
+    "title":"Traffic Light Polres-Imopuro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/4579117397465468673/index.m3u8"
+    ]
+  },
+{
+    "title":"Traffic Light Terminal 16c",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/532258874561468699/index.m3u8"
+    ]
+  },
+{
+    "title":"Tugu Metrem",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/5019630038422063281/index.m3u8"
+    ]
+  },
+{
+    "title":"Tugu Pena Metro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/5880753821172682728/index.m3u8"
+    ]
+  },
+{
+    "title":"Tugu Pengantin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rstp2hls.metrokota.go.id/hls/9105392627546897381/index.m3u8"
+    ]
+  }
+]
