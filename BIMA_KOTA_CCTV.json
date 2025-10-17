@@ -1,0 +1,194 @@
+[
+  {
+    "title":"Amahami",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=taman-amahami"
+    ]
+  },
+ {
+    "title":"Batas Kota NIU 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=batasKotaNiu2"
+    ]
+  },
+ {
+    "title":"Bendungan Kodo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=kodo"
+    ]
+  },
+ {
+    "title":"Cabang Dokter Agung (Lapangan Pahlawan)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=A8Hg7lYISTfs1754356691745"
+    ]
+  },
+ {
+    "title":"Jembatan Jatibaru",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=JATIBARU02"
+    ]
+  },
+ {
+    "title":"Jembatan Penatoi 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=Admin555555"
+    ]
+  },
+ {
+    "title":"Jembatan Penatoi 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=Admin666666"
+    ]
+  },
+ {
+    "title":"Jembatan Rontu",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=rontu"
+    ]
+  },
+ {
+    "title":"Lampu Merah Kantor POS Ranggo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=ranggo"
+    ]
+  },
+ {
+    "title":"Lampu Merah Lewirato",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=Lewirato"
+    ]
+  },
+ {
+    "title":"Lampu Merah Perempatan Sadia",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=cabangsadia"
+    ]
+  },
+ {
+    "title":"Lampu Merah Polres Bimakota",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=polres"
+    ]
+  },
+ {
+    "title":"Lampu Merah Santi",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=Santi"
+    ]
+  },
+ {
+    "title":"Lapangan Lampe",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=Admin333333"
+    ]
+  },
+ {
+    "title":"Lapangan Serasuba",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=v3BEXDWqfFpn1753929827044"
+    ]
+  },
+ {
+    "title":"Pasar Amahami",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=pasar02"
+    ]
+  },
+ {
+    "title":"Pertigaan Bulog",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=bulog"
+    ]
+  },
+ {
+    "title":"Pertigaan Duta Ban",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=R6W3JQW3TdSt1722585322741"
+    ]
+  },
+ {
+    "title":"Pertigaan Tanjung",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=tanjung"
+    ]
+  },
+ {
+    "title":"Pertigaan Terminal Kumbe",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=Admin444444"
+    ]
+  },
+ {
+    "title":"Taman Kodo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=tamankodo"
+    ]
+  },
+ {
+    "title":"Tanjakan Ule 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=Admin888888"
+    ]
+  },
+ {
+    "title":"Tanjakan Ule 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=Admin999999"
+    ]
+  },
+ {
+    "title":"Terminal Jatibaru",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/WebRTC_player/#https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=JATIBARU01"
+    ]
+  }
+]
