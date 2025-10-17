@@ -1,0 +1,123 @@
+[
+ 
+  {
+    "title":"RW : 3 | RT : 5 (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3110/301/2024/d28a00c8-768d-4cc1-91dd-2b7cdd8642ce_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 3 | RT : 5 (2) (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3110/401/2024/d28a00c8-768d-4cc1-91dd-2b7cdd8642ce_401.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 3 (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/2787/301/2024/7419ff15-fc3a-4db3-9030-c2c4e61f77a3_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 3 | RT : 5 (3) (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3110/101/2024/d28a00c8-768d-4cc1-91dd-2b7cdd8642ce_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 3 | RT : 5 (4) (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3110/201/2024/d28a00c8-768d-4cc1-91dd-2b7cdd8642ce_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 3 (2) (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/2787/101/2024/7419ff15-fc3a-4db3-9030-c2c4e61f77a3_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 3 (3) (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/2787/201/2024/7419ff15-fc3a-4db3-9030-c2c4e61f77a3_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/2518/101/2024/b3dc66e0-37f4-4056-87ef-e206ef274206_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (2) (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/2518/201/2024/b3dc66e0-37f4-4056-87ef-e206ef274206_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (3) (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/2518/301/2024/b3dc66e0-37f4-4056-87ef-e206ef274206_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 2 (4) (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/2518/401/2024/b3dc66e0-37f4-4056-87ef-e206ef274206_401.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 5 (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6246/101/2024/df7a1283-7e36-47cc-8753-f5d5e4f8df65_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 4 (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5952/101/2024/f4fc3fee-0f4a-4636-a407-6160ca95403e_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 4 (2) (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5952/301/2024/f4fc3fee-0f4a-4636-a407-6160ca95403e_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 4 (3) (Tambakrejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5952/201/2024/f4fc3fee-0f4a-4636-a407-6160ca95403e_201.m3u8"
+    ]
+  }
+]
