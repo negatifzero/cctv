@@ -1,0 +1,67 @@
+[
+ 
+  {
+    "title":"Simpang 3 Batu Licin Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://6gagoaeu0b71qye1lqi5p2.relay.vmsproxy.com/hls/5afb5086-2124-07d8-77f6-2a00102ba8d6.m3u8?authKey=117837d5-19ea-4aa2-8bec-96f8a1820922&auth=YWRtaW46aXpoWjRTTVZvK0FFai9qbXdOQ2hNVWVZeHR1Q3NVPWh6ZmJ0ZjozYTQ3N2Y2NDhhODlmYjBkZmI3M2ViODI1OTgwYjhmZg%3D%3D&lo=true&chunked&sessionID=1028&lo"
+    ]
+  }, 
+ {
+    "title":"Simpang 3 Batu Licin Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://be5fcfd3-0c62-4dbf-8337-be6c11aeac08.relay.vmsproxy.com/hls/7abaa21d-43b3-0b94-4685-a0cf6477a588.m3u8?auth=YWRtaW46aXpoWjRTTVZvK0FFai9qbXdOQ2hNVWVZeHR1Q3NVPWh6dWN1cjpkZjI3NDc5NmU2YzYyYjY0MzM2MGI1MjQ4NmExOGIyOQ==&lo=true"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Kompi Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://be5fcfd3-0c62-4dbf-8337-be6c11aeac08.relay.vmsproxy.com/hls/352545ae-3202-25c9-f870-62c06968a735.m3u8?auth=YWRtaW46aXpoWjRTTVZvK0FFai9qbXdOQ2hNVWVZeHR1Q3NVPWh6d3F6bjpmYjhhYWQ2MzVhOTIzOWMzNTRkN2RmMDIyOWQzMzVjMg==&lo=true"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Kompi Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://6gagoaeu0b71qye1lqi5p2.relay.vmsproxy.com/hls/b42f75c7-cfdb-39cc-41bf-8c066667ed2e.m3u8?authKey=a1b6456c-ae42-48f3-94c0-c3d8e5c4f47d&auth=YWRtaW46aXpoWjRTTVZvK0FFai9qbXdOQ2hNVWVZeHR1Q3NVPWh6bWNiczpjODEwNjI4Y2I5MDQwM2EyNWVlY2Y5MGJmNjY4OWI2YQ%3D%3D&lo=true&chunked&sessionID=1031&lo"
+    ]
+  }, 
+ {
+    "title":"Mesjid Apung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rpzc636rvh40i1kqop8oi3.relay.vmsproxy.com/hls/c3410078-cbc9-7015-c101-7dcd2bbdb14d.m3u8?authKey=89163d19-59cb-47e7-97ca-ee5247a3d646&auth=YWRtaW46a3NtYUJHMzEwTjNPR1BVYkRuYWR3aDI5c1JYbFVnPWh6aG5zaDo3NDJkYjRmMGU1NGI1MWMzZDQzM2MyNjlkZDBhMmNlNg%3D%3D&lo=true&chunked&sessionID=1342&lo"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Lampu Merah Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rpzc636rvh40i1kqop8oi3.relay.vmsproxy.com/hls/bb2833ff-c3e1-8214-e208-314c2952dca0.m3u8?authKey=e3736339-efd1-460d-b954-efa372dfebc4&auth=YWRtaW46a3NtYUJHMzEwTjNPR1BVYkRuYWR3aDI5c1JYbFVnPWh6YXV4bTo2OWNmZjAxMjdjYmJjYjAyMDg0MzliZjg3MGRiZTc2NQ%3D%3D&lo=true&chunked&sessionID=1343&lo"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Lampu Merah Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rpzc636rvh40i1kqop8oi3.relay.vmsproxy.com/hls/5519fe54-3110-ebfd-a43e-6dfe12285f5d.m3u8?authKey=1d4d6c89-2c80-4a10-b861-037eb16552c2&auth=YWRtaW46a3NtYUJHMzEwTjNPR1BVYkRuYWR3aDI5c1JYbFVnPWh6dHJnbTo0ZmYxNjY2ZTc0OTg1YjM5MzFiZjA1N2MwMmFkMzRlNw%3D%3D&lo=true&chunked&sessionID=1344&lo"
+    ]
+  }, 
+ {
+    "title":"Simpang 4 Lampu Merah Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://rpzc636rvh40i1kqop8oi3.relay.vmsproxy.com/hls/f8bec9d8-0779-0ff3-4d6f-963f25a830dc.m3u8?authKey=07fa31b2-06ed-49eb-9996-cd2b70d6eef6&auth=YWRtaW46a3NtYUJHMzEwTjNPR1BVYkRuYWR3aDI5c1JYbFVnPWh6anZxcDpiMzI3ZDhmMzBhYzc4NjBlMTU1MWY1OTI5OGUwOWFhMQ%3D%3D&lo=true&chunked&sessionID=1345&lo"
+    ]
+  }
+]
