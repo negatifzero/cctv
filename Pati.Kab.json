@@ -1,0 +1,58 @@
+[
+  {
+    "title":"Terminal 3 Pati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://streaming.patikab.go.id/memfs/01ff11ab-52a1-45fc-a175-5d7c571864fa.m3u8"
+    ]
+  },
+  {
+    "title":"Terminal 2 Pati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://streaming.patikab.go.id/memfs/beaf2a4a-a33a-4f34-8e75-1c2f6efbce47.m3u8"
+    ]
+  },
+  {
+    "title":"Terminal 1 Pati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://streaming.patikab.go.id/memfs/4b4698e3-f4d7-4269-acf3-78605e8c5f38.m3u8"
+    ]
+  },
+  {
+    "title":"Sutomo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://streaming.patikab.go.id/memfs/77c83222-d54d-4f32-84c9-df129b8f44ca.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Widorokandang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://streaming.patikab.go.id/memfs/cded35f9-4fe5-4a4c-b665-20ff313a9c91.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Puri",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://streaming.patikab.go.id/memfs/208c20a5-65c0-4e1b-8b6b-72e6375f093c.m3u8"
+    ]
+  },
+  {
+    "title":"Alun-alun",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://streaming.patikab.go.id/memfs/1d7b98ce-8366-4e6d-b73e-ee3e5d992dc4.m3u8"
+    ]
+  }
+]
