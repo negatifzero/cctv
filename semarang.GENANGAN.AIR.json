@@ -1,0 +1,186 @@
+[
+  {
+    "title":"LAMPER-GAJAH",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/e23236c9-11ac-42f0-87a4-c88cacf54319/index.m3u8"
+    ]
+  },
+  {
+    "title":"SUPRIYADI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/a6a74b3c-3505-4e64-b071-4b861a424c89/index.m3u8"
+    ]
+  },
+  {
+    "title":"PETERONGAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/9a729bb0-1f5f-40cc-b8e4-d769ae52cac6/index.m3u8"
+    ]
+  },
+  {
+    "title":"JRAKAH",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/f6434ce6-a9a0-451b-b938-4341352fc68c/index.m3u8"
+    ]
+  },
+  {
+    "title":"SP. AKPOL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/88e7fedf-1cad-4673-9c45-341b851ed3a4/index.m3u8"
+    ]
+  },
+  {
+    "title":"Tugumuda 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/cb44a209-58b5-4a7e-99c4-55d5ada0aae2/index.m3u8"
+    ]
+  },
+  {
+    "title":"SIMPANG LIMA 1 360",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/31ae4806-c55b-41eb-befd-93c815c09434/index.m3u8"
+    ]
+  },
+  {
+    "title":"Bea Cukai",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/370db323-a7b6-48ab-a811-08f20a6ceef5/index.m3u8"
+    ]
+  },
+  {
+    "title":"INDRAPRASTA-IMAM BONJOL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/6738ac82-c259-46a7-a2aa-0ed7ba24abfe/index.m3u8"
+    ]
+  },
+  {
+    "title":"TLOGOSARI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/5683409d-89df-4c07-8994-742a8d1860a6/index.m3u8"
+    ]
+  },
+  {
+    "title":"RW : 1 | RT : 4",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/2b210103-0205-4203-bc33-bdb4b1318b54/index.m3u8"
+    ]
+  },
+  {
+    "title":"RW : 1 | RT : 4 (2)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/47af239b-50de-45dc-a5bb-c5c777037c75/index.m3u8"
+    ]
+  },
+  {
+    "title":"RW : 1 | RT : 4 (3)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/d99a546f-efac-4466-b12e-43cf8a0b2d6e/index.m3u8"
+    ]
+  },
+  {
+    "title":"Jembatan Mberok",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/eee69cdb-0e9b-4521-8a65-02c819ffd7f9/index.m3u8"
+    ]
+  },
+  {
+    "title":"DPU-Museum Kota Lama",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/53bfde16-0c2e-4bc0-834f-d0d1c2dfcc9b/index.m3u8"
+    ]
+  },
+  {
+    "title":"DPU-Plumbon Mangkang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/b774812b-ef64-4c8d-b9e8-2ba40a0b5c9b/index.m3u8"
+    ]
+  },
+  {
+    "title":"DPU-Kel.Wonosari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/6e1b6e33-f384-4d07-9d7e-50f4550efe23/index.m3u8"
+    ]
+  },
+  {
+    "title":"DPU-Terowongan Soetta USM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/eb1701e3-bd3d-41f6-b9dc-555dd21bf983/index.m3u8"
+    ]
+  },
+  {
+    "title":"DPU_Pahlawan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/9067a415-1018-4290-8eb4-90563c5a07d7/index.m3u8"
+    ]
+  },
+  {
+    "title":"RW : 9 | RT : 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/c0b49726-6d04-41d6-9ba7-62c4bc62793b/index.m3u8"
+    ]
+  },
+  {
+    "title":"Bawah Tol X3W_OUT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/6323e596-bbe0-4a30-a42c-ba35b820635b/index.m3u8"
+    ]
+  },
+  {
+    "title":"Bawah Tol X3W_IN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/ee9b3cfc-c3b5-433d-a039-595cb909cbc1/index.m3u8"
+    ]
+  },
+  {
+    "title":"DPU-PIP Singosari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/27bc8d93-a6e3-4c4d-a635-4e69e53a0e9e/index.m3u8"
+    ]
+  }
+]
