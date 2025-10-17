@@ -1,0 +1,130 @@
+[ 
+{
+    "title":"Balaraja Barat Entrance",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/balbar/entrance/entrance.m3u8"
+    ]
+  }, 
+{
+    "title":"Balaraja Barat Exit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/balbar/exit/exit.m3u8"
+    ]
+  }, 
+{
+    "title":"Balaraja Timur Entrance",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/baltim/entrance/entrance.m3u8"
+    ]
+  }, 
+{
+    "title":"Balaraja Timur Exit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/baltim/exit/exit.m3u8"
+    ]
+  }, 
+{
+    "title":"Cikupa Entrance",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/cikupa/entrance/entrance.m3u8"
+    ]
+  }, 
+{
+    "title":"Cikupa Exit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/cikupa/exit/exit.m3u8"
+    ]
+  }, 
+{
+    "title":"Ciltim Entrance",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/ciltim/entrance/entrance.m3u8"
+    ]
+  }, 
+{
+    "title":"Ciltim Exit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/ciltim/exit/exit.m3u8"
+    ]
+  }, 
+{
+    "title":"KM 29+700 B",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/km29/bandung/bandung.m3u8"
+    ]
+  }, 
+{
+    "title":"KM 94+800 A",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/km94/ambon/ambon.m3u8"
+    ]
+  }, 
+{
+    "title":"KM 94+800 B",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/km94/bandung/bandung.m3u8"
+    ]
+  }, 
+{
+    "title":"KM 96+500 B",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/km96/ambon/ambon.m3u8"
+    ]
+  }, 
+{
+    "title":"Merak Entrance",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/merak/entrance/entrance.m3u8"
+    ]
+  }, 
+{
+    "title":"Merak Exit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/merak/exit/exit.m3u8"
+    ]
+  }, 
+{
+    "title":"Sertim Entrance",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/sertim/entrance/entrance.m3u8"
+    ]
+  }, 
+{
+    "title":"Sertim Exit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.margamandala.co.id:3443/sertim/exit/exit.m3u8"
+    ]
+  }
+]
