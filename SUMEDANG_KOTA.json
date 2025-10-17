@@ -1,0 +1,354 @@
+[ 
+  {
+    "title":"Alamsari Arah Cirebon",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/ca8fb7e3dfcc894f88002920997c26b0/hls/fMXW29kaZd/VvGm3WpNa3/s.m3u8"
+    ]
+  },
+ {
+    "title":"Alamsari Arah Dishub",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/ca8fb7e3dfcc894f88002920997c26b0/hls/fMXW29kaZd/17rAoDNKWr80/s.m3u8"
+    ]
+  },
+ {
+    "title":"Alamsari Arah Kota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/ca8fb7e3dfcc894f88002920997c26b0/hls/fMXW29kaZd/CiUyB6JrWp/s.m3u8"
+    ]
+  },
+ {
+    "title":"Alamsari Arah Wado",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/ca8fb7e3dfcc894f88002920997c26b0/hls/fMXW29kaZd/AsIToXoQVc/s.m3u8"
+    ]
+  },
+ {
+    "title":"Alamsari Fix 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/ca8fb7e3dfcc894f88002920997c26b0/hls/fMXW29kaZd/23YtWcxa5H/s.m3u8"
+    ]
+  },
+ {
+    "title":"Alun-Alun Utara 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/ca8fb7e3dfcc894f88002920997c26b0/hls/fMXW29kaZd/ALUNALUNUTARAFIX1/s.m3u8"
+    ]
+  },
+ {
+    "title":"Alun-Alun Utara 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/ca8fb7e3dfcc894f88002920997c26b0/hls/fMXW29kaZd/ALUNALUNUTARAFIX2/s.m3u8"
+    ]
+  },
+ {
+    "title":"ANGKREK FIX 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/ca8fb7e3dfcc894f88002920997c26b0/hls/fMXW29kaZd/2PzEEi5hR6/s.m3u8"
+    ]
+  },
+ {
+    "title":"ANGKREK FIX 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/ca8fb7e3dfcc894f88002920997c26b0/hls/fMXW29kaZd/7IBg7XJCLR/s.m3u8"
+    ]
+  },
+ {
+    "title":"Binokasih Arah Cirebon",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/ca8fb7e3dfcc894f88002920997c26b0/hls/fMXW29kaZd/Y2JdzS2W4t/s.m3u8"
+    ]
+  },
+ {
+    "title":"Binokasih Arah Gunung Puyuh",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/ca8fb7e3dfcc894f88002920997c26b0/hls/fMXW29kaZd/ABtji54TOv/s.m3u8"
+    ]
+  },
+ {
+    "title":"Binokasih Arah Kota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/AnenNAeJvm/s.m3u8"
+    ]
+  },
+ {
+    "title":"Binokasih Fix 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/Gcga8Gq1Bg/s.m3u8"
+    ]
+  },
+ {
+    "title":"BJB",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/BJBFIX1/s.m3u8"
+    ]
+  },
+ {
+    "title":"BNI 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/BNIFIX1/s.m3u8"
+    ]
+  },
+ {
+    "title":"BNI 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/BNIFIX2/s.m3u8"
+    ]
+  },
+ {
+    "title":"BTN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/BTNFIX1/s.m3u8"
+    ]
+  },
+ {
+    "title":"Cimayor Arah Cirebon",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/HnhfzqGh0y/s.m3u8"
+    ]
+  },
+ {
+    "title":"CISERO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/nJ1wvySF6j/s.m3u8"
+    ]
+  },
+ {
+    "title":"Dishub Arah Bandung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/O5F8wyHX9Y/s.m3u8"
+    ]
+  },
+ {
+    "title":"Dishub Arah Cirebon",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/gk5Lo9izdg/s.m3u8"
+    ]
+  },
+ {
+    "title":"GRIYA FIX 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/GRIYAFIX1/s.m3u8"
+    ]
+  },
+ {
+    "title":"GRIYA FIX 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/GRIYAFIX2/s.m3u8"
+    ]
+  },
+ {
+    "title":"KEJAKSAAN Fix 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/SKEJAKSAANFIX1/s.m3u8"
+    ]
+  },
+ {
+    "title":"KEJAKSAAN Fix 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/KEJAKSAANFIX2/s.m3u8"
+    ]
+  },
+ {
+    "title":"Lapas Fix",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/5148e6d8e566057a06d2cce1a1895ffc/hls/fMXW29kaZd/LAPASFIX1/s.m3u8"
+    ]
+  },
+ {
+    "title":"MPP 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/MPPFIX/s.m3u8"
+    ]
+  },
+ {
+    "title":"OJOLALI FIX 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/OJOLALIFIX1/s.m3u8"
+    ]
+  },
+ {
+    "title":"OJOLALI FIX 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/OJOLALIFIX2/s.m3u8"
+    ]
+  },
+ {
+    "title":"PADASUKA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/5148e6d8e566057a06d2cce1a1895ffc/hls/fMXW29kaZd/tkvPVkAcVD/s.m3u8"
+    ]
+  },
+ {
+    "title":"Pajaji Fix 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/tkvPVkAcVD/s.m3u8"
+    ]
+  },
+ {
+    "title":"Pajaji Fix 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/PAJAJIFIX2/s.m3u8"
+    ]
+  },
+ {
+    "title":"PASIFIK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/TENDOGFIX3/s.m3u8"
+    ]
+  },
+ {
+    "title":"PKB Fix 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/mTrvlky6xa80/s.m3u8"
+    ]
+  },
+ {
+    "title":"RSUD Arah Bandung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://192.168.10.31:8080/511c7ff169f347901b28f147ffaa74f2/hls/fMXW29kaZd/PTZRSUD/s.m3u8"
+    ]
+  },
+ {
+    "title":"RSUD Arah Cirebon",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/0j7lrn9dje/s.m3u8"
+    ]
+  },
+ {
+    "title":"Samoja Fix",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/samojafix1/s.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Endog Arah Bandung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/TENDOGFIX1/s.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Endog Arah Tegalkalong",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/TENDOGFIX2/s.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Endog Fix 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/TENDOG2FIX1/s.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Endog Fix 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/TENDOG2FIX2/s.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Endog Fix 4",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/TENDOGFIX4/s.m3u8"
+    ]
+  },
+ {
+    "title":"UPI FIX 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/UPIFIX1/s.m3u8"
+    ]
+  },
+ {
+    "title":"UPI FIX 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://shinobi.sumedangkab.go.id/0cc163ad12e9fbf1bcf0307473f1c1d1/hls/fMXW29kaZd/UPIFIX2/s.m3u8"
+    ]
+  }
+]
