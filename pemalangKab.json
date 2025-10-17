@@ -1,0 +1,114 @@
+[
+  {
+    "title":"CCTV Masjid Agung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.pemalangkab.go.id/masjidagung/masjid1.m3u8"
+    ]
+  },
+ {
+    "title":"CCTV Alun Alun Pemalang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.pemalangkab.go.id/alunalun/alunalun1.m3u8"
+    ]
+  },
+ {
+    "title":"CCTV Sirandu Pos",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.pemalangkab.go.id/sirandu_pos/sirandupos1.m3u8"
+    ]
+  },
+ {
+    "title":"CCTV Gandulan Tol",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.pemalangkab.go.id/gandulan/gandulan1.m3u8"
+    ]
+  },
+ {
+    "title":"CCTV Sirandu Arah Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.pemalangkab.go.id/sirandu_barat/sirandu_barat1.m3u8"
+    ]
+  },
+ {
+    "title":"CCTV Sirandu Arah Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.pemalangkab.go.id/sirandu_selatan/sirandu_selatan1.m3u8"
+    ]
+  },
+ {
+    "title":"CCTV Depan Kantor Pendopo Pemalang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.pemalangkab.go.id/kesbangpol/kesbangpol1.m3u8"
+    ]
+  },
+ {
+    "title":"CCTV Lawangrejo Pantura",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.pemalangkab.go.id/lawangrejo/lawangrejo1.m3u8"
+    ]
+  },
+ {
+    "title":"CCTV Sirandu arah timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.pemalangkab.go.id/sirandu_timur/sirandu_timur1.m3u8"
+    ]
+  },
+ {
+    "title":"CCTV Mega arah barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.pemalangkab.go.id/mega_barat/mega_barat1.m3u8"
+    ]
+  },
+ {
+    "title":"CCTV Mega arah selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.pemalangkab.go.id/mega_selatan/mega_selatan1.m3u8"
+    ]
+  },
+ {
+    "title":"CCTV Bca arah barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.pemalangkab.go.id/bca_barat/bca_barat1.m3u8"
+    ]
+  },
+ {
+    "title":"CCTV Bca arah timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.pemalangkab.go.id/bca_timur/bca_timur1.m3u8"
+    ]
+  },
+ {
+    "title":"CCTV Bca arah utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.pemalangkab.go.id/bca_utara/bca_utara1.m3u8"
+    ]
+  }
+]
