@@ -1,0 +1,43 @@
+[
+ 
+ {
+    "title":"Merdeka (Timur 2)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kebumenkab.go.id/assets/video/alun_alun_selatan/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Merdeka (Timur 1)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kebumenkab.go.id/assets/video/alun_alun_utara/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang 4 - SMP N 5 Kebumen",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kebumenkab.go.id/assets/video/smp5/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Tugu Lawet",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kebumenkab.go.id/assets/video/tugu_lawet/stream.m3u8"
+    ]
+  },
+ {
+    "title":"Soetta",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.kebumenkab.go.id/assets/video/pasar_timur/stream.m3u8"
+    ]
+  }
+]
