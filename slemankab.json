@@ -1,0 +1,373 @@
+[
+
+{
+    "title":"POS Polisi Denggung 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://src24jam.slemankab.go.id/8881/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"POS Polisi Denggung 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://src24jam.slemankab.go.id/8880/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"RSUD Sleman 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://src24jam.slemankab.go.id/8888/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"RSUD Sleman 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://src24jam.slemankab.go.id/8889/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"Amplaz 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://src24jam.slemankab.go.id/8912/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"Puskesmas Moyudan Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://src24jam.slemankab.go.id/8920/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"Perempatan Godean Arah Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/524559704910938140590513.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Pertigaan UIN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/032278190806133512572736.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Perempatan ringroad kronggahan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/209515763003164908293712.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Bundaran UGM3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/743105388068956192102673.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Perempatan Beran-1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/LiveApp/streams/396021596614929110615311.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Perempatan Beran - arah utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/LiveApp/streams/673398164784678070913580.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Denggung Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/LiveApp/streams/819912646868837107070973.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Pospol Jombor",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/245993371803374753849150.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Flyover Jombor Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/307128586041202077551051.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Flyover Jombor Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/550804569688264879028437.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Flyover Jombor Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/705678789512389466014138.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"CCTV Perempatan Monjali",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/435054358687962966743748.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Proliman 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/141890874016002714329353.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Pelemgurih 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/710715987663948483731029.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Pertigaan Maguwo 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/206298812007526786499421.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Pertigaan Maguwo 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/795796849964560710070389.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Perempatan tempel 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/996519156930814341104192.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Perempatan tempel 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/708022165175823387805038.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+
+{
+    "title":"Pasar Tempel 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.71.191.168/8887/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"Pasar Sleman 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.71.191.168/8890/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"Pasar Prambanan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.71.191.168/8895/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"Pertigaan Bappeda 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.71.191.168/8904/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"Pertigaan Pangukan 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.71.191.168/8906/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"Pertigaan Pangukan 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.71.191.168/8907/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"Pertigaan Pangukan 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.71.191.168/8908/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"Merapi-Bronggang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.71.191.168/8910/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"Amplaz 2 (1)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.71.191.168/8912/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"BP4 Sleman - Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.71.191.168/8924/hls/live.stream.m3u8"
+    ]
+  },
+{
+    "title":"BP4 Sleman -Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.71.191.168/8925/hls/live.stream.m3u8"
+    ]
+  },
+
+{
+    "title":"Perempatan Demak Ijo 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/832121999470711707928989.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Proliman 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/786891936004372941299462.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Jembatan-Kali Krasak",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/964709525328892941170893.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Pelem Gurih 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/091543543323649183747382.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Pelem Gurih 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/346935527534518584682783.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Prambanan Arah Klaten 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/294652610113860954611144.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Exit Tol Kalasan 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/319189700359231946646920.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Exit Tol Kalasan 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/318898474595722674589576.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Exit Tol Kalasan 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/165555551668845165494014.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Perempatan Pasar Hewan 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/614834880430057213348154.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  },
+{
+    "title":"Perempatan Pasar Hewan 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/614834880430057213348154.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined"
+    ]
+  }
+]
