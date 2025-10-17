@@ -1,0 +1,83 @@
+[
+ 
+  {
+    "title":"RW : 7 | RT : 1 (Candi)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6727/101/2024/57793bb0-ec37-4f9f-b110-d455e6b036e0_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 1 (2) (Candi)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6727/201/2024/57793bb0-ec37-4f9f-b110-d455e6b036e0_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 1 (3) (Candi)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6727/301/2024/57793bb0-ec37-4f9f-b110-d455e6b036e0_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 2 | RT : 7 (Candi)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/8933/101/2024/964ad6d6-2d2a-416f-aaa2-00cba3dad3de_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 2 | RT : 7 (2) (Candi)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/8933/201/2024/964ad6d6-2d2a-416f-aaa2-00cba3dad3de_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 6 | RT : 3 (Candi)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4710/101/2024/523398c8-7d96-4fef-8231-3aedc1c149b2_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 6 | RT : 3 (2) (Candi)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4710/201/2024/523398c8-7d96-4fef-8231-3aedc1c149b2_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 5 | RT : 6 (Candi)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6905/101/2024/77e839e0-621e-43f4-b064-76c781ae2649_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 5 | RT : 6 (2) (Candi)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6905/201/2024/77e839e0-621e-43f4-b064-76c781ae2649_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 5 | RT : 6 (3) (Candi)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6905/301/2024/77e839e0-621e-43f4-b064-76c781ae2649_301.m3u8"
+    ]
+  }
+]
