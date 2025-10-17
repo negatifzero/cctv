@@ -1,0 +1,86 @@
+hapus => https://kanghen10.github.io/smart-video-player/#
+langsung akses => https://stream.pringsewukab.go.id/memfs/e445dd60-85dc-4950-a9ce-0a3775b562df.m3u8
+
+[
+ 
+  {
+    "title":"PASAR GADINGREJO 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.pringsewukab.go.id/memfs/e445dd60-85dc-4950-a9ce-0a3775b562df.m3u8"
+    ]
+  }, 
+  {
+    "title":"PASAR GADINGREJO 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.pringsewukab.go.id/memfs/cfed881d-8f09-42bc-9944-920013c20017.m3u8"
+    ]
+  }, 
+ {
+    "title":"REST AREA 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.pringsewukab.go.id/memfs/98ee9df6-9bb8-4c2c-b627-984a6ea1235f.m3u8"
+    ]
+  }, 
+ {
+    "title":"REST AREA 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.pringsewukab.go.id/memfs/5db9916e-27db-49d8-bc6a-491386f7726e.m3u8"
+    ]
+  }, 
+ {
+    "title":"TUGU GAJAH 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.pringsewukab.go.id/memfs/f06d54c5-43b2-4f1c-9bf7-0fcc491e3c6c.m3u8"
+    ]
+  }, 
+ {
+    "title":"TUGU GAJAH 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.pringsewukab.go.id/memfs/52a3f72e-5039-4e57-92d8-a8a5d137e946.m3u8"
+    ]
+  }, 
+ {
+    "title":"SIMPANG 3 HOTEL URBAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.pringsewukab.go.id/memfs/514ff827-f52d-424b-a4aa-f51d03a42934.m3u8"
+    ]
+  }, 
+ {
+    "title":"SIMPANG 3 HOTEL URBAN 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.pringsewukab.go.id/memfs/89ced27c-8545-4884-863d-2681c3887d43.m3u8"
+    ]
+  }, 
+ {
+    "title":"SIMPANG EMPAT PASAR PRINGSEWU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.pringsewukab.go.id/memfs/7b4ff58c-6024-4d1e-b120-ca8ff69d782b.m3u8"
+    ]
+  }, 
+ {
+    "title":"PASAR PRINGSEWU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://stream.pringsewukab.go.id/memfs/e2b79d70-ddad-43b1-a1c1-45e4aed078bc.m3u8"
+    ]
+  }
+]
