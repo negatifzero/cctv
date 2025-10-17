@@ -1,0 +1,131 @@
+[
+ 
+  {
+    "title":"RW : 3 | RT : 5 (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/215/201/2024/ab96749b-b813-4000-9200-992c74a25266_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 7 (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/214/201/2024/699d3a74-eb32-4598-8af6-24686f43ec63_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 7 (2) (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/214/401/2024/699d3a74-eb32-4598-8af6-24686f43ec63_401.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 4 (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/238/201/2024/3afb6074-66b3-44f2-8eae-38f79a2ead12_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 2 | RT : 7 (3) (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/214/101/2024/699d3a74-eb32-4598-8af6-24686f43ec63_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 3 | RT : 5 (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/215/101/2024/ab96749b-b813-4000-9200-992c74a25266_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 4 (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/238/101/2024/3afb6074-66b3-44f2-8eae-38f79a2ead12_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 1 (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/242/201/2024/4b512189-e844-4b3d-b8b4-b9158544c089_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 6 (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantausemar.semarangkota.go.id/hls/221/101/3997a162-8a82-4ac9-b593-33064e3d2437_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 6 (2) (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/221/201/2024/3997a162-8a82-4ac9-b593-33064e3d2437_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 3 (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/225/101/2024/7eea392f-860d-4652-b637-33eeae9c8967_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 3 (2) (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/225/201/2024/7eea392f-860d-4652-b637-33eeae9c8967_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 7 (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/216/101/2024/85a5bb1e-3283-4240-a12d-e81518e826a7_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 7 (2) (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/216/201/2024/85a5bb1e-3283-4240-a12d-e81518e826a7_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 1 | RT : 3 (4) (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantausemar.semarangkota.go.id/hls/225//7eea392f-860d-4652-b637-33eeae9c8967_.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 1 (2) (Petompon)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/242/101/2024/4b512189-e844-4b3d-b8b4-b9158544c089_101.m3u8"
+    ]
+  }
+]
