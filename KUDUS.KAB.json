@@ -1,0 +1,164 @@
+[
+
+
+{
+    "title":"Penthol Gor",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/f165093d-3bdc-482b-8a7d-05498dfaab9e.m3u8"
+    ]
+  },
+{
+    "title":"Penthol Pati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/b684c726-eaf3-45c2-9495-a789694ff33c.m3u8"
+    ]
+  },
+{
+    "title":"Penthol PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/d4aac048-02f5-49c9-a600-5265f6a846af.m3u8"
+    ]
+  },
+{
+    "title":"Penthol Rendeng",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/7bcb07f0-68c6-438d-bcaf-2017e48147b8.m3u8"
+    ]
+  },
+{
+    "title":"Penthol Kota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/e997882d-1a7d-43a6-ae87-93b07e469777.m3u8"
+    ]
+  },
+{
+    "title":"Alun Alun",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/e997882d-1a7d-43a6-ae87-93b07e469777.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Krawang2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/7a8dbc66-ef80-4d3b-aa46-fc8b436e74c8.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Barongan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/8fc79897-03d6-443a-b3e6-0471e283d570.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Kencing",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/bfb7f870-8f7c-4ff3-9da2-def6114d37ff.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Panjang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/b97c64c2-c9d2-4ecf-9eaf-ec8b01de63ba.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Tanjung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/4685afda-b1bc-42fb-9e53-af62eb1e0f49.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Klenteng 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/a6026e65-5fda-4ca6-863b-7d14939307a3.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Matahari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/a89d331c-ed5e-483f-b9f3-dc324e48d359.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Menara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/547f59c2-2b57-4927-a09b-e3b0021dd589.m3u8"
+    ]
+  },
+{
+    "title":"Dawe 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/908c5b34-ff8f-4dd2-9f6b-1ea0dca0cba1.m3u8"
+    ]
+  },
+{
+    "title":"Dawe 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/4e3a10aa-5a41-4398-8334-20c9cf1edd23.m3u8"
+    ]
+  },
+{
+    "title":"Terminal Bakalan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/b1bfef7b-4ac5-49a5-b2fc-928a2bcf5fbd.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Sempalan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/c26dd885-07be-40a4-9b6c-358bf9fa6ab1.m3u8"
+    ]
+  },
+{
+    "title":"Terminal Colo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/e80f877d-7099-4400-aed8-117b2b2a3d68.m3u8"
+    ]
+  },
+{
+    "title":"Wisata Colo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.kuduskab.go.id/memfs/e80f877d-7099-4400-aed8-117b2b2a3d68.m3u8"
+    ]
+  }
+]
