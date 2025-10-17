@@ -1,0 +1,299 @@
+[
+ 
+  {
+    "title":"Perempatan Kominfo 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/c285d807-d19f-4dc0-83dc-b1932677fded/channel/0/mse?uuid=c285d807-d19f-4dc0-83dc-b1932677fded&channel=0"
+    ]
+  }, 
+  {
+    "title":"Perempatan Kominfo 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/c285d807-d19f-4dc0-83dc-b1932677fded/channel/1/mse?uuid=c285d807-d19f-4dc0-83dc-b1932677fded&channel=1"
+    ]
+  }, 
+  {
+    "title":"Parkir Depan Kominfo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/092dc478-ba66-4939-8fd0-b8796cfd89a0/channel/0/mse?uuid=092dc478-ba66-4939-8fd0-b8796cfd89a0&channel=0"
+    ]
+  }, 
+  {
+    "title":"Pertigaan Podosugih Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/69518725-7264-4b56-a685-7dbddf7cd039/channel/0/mse?uuid=69518725-7264-4b56-a685-7dbddf7cd039&channel=0"
+    ]
+  }, 
+  {
+    "title":"Pertigaan Podosugih Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/20f63cfc-3f39-440f-b604-4d356da5315d/channel/0/mse?uuid=20f63cfc-3f39-440f-b604-4d356da5315d&channel=0"
+    ]
+  }, 
+  {
+    "title":"Kecamatan Pekalongan Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/ec93a215-5852-4ae5-944e-8a6ec558e5e9/channel/0/mse?uuid=ec93a215-5852-4ae5-944e-8a6ec558e5e9&channel=0"
+    ]
+  }, 
+  {
+    "title":"Simpang Terminal Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/0b2a0c4c-fb26-4318-bbeb-86d6bcdf2fa3/channel/1/mse?uuid=0b2a0c4c-fb26-4318-bbeb-86d6bcdf2fa3&channel=1"
+    ]
+  }, 
+  {
+    "title":"Simpang Terminal Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/0b2a0c4c-fb26-4318-bbeb-86d6bcdf2fa3/channel/0/mse?uuid=0b2a0c4c-fb26-4318-bbeb-86d6bcdf2fa3&channel=0"
+    ]
+  }, 
+  {
+    "title":"Simpang Grosir Setono",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/204f7718-e20c-4229-8ebc-3c5b7470febb/channel/0/mse?uuid=204f7718-e20c-4229-8ebc-3c5b7470febb&channel=0"
+    ]
+  }, 
+  {
+    "title":"Simpang Ahmad Yani",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/204f7718-e20c-4229-8ebc-3c5b7470febb/channel/1/mse?uuid=204f7718-e20c-4229-8ebc-3c5b7470febb&channel=1"
+    ]
+  }, 
+  {
+    "title":"Simpang Posis Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/390c6bc2-f6eb-46f6-be5a-a7bd6651d110/channel/2/mse?uuid=390c6bc2-f6eb-46f6-be5a-a7bd6651d110&channel=2"
+    ]
+  }, 
+  {
+    "title":"Simpang Posis Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/390c6bc2-f6eb-46f6-be5a-a7bd6651d110/channel/1/mse?uuid=390c6bc2-f6eb-46f6-be5a-a7bd6651d110&channel=1"
+    ]
+  }, 
+  {
+    "title":"Simpang Posis Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/390c6bc2-f6eb-46f6-be5a-a7bd6651d110/channel/0/mse?uuid=390c6bc2-f6eb-46f6-be5a-a7bd6651d110&channel=0"
+    ]
+  }, 
+  {
+    "title":"Simpang Grogolan PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/442c3e59-0bcc-4651-a6b9-700b7b4f7218/channel/0/mse?uuid=442c3e59-0bcc-4651-a6b9-700b7b4f7218&channel=0"
+    ]
+  }, 
+  {
+    "title":"Simpang Grogolan Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/442c3e59-0bcc-4651-a6b9-700b7b4f7218/channel/1/mse?uuid=442c3e59-0bcc-4651-a6b9-700b7b4f7218&channel=1"
+    ]
+  }, 
+  {
+    "title":"Simpang Darma Bakti Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/504ddc51-6bb8-4355-a6b3-e1fc4b8e3e8d/channel/0/mse?uuid=504ddc51-6bb8-4355-a6b3-e1fc4b8e3e8d&channel=0"
+    ]
+  }, 
+  {
+    "title":"Simpang Darma Bakti Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/504ddc51-6bb8-4355-a6b3-e1fc4b8e3e8d/channel/2/mse?uuid=504ddc51-6bb8-4355-a6b3-e1fc4b8e3e8d&channel=2"
+    ]
+  }, 
+  {
+    "title":"Simpang Darma Bakti Bakti Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/504ddc51-6bb8-4355-a6b3-e1fc4b8e3e8d/channel/1/mse?uuid=504ddc51-6bb8-4355-a6b3-e1fc4b8e3e8d&channel=1"
+    ]
+  }, 
+  {
+    "title":"Ponolawen PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/a23d134a-18c6-4629-8df4-fe9b9777bac5/channel/0/mse?uuid=a23d134a-18c6-4629-8df4-fe9b9777bac5&channel=0"
+    ]
+  }, 
+  {
+    "title":"Jl. Mansyur-SMA Muhammadiyah-Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/a561e384-c065-41f6-84fa-32ec581f133f/channel/2/mse?uuid=a561e384-c065-41f6-84fa-32ec581f133f&channel=2"
+    ]
+  }, 
+  {
+    "title":"Jl. Mansyur SMA Muhammadiyah-Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/a561e384-c065-41f6-84fa-32ec581f133f/channel/1/mse?uuid=a561e384-c065-41f6-84fa-32ec581f133f&channel=1"
+    ]
+  }, 
+  {
+    "title":"Jl. Mansyur SMA Muhammadiyah-Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/a561e384-c065-41f6-84fa-32ec581f133f/channel/0/mse?uuid=a561e384-c065-41f6-84fa-32ec581f133f&channel=0"
+    ]
+  }, 
+  {
+    "title":"Simpang THR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/4ddb8484-2231-4450-9d91-30021a9d94e5/channel/3/mse?uuid=4ddb8484-2231-4450-9d91-30021a9d94e5&channel=3"
+    ]
+  }, 
+  {
+    "title":"Simpang THR Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/fa9357ae-1dbc-4f50-a6d1-88649a49a8ae/channel/2/mse?uuid=fa9357ae-1dbc-4f50-a6d1-88649a49a8ae&channel=2"
+    ]
+  }, 
+  {
+    "title":"Simpang Stasiun KA Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/fa9357ae-1dbc-4f50-a6d1-88649a49a8ae/channel/0/mse?uuid=fa9357ae-1dbc-4f50-a6d1-88649a49a8ae&channel=0"
+    ]
+  }, 
+  {
+    "title":"Simpang Pusri Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/b05ef4db-a7a7-4622-8b64-fd0085dabe4a/channel/0/mse?uuid=b05ef4db-a7a7-4622-8b64-fd0085dabe4a&channel=0"
+    ]
+  }, 
+  {
+    "title":"Simpang Pusri Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/723919ec-c0ae-43a9-90f8-a513d5823b27/0/mse?uuid=723919ec-c0ae-43a9-90f8-a513d5823b27&channel=0"
+    ]
+  }, 
+  {
+    "title":"Simpang Tirto Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/723919ec-c0ae-43a9-90f8-a513d5823b27/channel/1/mse?uuid=723919ec-c0ae-43a9-90f8-a513d5823b27&channel=1"
+    ]
+  }, 
+  {
+    "title":"Simpang Tirto Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/723919ec-c0ae-43a9-90f8-a513d5823b27/channel/2/mse?uuid=723919ec-c0ae-43a9-90f8-a513d5823b27&channel=2"
+    ]
+  }, 
+  {
+    "title":"Simpang Gambaran",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/4ddb8484-2231-4450-9d91-30021a9d94e5/channel/0/mse?uuid=4ddb8484-2231-4450-9d91-30021a9d94e5&channel=0"
+    ]
+  }, 
+  {
+    "title":"Simpang Polsek Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/4ddb8484-2231-4450-9d91-30021a9d94e5/channel/1/mse?uuid=4ddb8484-2231-4450-9d91-30021a9d94e5&channel=1"
+    ]
+  }, 
+  {
+    "title":"Simpang Sorogenen",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/065624f3-dd71-4b40-9106-9b59c81d51c6/channel/2/mse?uuid=065624f3-dd71-4b40-9106-9b59c81d51c6&channel=2"
+    ]
+  }, 
+  {
+    "title":"Simpang Dr Cipto",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/065624f3-dd71-4b40-9106-9b59c81d51c6/channel/0/mse?uuid=065624f3-dd71-4b40-9106-9b59c81d51c6&channel=0"
+    ]
+  }, 
+  {
+    "title":"Simpang Matahari",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/065624f3-dd71-4b40-9106-9b59c81d51c6/channel/1/mse?uuid=065624f3-dd71-4b40-9106-9b59c81d51c6&channel=1"
+    ]
+  }, 
+  {
+    "title":"Simpang Alun-alun",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/4ddb8484-2231-4450-9d91-30021a9d94e5/channel/2/mse?uuid=4ddb8484-2231-4450-9d91-30021a9d94e5&channel=2"
+    ]
+  }, 
+  {
+    "title":"Simpang Tirto Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/723919ec-c0ae-43a9-90f8-a513d5823b27/1/mse?uuid=723919ec-c0ae-43a9-90f8-a513d5823b27&channel=1"
+    ]
+  }, 
+  {
+    "title":"Simpang Stasiun KA Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+     "https://kanghen10.github.io/wss_player/#wss://rtsp.pekalongankota.go.id/stream/fa9357ae-1dbc-4f50-a6d1-88649a49a8ae/channel/1/mse?uuid=fa9357ae-1dbc-4f50-a6d1-88649a49a8ae&channel=1"
+    ]
+  }
+]
