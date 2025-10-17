@@ -1,0 +1,138 @@
+[
+  {
+    "title":"Batas Kota Selayo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/NP1CmZyRwn/s.m3u8"
+    ]
+  },
+ {
+    "title":"Gerbang Balai Kota Solok",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/x7YnhOLdlN/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Poliguna VI Suku",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/sc6gy5gpqR/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang ambacang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/QL27Ntzsq0/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Gawan (Kemenag)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/JPK7VjJT29/s.m3u8"
+    ]
+  },
+ {
+    "title":"Tugu Carano - Taman Kota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/1HeP8CqelC/s.m3u8"
+    ]
+  },
+ {
+    "title":"Tugu Carano - Taman Kota 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/w7yqaxXcMN/s.m3u8"
+    ]
+  },
+ {
+    "title":"Tugu Carano - Taman Kota 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/usxJ4SBBQm/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Surya 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/wGQCDSehHZ/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Surya 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/RRZ8t7eDoj/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Denpal 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/d8r3Eiz0HR/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Denpal 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/rxYwsm9QxE/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang SMPN 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/0F8nAlc4MM/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang sigege",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/1EWWP3KUuH/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Rumbio",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/AH1QKjwNk6/s.m3u8"
+    ]
+  },
+ {
+    "title":"Pandan Ujung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/vYLBXTKGU4/s.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang 5 Laing",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.solokkota.go.id/dzangPmUdufLge4NPUBaUcS7hhC4mn/hls/EvK5Hygy0I/WsuKNR8XvU/s.m3u8"
+    ]
+  }
+]
