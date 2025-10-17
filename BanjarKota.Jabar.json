@@ -1,0 +1,306 @@
+[
+ {
+    "title":"Jembar Arah Ciamis",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/PtzJembar1.m3u8"
+    ]
+  },
+ {
+    "title":"Jembar Dari Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/jembarjateng.m3u8"
+    ]
+  },
+ {
+    "title":"Alun Alun Arah Cimaragas",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/PTZ1alun-alunkota.m3u8"
+    ]
+  },
+ {
+    "title":"Alun Alun Dari Parungsari",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/arahparungsari.m3u8"
+    ]
+  },
+ {
+    "title":"Jembar Arah Terminal",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/jembarterminal.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Gardu Arah Cimaragas",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/arahcimaragas.m3u8"
+    ]
+  },
+ {
+    "title":"Tanjungsukur Dari Banjar",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/arahbanjar.m3u8"
+    ]
+  },
+ {
+    "title":"Tanjungsukur Arah Pangandaran",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/arahpangandaran.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Gardu Arah Banjar",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/spgardu.m3u8"
+    ]
+  },
+ {
+    "title":"Parungsari 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/Ptzparungsari.m3u8"
+    ]
+  },
+ {
+    "title":"Parungsari 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/spbbws.m3u8"
+    ]
+  },
+ {
+    "title":"Setda Kota Banjar",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/setdabanjar.m3u8"
+    ]
+  },
+ {
+    "title":"Situ Mustika",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/mustika.m3u8"
+    ]
+  },
+ {
+    "title":"Raider 323 Bp",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/raider323.m3u8"
+    ]
+  },
+ {
+    "title":"Garuda",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/Garuda.m3u8"
+    ]
+  },
+ {
+    "title":"Soponyono",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/SUPOYONO1.m3u8"
+    ]
+  },
+ {
+    "title":"Tugu Pahlawan Viaduct",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/piadeviaduc.m3u8"
+    ]
+  },
+ {
+    "title":"Cikabuyutan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/viar.m3u8"
+    ]
+  },
+ {
+    "title":"Gang Holil Cimenyan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/holil1.m3u8"
+    ]
+  },
+ {
+    "title":"H Ayo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/ayohaji.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Djarum",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/DJARUM.m3u8"
+    ]
+  },
+ {
+    "title":"SMAN 1 Banjar",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/sman1.m3u8"
+    ]
+  },
+ {
+    "title":"Singaperbangsa",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/singaperbangsa.m3u8"
+    ]
+  },
+ {
+    "title":"Banjar Atas",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/restarea.m3u8"
+    ]
+  },
+ {
+    "title":"Tugu Batas Jabar Arah Banjar",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/cijolang1.m3u8"
+    ]
+  },
+ {
+    "title":"Langensari",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/langensari1.m3u8"
+    ]
+  },
+ {
+    "title":"Cipadung",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/cipadung1.m3u8"
+    ]
+  },
+ {
+    "title":"Tugu Batas Jabar Arah Jateng",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/cijolang2.m3u8"
+    ]
+  },
+ {
+    "title":"Lapang Bakti 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/lapangbakti1.m3u8"
+    ]
+  },
+ {
+    "title":"Lapang Bakti 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/lapangbakti2.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Tsanawiyah",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/mts2.m3u8"
+    ]
+  },
+ {
+    "title":"Pusda'i",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/pusdai1.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Pln 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/pln1.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Pln 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/pln2.m3u8"
+    ]
+  },
+ {
+    "title":"Pendopo Kota Banjar",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/ptzpendopo.m3u8"
+    ]
+  },
+ {
+    "title":"Dobo Bbws",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/sumanding1.m3u8"
+    ]
+  },
+ {
+    "title":"Rca Lama",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/rcalama2.m3u8"
+    ]
+  },
+ {
+    "title":"Sumanding Arah Pamarican",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://atcs.banjarkota.go.id:5443/LiveApp/streams/sumanding2.m3u8"
+    ]
+  }
+]
