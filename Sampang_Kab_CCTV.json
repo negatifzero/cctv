@@ -1,0 +1,354 @@
+[
+ {
+    "title":"Monumen Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Monumen.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Monumen Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Monumen2.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Monumen Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Monumen4.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Monumen Dome",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Monumen3.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Duek Porte 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-DuekPote1.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Duek Porte 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-DuekPote2.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Duek Porte 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-DuekPote3.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Duek Porte 4",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-DuekPote4.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Barisan Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Barisan1.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Barisan 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Barisan2.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Barisan Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Barisan3.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Barisan Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Barisan4.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Tenten 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Tenten2.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Tenten 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Tenten4.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Tenten 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Tenten5.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Tenten 4",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Tenten1.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Tenten 5",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Tenten3.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Terminal 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Terminal1.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Terminal 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Terminal2.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Terminal 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Terminal3.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Terminal 4",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Terminal4.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Terminal 5",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Terminal5.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Terminal 6",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Terminal6.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Wijaya Arah Timur (Depan Alun-alun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Alun2wijaya1.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Wijaya Arah Barat (Depan Alun-alun)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/Lantas-Alun2wijaya2.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Wijayakusuma 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/T-WIJAYA1.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Wijayakusuma 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/T-WIJAYA2.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Wijayakusuma 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/T-WIJAYA3.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Wijayakusuma 4",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/T-WIJAYA4.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Wijayakusuma 5",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/T-WIJAYA5.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Kota 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/TAMAN-KOTA1.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Kota 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/TAMAN-KOTA2.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Kota 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/TAMAN-KOTA3.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Kota 4",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/TAMAN-KOTA4.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Kota 5",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/TAMAN-KOTA5.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Taman Kota 6",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/TAMAN-KOTA6.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Depan Hawai Arah Utara (Alun-alun Sampang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/L-WIJAYA1.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Selatan Arah Timur (Alun-alun Sampang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/L-WIJAYA2.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Utara Arah Timur (Alun-alun Sampang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/L-WIJAYA3.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"(Alun-alun Sampang) 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/L-WIJAYA5.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Barat Tengah Arah Selatan (Alun-alun Sampang)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/L-WIJAYA6.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"(Alun-alun Sampang) 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/L-WIJAYA7.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"(Alun-alun Sampang) 03",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/L-WIJAYA8.stream/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"(Alun-alun Sampang) 04",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantau.sampangkab.go.id//live/L-WIJAYA4.stream/playlist.m3u8"
+    ]
+  }
+]
