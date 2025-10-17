@@ -1,0 +1,211 @@
+[
+ 
+  {
+    "title":"RW : 8 | RT : 1 (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/2915/201/2024/6e35b7fd-faaa-40fb-a7b1-58b02ba75a3f_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 7 (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4090/201/2024/920ed17b-13ff-497c-9427-35c41cc90d79_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 7 (2) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4090/301/2024/920ed17b-13ff-497c-9427-35c41cc90d79_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 7 (3) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4090/401/2024/920ed17b-13ff-497c-9427-35c41cc90d79_401.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 1 (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/2915/101/2024/6e35b7fd-faaa-40fb-a7b1-58b02ba75a3f_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 7 (4) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4090/101/2024/920ed17b-13ff-497c-9427-35c41cc90d79_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 5 (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4402/201/2024/628f3ba3-84a9-4b38-9ef4-acf31e4129e9_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 4 (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6152/101/2024/d2fd4854-c3c4-4abd-826d-82fd572aa692_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 4 (2) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6152/201/2024/d2fd4854-c3c4-4abd-826d-82fd572aa692_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 5 | RT : 1 (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3722/101/2024/59c74bb4-20b6-4a1a-8c42-298dd52fd254_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 5 | RT : 1 (2) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3722/201/2024/59c74bb4-20b6-4a1a-8c42-298dd52fd254_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 5 | RT : 1 (3) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3722/301/2024/59c74bb4-20b6-4a1a-8c42-298dd52fd254_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 5 | RT : 1 (4) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3722/401/2024/59c74bb4-20b6-4a1a-8c42-298dd52fd254_401.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 6 (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4926/101/2024/61d54fdb-722a-4691-b3c3-b67fbd06ed18_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 6 (2) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4926/201/2024/61d54fdb-722a-4691-b3c3-b67fbd06ed18_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 6 (3) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4926/401/2024/61d54fdb-722a-4691-b3c3-b67fbd06ed18_401.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 5 (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4402/101/2024/628f3ba3-84a9-4b38-9ef4-acf31e4129e9_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 5 (2) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4402/301/2024/628f3ba3-84a9-4b38-9ef4-acf31e4129e9_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 5 (3) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4402/401/2024/628f3ba3-84a9-4b38-9ef4-acf31e4129e9_401.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 6 (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6466/101/2024/93c1081a-4bfa-4f35-9c6f-a490fe5c9907_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 6 (2) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6466/201/2024/93c1081a-4bfa-4f35-9c6f-a490fe5c9907_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 6 (3) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6466/301/2024/93c1081a-4bfa-4f35-9c6f-a490fe5c9907_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 6 (4) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6466/401/2024/93c1081a-4bfa-4f35-9c6f-a490fe5c9907_401.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 2 | RT : 7 (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3479/101/2024/6c214ac2-7b24-4f43-9ee0-43015576fd40_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 2 | RT : 2 (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3225/101/2024/84acb04b-40df-49ce-bc2a-51f58fd837d9_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 2 | RT : 2 (1) (Gayamsari)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3225/201/2024/84acb04b-40df-49ce-bc2a-51f58fd837d9_201.m3u8"
+    ]
+  }
+]
