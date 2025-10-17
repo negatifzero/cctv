@@ -1,0 +1,226 @@
+[ 
+  {
+    "title":"Ciledug 1 Entrance",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/40c3cebc-3760-4fca-b023-02716a029221_output_0.m3u8"
+    ]
+  },
+{
+    "title":"Ciledug 1 Exit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/4be64c6e-ea6f-4abb-8695-f0dae9a4fa72_output_0.m3u8"
+    ]
+  },
+{
+    "title":"Ciledug 2 Entrance",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/fa9a6a15-27db-4548-8c53-9239cf82b088_output_0.m3u8"
+    ]
+  },
+{
+    "title":"Ciledug 2 Exit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/8efc4c82-d74d-4b9f-ac48-9d0423b9e609_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 214 + 950",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/93e63d5a-b50d-45f5-acb5-5caca3fe21b2_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 217 + 000 (A)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/05ddaf3c-6bd8-425b-8d16-1fad3aa24485_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 217 + 000 (B)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/34c7a5f4-3ae8-4057-bbf8-217fb9ebb45a_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 219 + 000 (A)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/ed43f5b6-d347-44aa-b7c3-c1f4beaee24f_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 219 + 000 (B)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/7b1d5e93-1909-4abd-83b4-b29ced07af91_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 225 + 200 (A)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/87904597-c132-43b3-82ab-086dfc60aa18_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 225 + 200 (B)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/c88fa579-3b89-4dc1-b827-5f8268edb761_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 227 + 000 (A)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/13e95c10-f883-41d0-a8b3-10b6d3ff41bf_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 227 + 000 (B)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/0addaeb5-01fc-4532-a0c0-c9f457117817_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 228 + 400",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/bd0ebd4c-330d-476d-ab7b-babc7c916be0_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 229 + 000",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/d9d15204-0c31-4138-8a96-5ec318c3d095_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 231 + 400 (A)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/47e5144c-03dd-4a95-8f6b-b3fe2451aa5d_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 231 + 400 (B)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/6f3e8e8b-5bbd-41b5-8ea2-fe769be00316_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 238 + 600 (A)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/5aed7e07-f96c-481e-ad63-b481fb3aeb92_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 238 + 600 (B)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/7e0fe2cc-8742-465c-99b1-a289d2015a74_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 240 + 800 (A)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/df470b31-a41b-4aff-9f6b-f5f6793e3d7c_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 240 + 800 (B)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/0f9990a0-0190-4ab9-86db-5d22c8bd7886_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 246 + 600 (A)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/1d127b0a-d763-41ef-9e9c-4fc4ac49e4e2_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 246 + 600 (B)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/65d41d82-0439-400f-9d68-ed1f7b08bf0c_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 247 + 900 (A)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/d53b2c6c-96a7-4d78-82a2-81a9643e2caf_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 247 + 900 (B)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/a99cff48-d24b-4335-b909-4b1b50e79daa_output_0.m3u8"
+    ]
+  },
+{
+    "title":"KM 249+200",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/e65311f2-a24d-4d91-8263-8639387c34bf_output_0.m3u8"
+    ]
+  },
+{
+    "title":"Pejagan Entrance",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/83852e0b-b27c-466f-9e62-6b26b6c8583c_output_0.m3u8"
+    ]
+  },
+{
+    "title":"Pejagan Exit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.smr.web.id/memfs/79f3ce5d-a052-4401-90e9-fd89864003e8_output_0.m3u8"
+    ]
+  }
+]
