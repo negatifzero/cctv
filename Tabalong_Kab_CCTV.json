@@ -1,0 +1,243 @@
+[
+  {
+    "title":"RTH Bangun Sari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-xVKVfg4YVpotSHlc/index.m3u8"
+    ]
+  },
+    {
+    "title":"Simpang Polres 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-mybnRQ5bCY6068Ww/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Polres 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-dMUc8pGm7DGQVLSf/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Mesjid Tanjung 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-abqYBfKXcHsqeOiY/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Mesjid Tanjung 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-kmB8nsyaIL609Z3n/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Mesjid Tanjung 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-prQwcor_lN4ZxGhh/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Selongan 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-9w0GuQ8BTNy3ZFS-/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Selongan 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-Rykdq3gjLyjNuUsY/index.m3u8"
+    ]
+  },
+ 
+   {
+    "title":"Simpang Sulingan 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-rk23tvJ_3npLvAw9/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Sulingan 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-wasFffmX2t3_JdV5/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Belimbing 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-8mtZkQN-cQPxDgLF/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Belimbing 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-oFYp7wdhfbWIYGne/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Tanjung Selatan 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-4KnO9QhyyIfqjJ_q/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Tanjung Selatan 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-Dvg5alb5jLyfl6yq/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Tanjung Selatan 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-0ggE23d1YuhwR8Ae/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Obor 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-fTHZ-Sn_Bq51dh_O/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Obor 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-PnrYOpEJP8ngTbxu/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Terminal 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-CknGgyqxWIrLRC5i/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Bank Kalsel 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-rweiUEcAlJUDYe6V/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Bank Kalsel 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-AXeZt7_pJtAKb-Yf/index.m3u8"
+    ]
+  },
+   {
+    "title":"Simpang Mesjid Tanjung 4",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-eIzTzB53UeDNvqC2/index.m3u8"
+    ]
+  },
+   {
+    "title":"RTH Taman 10K Murung Pudak",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-32HOjQtm7Rrk59VI/index.m3u8"
+    ]
+  },
+   {
+    "title":"RTH Kambang Tanjung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-r0QKlMHHbhv2JVh3/index.m3u8"
+    ]
+  },
+   {
+    "title":"Taman Giat Tanjung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-IulkTXOuNiqAY1pL/index.m3u8"
+    ]
+  },
+   {
+    "title":"Tanjung Bersinar Park 4",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-lehyYwhCMTsunsTn/index.m3u8"
+    ]
+  },
+   {
+    "title":"Tanjung Bersinar Park 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-4hrPtekTTk8lPHWH/index.m3u8"
+    ]
+  },
+   {
+    "title":"Tanjung Bersinar Park 5",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-VN_mCvWMWWyS4E7G/index.m3u8"
+    ]
+  },
+   {
+    "title":"Tanjung Bersinar Park 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-rr8EXKhrU4VAb8Mg/index.m3u8"
+    ]
+  },
+   {
+    "title":"Tanjung Bersinar Park 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-y4-U-5Q3eVUG3mpI/index.m3u8"
+    ]
+  },
+   {
+    "title":"RTH Haruai",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv.tabalongkab.go.id/cctv-jjsXxQfaTu45Qs2V/index.m3u8"
+    ]
+  }
+]
