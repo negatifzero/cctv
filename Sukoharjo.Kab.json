@@ -1,0 +1,139 @@
+[
+  {
+    "title":"Pasar Nguter",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=3&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+ 
+ {
+    "title":"Proliman 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=6&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"Simpang Kejaksaan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=8&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"BPN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=10&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"Pasar Tawangsari",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=11&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"Patung Jamu",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=13&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"Utara POM Bulakrejo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=14&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"Simpang Telukan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=15&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"Pandawa 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=16&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"Pandawa 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=17&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"The Park",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=18&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"Simpang 3 Bekonang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=20&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"impang Dlopo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=21&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"Kadilangu",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=22&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"Gentan Baki",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=23&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"Simpang Kartasura",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=25&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  },
+  {
+    "title":"Simpang UMS",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=26&scale=100&maxfps=15&buffer=1000&user=user&pass=user"
+    ]
+  }
+]
