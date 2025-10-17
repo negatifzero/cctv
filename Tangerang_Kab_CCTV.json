@@ -1,0 +1,210 @@
+[
+  {
+    "title":"Jayanti 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzn18d0ca1m7p4ctvx1/01jsnyfnzn18d0ca1m7p4ctvx1.m3u8?1753343945750"
+    ]
+  },
+  {
+    "title":"Jayanti 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzqgp8ey0jpz4hec4xa/01jsnyfnzqgp8ey0jpz4hec4xa.m3u8?1753343761926"
+    ]
+  },
+  {
+    "title":"Cikupa Kedaton 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzs6e5818bdsed2jppp/01jsnyfnzs6e5818bdsed2jppp.m3u8?1753344017336"
+    ]
+  },
+  {
+    "title":"Cikupa Mas 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzt5nxdn9t5fzt0265r/01jsnyfnzt5nxdn9t5fzt0265r.m3u8?1753344048559"
+    ]
+  },
+  {
+    "title":"Cisauk 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzv75f3w6m701qt8rn5/01jsnyfnzv75f3w6m701qt8rn5.m3u8?1753344081194"
+    ]
+  },
+  {
+    "title":"Cisauk 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzwk8thm9m03a4prrfh/01jsnyfnzwk8thm9m03a4prrfh.m3u8?1753344101820"
+    ]
+  },
+  {
+    "title":"Simpang Rajeg Kukun 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr079n4btzjemf6r9br473w/01jsr079n4btzjemf6r9br473w.m3u8?1753344129587"
+    ]
+  },
+  {
+    "title":"Simpang Rajeg Kukun 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr0j5nwjcbthcb6aypa6dcr/01jsr0j5nwjcbthcb6aypa6dcr.m3u8?1753344189980"
+    ]
+  },
+  {
+    "title":"Simpang Pasar Kemis 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr0t8vyed4mcezqccqfngha/01jsr0t8vyed4mcezqccqfngha.m3u8?1753344213830"
+    ]
+  },
+  {
+    "title":"Simpang Pasar Kemis 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr3dmjxav35pvcja8j4c6ac/01jsr3dmjxav35pvcja8j4c6ac.m3u8?1753344234072"
+    ]
+  },
+  {
+    "title":"Simpang Sepatan 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr485tfw1cwwa1v6c3jpgfd/01jsr485tfw1cwwa1v6c3jpgfd.m3u8?1753344259859"
+    ]
+  },
+  {
+    "title":"Simpang Sepatan 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr4h8jwz9f0akrk9bd48qt7/01jsr4h8jwz9f0akrk9bd48qt7.m3u8?1753344283736"
+    ]
+  },
+  {
+    "title":"Simpang Islamic 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrc5g3cz9wsb0305zte4h04/01jsrc5g3cz9wsb0305zte4h04.m3u8?1753344308231"
+    ]
+  },
+  {
+    "title":"Simpang Islamic 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrcb5aqka89ned967d8gz1k/01jsrcb5aqka89ned967d8gz1k.m3u8?1753344339975"
+    ]
+  },
+  {
+    "title":"Simpang Dadap 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrcpqn62mej02bc0h565epz/01jsrcpqn62mej02bc0h565epz.m3u8?1753344370264"
+    ]
+  },
+  {
+    "title":"Simpang Dadap 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrctg4pc3xdf5vkjjg4pcfd/01jsrctg4pc3xdf5vkjjg4pcfd.m3u8?1753344393731"
+    ]
+  },
+  {
+    "title":"Simpang Legok 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrdvkp3ssgqrtemf8kn8gv6/01jsrdvkp3ssgqrtemf8kn8gv6.m3u8?1753344426521"
+    ]
+  },
+  {
+    "title":"Simpang Legok 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsre3pj905zcym25730bhw5q/01jsre3pj905zcym25730bhw5q.m3u8?1753344452784"
+    ]
+  },
+  {
+    "title":"Simpang Adiyasa 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrefb2z1e8y217vqdn6q60f/01jsrefb2z1e8y217vqdn6q60f.m3u8?1753344472802"
+    ]
+  },
+  {
+    "title":"Simpang Adiyasa 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrepbfdrenxw1k42nxw94c5/01jsrepbfdrenxw1k42nxw94c5.m3u8?1753344500701"
+    ]
+  },
+  {
+    "title":"Pemda Tigaraksa",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrev0qphd8m3v37rqf1xf9y/01jsrev0qphd8m3v37rqf1xf9y.m3u8?1753344531496"
+    ]
+  },
+  {
+    "title":"Jl. Pemda Tigaraksa 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jzvpwyqcs2g5kk9rc1s37e4y/01jzvpwyqcs2g5kk9rc1s37e4y.m3u8?1753344553598"
+    ]
+  },
+  {
+    "title":"Kecamatan Mauk",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jzvqax0cms7wh04jqhw61t3r/01jzvqax0cms7wh04jqhw61t3r.m3u8?1753344587356"
+    ]
+  },
+  {
+    "title":"Tugu Mauk",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jzvqg6wswbn9vc37nyyf0qg1/01jzvqg6wswbn9vc37nyyf0qg1.m3u8?1753344612932"
+    ]
+  },
+  {
+    "title":"Jl. Pantura Bitung 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jzvqtpxmrvd9pcbbsh2jq61q/01jzvqtpxmrvd9pcbbsh2jq61q.m3u8?1753344653607"
+    ]
+  },
+  {
+    "title":"Jl. Pantura Bitung 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-dishub.tangerangkab.go.id/storage/video/01jzvr0hphd8c104283f8g1d9n/01jzvr0hphd8c104283f8g1d9n.m3u8?1753344682439"
+    ]
+  }
+]
