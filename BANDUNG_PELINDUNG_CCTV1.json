@@ -1,0 +1,1635 @@
+[
+  {
+    "title":"ACEH-WASTUKENCANA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/acehwastukencana.m3u8"
+    ]
+  },
+
+{
+    "title":"ALUN-ALUN_03",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/ALUN.m3u8"
+    ]
+  },
+{
+    "title":"ANTAPANI-DEPAN BORMA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Ant.m3u8"
+    ]
+  },
+{
+    "title":"ANTAPANI-DEPAN BORMA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Antt.m3u8"
+    ]
+  },
+{
+    "title":"BATAS KOTA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/BatasKo.m3u8"
+    ]
+  },
+{
+    "title":"BATAS KOTA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/cibeurem.m3u8"
+    ]
+  },
+{
+    "title":"BORMA CIKUTRA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/CIK.m3u8"
+    ]
+  },
+{
+    "title":"BORMA CIKUTRA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/CIKUT.m3u8"
+    ]
+  },
+{
+    "title":"BRAGA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/braga.m3u8"
+    ]
+  },
+{
+    "title":"BRAGA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaa.m3u8"
+    ]
+  },
+{
+    "title":"BRAGA 03",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaaa.m3u8"
+    ]
+  },
+{
+    "title":"BRAGA 1-NARIPAN 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Nar.m3u8"
+    ]
+  },
+{
+    "title":"BRAGA 1-NARIPAN 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Nari.m3u8"
+    ]
+  },
+{
+    "title":"BUAH BATU-DEPAN GRIYA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Buahgriya.m3u8"
+    ]
+  },
+{
+    "title":"BUBAT KORDON",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/BUB.m3u8"
+    ]
+  },
+{
+    "title":"BURANGRANG BPI 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/burangrangbpi.m3u8"
+    ]
+  },
+{
+    "title":"BURANGRANG BPI 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/burangrangbpii.m3u8"
+    ]
+  },
+{
+    "title":"CIATEUL 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/CIAT.m3u8"
+    ]
+  },
+{
+    "title":"CIATEUL 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/CIA.m3u8"
+    ]
+  },
+{
+    "title":"CIBADUYUT-DEKAT TPS 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cibatps.m3u8"
+    ]
+  },
+{
+    "title":"CIBADUYUT-DEKAT TPS 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cibaytps.m3u8"
+    ]
+  },
+{
+    "title":"CICABE_01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/CICA.m3u8"
+    ]
+  },
+{
+    "title":"CICABE_02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/CIC.m3u8"
+    ]
+  },
+{
+    "title":"CICADAS - CIKUTRA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/cicadasstyusup.m3u8"
+    ]
+  },
+{
+    "title":"CICADAS - CIKUTRA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/cicadasstyusupp.m3u8"
+    ]
+  },
+{
+    "title":"CICADAS-GATEWAY_01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/CI.m3u8"
+    ]
+  },
+{
+    "title":"CICADAS-GATEWAY_02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/CICAB.m3u8"
+    ]
+  },
+{
+    "title":"CIHAMPELAS_01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/CIHA.m3u8"
+    ]
+  },
+{
+    "title":"CIHAMPELAS_02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/CIH.m3u8"
+    ]
+  },
+{
+    "title":"CIHAMPELAS-GANDOK 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihampelasgan.m3u8"
+    ]
+  },
+{
+    "title":"CIHAMPELAS-GANDOK 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/CihampelasGand.m3u8"
+    ]
+  },
+{
+    "title":"CIHAMPELAS-SKYWALK 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihamsky.m3u8"
+    ]
+  },
+{
+    "title":"CIHAMPELAS-SKYWALK 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihampsky.m3u8"
+    ]
+  },
+{
+    "title":"CIHAMPELAS-SKYWALK 03",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihampelsky.m3u8"
+    ]
+  },
+{
+    "title":"CIHAMPELAS-SKYWALK 04",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihampelassky.m3u8"
+    ]
+  },
+
+{
+    "title":"CIJERAH PAL TILU 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/paltiluu.m3u8"
+    ]
+  },
+
+
+{
+    "title":"CIKUTRA-TMP 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Ciktm.m3u8"
+    ]
+  },
+{
+    "title":"CIKUTRA-TMP 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Ciktmp.m3u8"
+    ]
+  },
+{
+    "title":"CIMINDI-SUKARAJA_01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMND.m3u8"
+    ]
+  },
+{
+    "title":"CIMINDI-SUKARAJA_02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMD.m3u8"
+    ]
+  },
+{
+    "title":"CIPAGANTI-NYLAND 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cipany.m3u8"
+    ]
+  },
+{
+    "title":"CIPAGANTI-NYLAND 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cipanyl.m3u8"
+    ]
+  },
+{
+    "title":"DAGO 1-CIKAPAYANG 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagcik.m3u8"
+    ]
+  },
+{
+    "title":"DAGO 2-SMA 1 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagsm.m3u8"
+    ]
+  },
+{
+    "title":"DAGO 2-SMA 1 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagsma.m3u8"
+    ]
+  },
+{
+    "title":"DAGO 3-BORROMEUS 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagbr.m3u8"
+    ]
+  },
+{
+    "title":"DAGO 3-BORROMEUS 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagbor.m3u8"
+    ]
+  },
+{
+    "title":"DAGO 4 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagos.m3u8"
+    ]
+  },
+{
+    "title":"DAGO 4 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagoss.m3u8"
+    ]
+  },
+
+{
+    "title":"KAUM-PEDESTRIAN 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dalkaum.m3u8"
+    ]
+  },
+{
+    "title":"PENDOPO 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Deppen.m3u8"
+    ]
+  },
+{
+    "title":"PENDOPO 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Deppendo.m3u8"
+    ]
+  },
+{
+    "title":"RSUD UJUNG BERUNG 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rsud.m3u8"
+    ]
+  },
+{
+    "title":"RSUD UJUNG BERUNG 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rsudd.m3u8"
+    ]
+  },
+{
+    "title":"TOKO INDRA (ALUN2) 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTo.m3u8"
+    ]
+  },
+
+{
+    "title":"DIPATIUKUR SEKELOA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunpad.m3u8"
+    ]
+  },
+{
+    "title":"DIPATIUKUR SEKELOA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunp.m3u8"
+    ]
+  },
+{
+    "title":"DIPATI UKUR-UNIKOM 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaun.m3u8"
+    ]
+  },
+{
+    "title":"DIPATI UKUR-UNIKOM 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunik.m3u8"
+    ]
+  },
+{
+    "title":"DIPATIUKUR UNPAD 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipa.m3u8"
+    ]
+  },
+{
+    "title":"DIPATIUKUR UNPAD 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipati.m3u8"
+    ]
+  },
+{
+    "title":"FLY OVER ANTAPANI 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flyant.m3u8"
+    ]
+  },
+{
+    "title":"FLY OVER ANTAPANI 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flyantpa.m3u8"
+    ]
+  },
+{
+    "title":"FLY OVER CIMINDI-JL. BUDI 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flycim.m3u8"
+    ]
+  },
+{
+    "title":"FLY OVER CIMINDI-JL. BUDI 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flycimin.m3u8"
+    ]
+  },
+{
+    "title":"FLY OVER KOPO-LEUWI PANJANG 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flykop.m3u8"
+    ]
+  },
+{
+    "title":"FLY OVER KOPO-LEUWI PANJANG 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flykopo.m3u8"
+    ]
+  },
+{
+    "title":"GASIBU_01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/GASIBU.m3u8"
+    ]
+  },
+{
+    "title":"GASIBU_02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/GASI.m3u8"
+    ]
+  },
+{
+    "title":"GATOT SUBROTO-BINONG_01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatsubin.m3u8"
+    ]
+  },
+{
+    "title":"GATOT SUBROTO-BINONG_02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatbino.m3u8"
+    ]
+  },
+{
+    "title":"GATOT SUBROTO - TSM_01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatsusub.m3u8"
+    ]
+  },
+{
+    "title":"GATOT SUBROTO - TSM_02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatsusubro.m3u8"
+    ]
+  },
+{
+    "title":"KEBON BINATANG 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bonbin.m3u8"
+    ]
+  },
+{
+    "title":"KEBON BINATANG 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bonbinn.m3u8"
+    ]
+  },
+{
+    "title":"HUSEIN 01 - ST HALTE",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/husein.m3u8"
+    ]
+  },
+{
+    "title":"HUSEIN 03 - ST HALTE",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/huse.m3u8"
+    ]
+  },
+{
+    "title":"ITB KEBUN BINATANG 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/ITBKebun.m3u8"
+    ]
+  },
+{
+    "title":"ITB KEBUN BINATANG 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/ITBKebu.m3u8"
+    ]
+  },
+{
+    "title":"ITB KEBUN BINATANG 03",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/ITBKeb.m3u8"
+    ]
+  },
+{
+    "title":"ITC KEBON KALAPA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/ITCkebonk.m3u8"
+    ]
+  },
+{
+    "title":"ITC KEBON KALAPA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/ITCkebon.m3u8"
+    ]
+  },
+
+{
+    "title":"JAKARTA-HKBP_02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/JAK.m3u8"
+    ]
+  },
+{
+    "title":"GARUT-KPU PROV 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Garutkp.m3u8"
+    ]
+  },
+{
+    "title":"IR. SOEKARNO 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soe.m3u8"
+    ]
+  },
+{
+    "title":"IR. SOEKARNO 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soekar.m3u8"
+    ]
+  },
+{
+    "title":"KEMBAR BARU 23-SMA 11 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kem.m3u8"
+    ]
+  },
+{
+    "title":"KEMBAR BARU 23-SMA 11 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kembar.m3u8"
+    ]
+  },
+{
+    "title":"Riau-ASMTB 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riauasmtb.m3u8"
+    ]
+  },
+{
+    "title":"Riau-ASMTB 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riauasmtbb.m3u8"
+    ]
+  },
+{
+    "title":"JALAPRANG 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Jalaprang.m3u8"
+    ]
+  },
+{
+    "title":"JAMIKA_01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/JAMIKA.m3u8"
+    ]
+  },
+{
+    "title":"JAMIKA_02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/JAMI.m3u8"
+    ]
+  },
+{
+    "title":"AHMAD YANI - MALABAR 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AhmadYanipertigaanmalabardua.m3u8"
+    ]
+  },
+{
+    "title":"AHMAD YANI PERTIGAAN MALABAR 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AhmadYanipertigaanmalabar.m3u8"
+    ]
+  },
+
+{
+    "title":"ALUN ALUN UJUNG BERUNG 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Alunalunujungberungdua.m3u8"
+    ]
+  },
+{
+    "title":"AMBON SAPARUA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/ambonsaparua.m3u8"
+    ]
+  },
+{
+    "title":"AMBON SAPARUA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/ambonsaparuaa.m3u8"
+    ]
+  },
+{
+    "title":"JL. ANGGREK 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Anggrek.m3u8"
+    ]
+  },
+{
+    "title":"JL. ANGGREK 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Angg.m3u8"
+    ]
+  },
+{
+    "title":"JL. ANTAPANI-TERMINAL ANTAPANI 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Anter.m3u8"
+    ]
+  },
+{
+    "title":"JL. ANTAPANI-TERMINAL ANTAPANI 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Anterminal.m3u8"
+    ]
+  },
+{
+    "title":"JL. ARCAMANIK 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Arcamanik.m3u8"
+    ]
+  },
+{
+    "title":"JL. ARCAMANIK 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Arca.m3u8"
+    ]
+  },
+{
+    "title":"JL ASIA AFRIKA BRI TOWER 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowerdua.m3u8"
+    ]
+  },
+{
+    "title":"JL ASIA AFRIKA BRI TOWER 03",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowertiga.m3u8"
+    ]
+  },
+{
+    "title":"JL CIGADUNG 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cigadung.m3u8"
+    ]
+  },
+{
+    "title":"JL DR DJUNJUNAN BTC 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTC.m3u8"
+    ]
+  },
+{
+    "title":"JL DR DJUNJUNAN BTC 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Koposebrangmikomalldua.m3u8"
+    ]
+  },
+{
+    "title":"JL KOPO SEBRANG MIKO MALL 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Koposebrangmikomall.m3u8"
+    ]
+  },
+{
+    "title":"JL KOPO SEBRANG MIKO MALL 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Koposebrangmikomalldua.m3u8"
+    ]
+  },
+{
+    "title":"JL LENGKONG KECIL 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/lengkongbesar.m3u8"
+    ]
+  },
+{
+    "title":"JL LENGKONG KECIL 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/lengkongbesarr.m3u8"
+    ]
+  },
+{
+    "title":"JL. PALASARI 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pal.m3u8"
+    ]
+  },
+{
+    "title":"JL. PALASARI 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Palasari.m3u8"
+    ]
+  },
+{
+    "title":"JL. PUNGKUR-PASUNDAN 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pung.m3u8"
+    ]
+  },
+{
+    "title":"JL. PUNGKUR-PASUNDAN 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pungkur.m3u8"
+    ]
+  },
+{
+    "title":"JL PURNAWARMAN BEC 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/PurnawarmanBEC.m3u8"
+    ]
+  },
+{
+    "title":"JL PURNAWARMAN BEC 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/PurnawarmanBECdua.m3u8"
+    ]
+  },
+{
+    "title":"JL. PURWAKARTA-GASMIN 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Purwa.m3u8"
+    ]
+  },
+{
+    "title":"JL. PURWAKARTA-GASMIN 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Purwakarta.m3u8"
+    ]
+  },
+{
+    "title":"JL RIAU PENGADILAN 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riaupnbdg.m3u8"
+    ]
+  },
+{
+    "title":"JL RIAU PENGADILAN 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riaupnbdgg.m3u8"
+    ]
+  },
+{
+    "title":"JL RIAU Yogya Junction",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riausiter.m3u8"
+    ]
+  },
+{
+    "title":"JL. RUMAH SAKIT-CINAMBO 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Rumahsak.m3u8"
+    ]
+  },
+{
+    "title":"JL. RUMAH SAKIT-CINAMBO 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Rumahsakit.m3u8"
+    ]
+  },
+{
+    "title":"JL. RUMAH SAKIT-UJUNG BERUNG 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Rumujung.m3u8"
+    ]
+  },
+{
+    "title":"JL. RUMAH SAKIT-UJUNG BERUNG 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Rumujungber.m3u8"
+    ]
+  },
+{
+    "title":"JL SOEKARNO HATTA-KPU 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soettakp.m3u8"
+    ]
+  },
+{
+    "title":"JL SOETA METRO DEALER MERCY 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/SoetaMetrodealerMercy.m3u8"
+    ]
+  },
+{
+    "title":"JL SUKAJADI PVJ 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/SukajadiPVJ.m3u8"
+    ]
+  },
+{
+    "title":"JL SUKAJADI PVJ 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/SukajadiPVJdua.m3u8"
+    ]
+  },
+{
+    "title":"JL. SURAPATI - GASIBU 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Surat.m3u8"
+    ]
+  },
+{
+    "title":"JL. SURAPATI - GASIBU 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Sura.m3u8"
+    ]
+  },
+{
+    "title":"JL. SURYA SUMANTRI 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Suryamantri.m3u8"
+    ]
+  },
+{
+    "title":"JL. SURYA SUMANTRI 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Sury.m3u8"
+    ]
+  },
+{
+    "title":"JL. SUTAMI 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Suta.m3u8"
+    ]
+  },
+{
+    "title":"JL TUBAGUS ISMAIL 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/TubagusIsmail.m3u8"
+    ]
+  },
+{
+    "title":"JL. TURANGGA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Turangga.m3u8"
+    ]
+  },
+{
+    "title":"JL. TURANGGA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Tura.m3u8"
+    ]
+  },
+{
+    "title":"JL WAAS BATUNUNGGAL 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/WaaspertigaankompleksBatununggal.m3u8"
+    ]
+  },
+{
+    "title":"KATAMSO 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Katamsok.m3u8"
+    ]
+  },
+{
+    "title":"KATAMSO 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Katamsoke.m3u8"
+    ]
+  },
+{
+    "title":"KATAMSO-PAHLAWAN_01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Katamso.m3u8"
+    ]
+  },
+{
+    "title":"KATAMSO-PAHLAWAN_02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KATAM.m3u8"
+    ]
+  },
+{
+    "title":"KATAMSO-PAHLAWAN_03",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KATA.m3u8"
+    ]
+  },
+{
+    "title":"KEBON KAWUNG - PASKAL 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KebonKam.m3u8"
+    ]
+  },
+{
+    "title":"KEBON KAWUNG - PASKAL 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KebonKa.m3u8"
+    ]
+  },
+{
+    "title":"KEBON-KOPI_BANDUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KEBO.m3u8"
+    ]
+  },
+{
+    "title":"KEBON-KOPI-CIMAHI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KEBON.m3u8"
+    ]
+  },
+{
+    "title":"KEPATIHAN TENGAH 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/KepatihanTengah.m3u8"
+    ]
+  },
+{
+    "title":"KEPATIHAN TENGAH 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/KepatihanTengahh.m3u8"
+    ]
+  },
+{
+    "title":"KIARA CONDONG_01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KIRCON.m3u8"
+    ]
+  },
+{
+    "title":"KIARA CONDONG_02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KIRC.m3u8"
+    ]
+  },
+{
+    "title":"KOPO BIZPARK / DPN BRI KOPO 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KOPOBizpark.m3u8"
+    ]
+  },
+{
+    "title":"KOPO BIZPARK / DPN BRI KOPO 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KOPOBiz.m3u8"
+    ]
+  },
+{
+    "title":"KOPO-RS BANDUNG KIWARI 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kopors.m3u8"
+    ]
+  },
+{
+    "title":"KOPO-RS BANDUNG KIWARI 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Koporsk.m3u8"
+    ]
+  },
+{
+    "title":"LAPANG GASIBU 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/lpgasibu.m3u8"
+    ]
+  },
+{
+    "title":"LAPANG GASIBU 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/lpgasibuu.m3u8"
+    ]
+  },
+{
+    "title":"MARTANEGARA SATPOL PP 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/martanegara.m3u8"
+    ]
+  },
+{
+    "title":"MARTANEGARA SATPOL PP 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/martanegaraa.m3u8"
+    ]
+  },
+{
+    "title":"MERDEKA-JAWA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HUAWEI/Merjaw.m3u8"
+    ]
+  },
+{
+    "title":"MERDEKA-JAWA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HUAWEI/Merjaww.m3u8"
+    ]
+  },
+{
+    "title":"MOH TOHA-DEPAN HUBDAM 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohdep.m3u8"
+    ]
+  },
+{
+    "title":"MOH TOHA-DEPAN HUBDAM 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohdepan.m3u8"
+    ]
+  },
+{
+    "title":"MOH TOHA-RS SARTIKA ASIH 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohr.m3u8"
+    ]
+  },
+{
+    "title":"MOH TOHA-RS SARTIKA ASIH 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohrs.m3u8"
+    ]
+  },
+{
+    "title":"MTOHA-BKR_01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Mohtohabkr.m3u8"
+    ]
+  },
+
+{
+    "title":"PAGARSIH 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HUAWEI/Pagarsihh.m3u8"
+    ]
+  },
+{
+    "title":"PASAR BARU 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Otistasebrangpasarbarudua.m3u8"
+    ]
+  },
+{
+    "title":"PASAR CIROYOM 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarciroyom.m3u8"
+    ]
+  },
+{
+    "title":"PASAR CIROYOM 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarciroyomm.m3u8"
+    ]
+  },
+{
+    "title":"PASAR KIARACONDONG 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarkircon.m3u8"
+    ]
+  },
+{
+    "title":"PASAR KIARACONDONG 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarkirconn.m3u8"
+    ]
+  },
+{
+    "title":"PASAR KOSAMBI 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKosam.m3u8"
+    ]
+  },
+{
+    "title":"PASAR KOSAMBI 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKomb.m3u8"
+    ]
+  },
+{
+    "title":"PASAR SEDERHANA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarsederhana.m3u8"
+    ]
+  },
+{
+    "title":"PASAR SEDERHANA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarsederhanaa.m3u8"
+    ]
+  },
+{
+    "title":"PASTEUR-PASOPATI_02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/PAST.m3u8"
+    ]
+  },
+{
+    "title":"PERTIGAAN Soekarno-Asia Afrika 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/asiaafrika.m3u8"
+    ]
+  },
+{
+    "title":"PEREMPATAN DALEM KAUM-OTISTA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/DlOtis.m3u8"
+    ]
+  },
+{
+    "title":"PEREMPATAN DALEM KAUM-OTISTA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/DlOtiss.m3u8"
+    ]
+  },
+{
+    "title":"PEREMPATAN KIRCON BINONG 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/kirconbinong.m3u8"
+    ]
+  },
+{
+    "title":"PEREMPATAN KIRCON BINONG 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/kirconbinongg.m3u8"
+    ]
+  },
+{
+    "title":"PEREMPATAN KORDON 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perkor.m3u8"
+    ]
+  },
+{
+    "title":"PEREMPATAN KORDON 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perkordon.m3u8"
+    ]
+  },
+{
+    "title":"PEREMPATAN LASWI-GATSU 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perkor.m3u8"
+    ]
+  },
+{
+    "title":"PEREMPATAN LASWI-GATSU 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perlaswi.m3u8"
+    ]
+  },
+{
+    "title":"PERINTIS KEMERDEKAAN 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/perintiskemer.m3u8"
+    ]
+  },
+{
+    "title":"PERINTIS KEMERDEKAAN 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/perintiskemerdekaan.m3u8"
+    ]
+  },
+{
+    "title":"PERTIGAAN AH NASUTION-CIJAMBE 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pernas.m3u8"
+    ]
+  },
+{
+    "title":"PERTIGAAN AH NASUTION-CIJAMBE 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pernasu.m3u8"
+    ]
+  },
+{
+    "title":"PERTIGAAN AH NASUTION-PASIR IMPUN 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pernasution.m3u8"
+    ]
+  },
+{
+    "title":"PERTIGAAN AH NASUTION-PASIR IMPUN 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pernasutionpasir.m3u8"
+    ]
+  },
+{
+    "title":"PERTIGAAN CICADAS KIRCON 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pertigaancicadas.m3u8"
+    ]
+  },
+{
+    "title":"PERTIGAAN CICADAS KIRCON 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pertigaancicadass.m3u8"
+    ]
+  },
+{
+    "title":"PHH MUSTOFA-AMPERA 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Musto.m3u8"
+    ]
+  },
+{
+    "title":"PHH MUSTOFA-AMPERA 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Mustofa.m3u8"
+    ]
+  },
+{
+    "title":"PHH MUSTOFA POM-BENSIN PARK HOTEL 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/parkhotel.m3u8"
+    ]
+  },
+{
+    "title":"PHH MUSTOFA POM-BENSIN PARK HOTEL 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/parkhotell.m3u8"
+    ]
+  },
+{
+    "title":"PHH MUSTOFA-PUSDAI 01",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Muspus.m3u8"
+    ]
+  },
+{
+    "title":"PHH MUSTOFA-PUSDAI 02",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Muspusdai.m3u8"
+    ]
+  }
+]
