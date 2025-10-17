@@ -1,0 +1,50 @@
+[ 
+  {
+    "title":"KM 47 B",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/796749052161901029073168.m3u8"
+    ]
+  },
+ {
+    "title":"KM 51 A",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/211884290923669138161535.m3u8"
+    ]
+  },
+ {
+    "title":"GT Entrance Caringin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/035462094731391708865402.m3u8"
+    ]
+  },
+ {
+    "title":"Entrance Parungkuda",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/391105348932952835614149.m3u8"
+    ]
+  },
+ {
+    "title":"Entrance Caringin Utama",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/168565171309485844596546.m3u8"
+    ]
+  },
+ {
+    "title":"GT Cigombong A",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://www.tjt-info.co.id/LiveApp/streams/577208699430530699650671.m3u8"
+    ]
+  }
+]
