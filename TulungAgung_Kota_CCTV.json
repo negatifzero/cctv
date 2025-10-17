@@ -1,0 +1,604 @@
+[
+  {
+    "title":"Gleduk Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=4pyTZwa0YqzSWbm5T7kOaE"
+    ]
+  },
+ 
+ {
+    "title":"Gleduk Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=2z9WrRaniq5qaqPtWhEOxv"
+    ]
+  },
+  {
+    "title":"Gleduk Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=4YnHF5COCfexlRPXd9IUQj"
+    ]
+  },
+  {
+    "title":"Gleduk Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=154OiIApcfxaNkO4YAZpLu"
+    ]
+  },
+  {
+    "title":"Campurdarat Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+"https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=7QQJrjgvbTwRFZIMHAjiPP"
+
+    ]
+  },
+  {
+    "title":"Campurdarat Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=0XHrdN76BgLudE2aqdqdWQ"
+    ]
+  },
+  {
+    "title":"PTZ Bandung",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=2PCPcNGdm1MOToSAt1Ldmh"
+    ]
+  },
+  {
+    "title":"Bandung Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=3Wqs7lfH6JlH2o85FVo1Lt"
+    ]
+  },
+  {
+    "title":"Bandung Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=5KiNQvpTTVMNVCbNAC5VoL"
+    ]
+  },
+  {
+    "title":"Bandung Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=58TE8ha3vN9K9wOtNE3Qhi"
+    ]
+  },
+  {
+    "title":"Karangrejo Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=459JcSVebiWYUPZq0Aub9S"
+    ]
+  },
+  {
+    "title":"Karangrejo Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=5vCMVzSllQk6IhGPicpnKt"
+    ]
+  },
+  {
+    "title":"Depan BCA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=19jgBba6fMSbfqVtX63Phz"
+    ]
+  },
+  {
+    "title":"Depan Bank Mega",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=2w6Pu93G6xcvT3gbq0FvTS"
+    ]
+  },
+  {
+    "title":"Apollo Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=2lB9MkxJMpQVBMDGoFLzLR"
+    ]
+  },
+  {
+    "title":"Apollo Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=0V4s2fjabI2JWv1qNZVrh5"
+    ]
+  },
+  {
+    "title":"Weringin",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=6obsLy9Xu8kS4U6lMdd1U9"
+    ]
+  },
+  {
+    "title":"Dekranasda",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=7YdLvMnI5AN26WQp8IzqQn"
+    ]
+  },
+  {
+    "title":"Ahmad Yani Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=6mm0bUt7MmAHw6Q7PJcO3F"
+    ]
+  },
+  {
+    "title":"MH Thamrin",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=7bBE7GtevxKM5Hn5Mou57q"
+    ]
+  },
+  {
+    "title":"Depan GOR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=6YWI77e3irLFRtK5RhkXFG"
+    ]
+  },
+  {
+    "title":"Parkir GOR Lembupeteng",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=1UO5qdNvKlIdnFYlwZCuGC"
+    ]
+  },
+  {
+    "title":"Depan Kantor DPRD",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=0JzbNjKnQTcR3cCTCLV924"
+    ]
+  },
+  {
+    "title":"Pendopo",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=2sxyXfkiQFHeKJ6Ngi5REP"
+    ]
+  },
+  {
+    "title":"Basuki Rahmat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=7cImJyeZoHvvZEXxgDkYsR"
+    ]
+  },
+  {
+    "title":"El Sagaff",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=3k4cnRnx82lQqs6CoH7CQs"
+    ]
+  },
+  {
+    "title":"Mangunsari Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=7OY4hluW8b4bS1ZZ0P9h1t"
+    ]
+  },
+  {
+    "title":"Mangunsari Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=0HnRzyvEsH9DO7xibMvwZ6"
+    ]
+  },
+  {
+    "title":"Mangunsari Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=6PollFJegWspON1RFAgFKD"
+    ]
+  },
+  {
+    "title":"Karangrejo Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=71RTgdNFiMKn7BTM3RugCE"
+    ]
+  },
+  {
+    "title":"Mangusari PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=5konbg5r6njWfIvRHDZ2cn"
+    ]
+  },
+  {
+    "title":"Ngujang PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=1JMmZkKev58vTxzLQ98yQI"
+    ]
+  },
+  {
+    "title":"Ngujang Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=2nrJFaf58kQiWnGd87VuTn"
+    ]
+  },
+  {
+    "title":"Ngujang Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=6vbM5lwO4t241O0RbyXz45"
+    ]
+  },
+  {
+    "title":"Cuiri Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=6A60V2ETV5ISEk89RMALj2"
+    ]
+  },
+  {
+    "title":"Cuiri Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=0ElmgOZh7lVLuzw4WPq5aD"
+    ]
+  },
+  {
+    "title":"Cuiri Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=7lmenF9qKLCmTte7rrru1p"
+    ]
+  },
+  {
+    "title":"Cuiri Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=4r3W2gkSAa3Z7OYjgymBTF"
+    ]
+  },
+  {
+    "title":"Jetakan Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=6U0xzFLmztkbgOfIYJ6s2s"
+    ]
+  },
+  {
+    "title":"Jetakan Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=712oh6k1GUfCVl4J2jPmc1"
+    ]
+  },
+  {
+    "title":"Jetakan Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=1kllmXE1gmEo29yNS0NtYo"
+    ]
+  },
+  {
+    "title":"Plandaan Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=69r52EwHgtU6uyVVJmjzeT"
+    ]
+  },
+  {
+    "title":"RS Lama Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=4gfxhsdMxZZN8mJ5TW682X"
+    ]
+  },
+  {
+    "title":"Prayit Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=1BaqcVsY5lu8hlcioZyGv4"
+    ]
+  },
+  {
+    "title":"Prayit Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=3sQXTEuWzOBjB9I4Mk7cYn"
+    ]
+  },
+  {
+    "title":"Pemda Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=4PFpk07M1LoeSrnR5Fb3iS"
+    ]
+  },
+  {
+    "title":"Pemda Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=1y88AEMExkgbzZezz0hQlZ"
+    ]
+  },
+  {
+    "title":"Plandaan PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=4CVuJrGheF0odPxGReqfs9"
+    ]
+  },
+  {
+    "title":"Plandaan Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=47jE7mFFWfi2zXnlgH1scf"
+    ]
+  },
+  {
+    "title":"Plandaan Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=0804X1kXte4FbriieaseU1"
+    ]
+  },
+  {
+    "title":"RS Lama PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=0RNzySlpgG6fnzEIkdu35F"
+    ]
+  },
+  {
+    "title":"RS Lama Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=0H1ANyWngtggRDYco3u6lt"
+    ]
+  },
+  {
+    "title":"RS Lama Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=1F27JC1FGKmgwjE352sVVq"
+    ]
+  },
+  {
+    "title":"Prayit PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=0bOcBrjXmtZ3v2fI1DkRVQ"
+    ]
+  },
+  {
+    "title":"Prayit Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=7NXgCZh7PXf5fYmUNe5Djp"
+    ]
+  },
+  {
+    "title":"Kemuning Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=337HT5rumEius5LPkFry3M"
+    ]
+  },
+  {
+    "title":"Kemuning Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=1o7D8f5546wY3NaMqIpIbX"
+    ]
+  },
+  {
+    "title":"Kemuning PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=6EvtIToMe3hFX7ID0e5XOA"
+    ]
+  },
+  {
+    "title":"Pemda PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=379HEAeP0yMm8Q48wb3lZo"
+    ]
+  },
+  {
+    "title":"BTA Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=7lJlthZHgvZcTmiQcmRqJR"
+    ]
+  },
+  {
+    "title":"BTA PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=1yrCLYdi2FD1gxaSSxRAKQ"
+    ]
+  },
+  {
+    "title":"BTA Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=4VRJhtzuQ4VlOUuLmfsxRC"
+    ]
+  },
+  {
+    "title":"BTA Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=2fjrHZiqQ7bQEA53m7sQym"
+    ]
+  },
+  {
+    "title":"Al-Muslimun Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=5nCQlRTnzv8p3QRquaXjRt"
+    ]
+  },
+  {
+    "title":"Al-Muslimun Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=5hTwqPipLetUDfSligHusr"
+    ]
+  },
+  {
+    "title":"Al-Muslimun Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=01lqSaQbdhqawFmkGULdQh"
+    ]
+  },
+  {
+    "title":"Al-Muslimun PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=11ouxbkN4DZzWsWA9dE3xQ"
+    ]
+  },
+  {
+    "title":"Bis Goling PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=3vCBuWVj4JGEKGdJXKt9tn"
+    ]
+  },
+  {
+    "title":"Bis Goling Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=2F5HFBf2HF2TzqHDzRaXS6"
+    ]
+  },
+  {
+    "title":"Bis Goling Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=5a25Xyf5VM86sTyJvhNMKH"
+    ]
+  },
+  {
+    "title":"Ngunut Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=3xY7GKj7OHpyac7bNNqU7Q"
+    ]
+  },
+  {
+    "title":"Ngunut PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=1x8PtNmrvo7dRTAfVpKQNp"
+    ]
+  },
+  {
+    "title":"Ngunut Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=0zVY7jHB8HE5V52knIJbLA"
+    ]
+  },
+  {
+    "title":"Tugu Reog Kendang",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=0I0rsOpZtGC1bj9d6BsF14"
+    ]
+  },
+  {
+    "title":"Gleduk Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/wss_player2/#wss://strata.petakon.id/api/ws?src=4pyTZwa0YqzSWbm5T7kOaE"
+    ]
+  }
+]
