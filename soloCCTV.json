@@ -1,0 +1,738 @@
+[
+  {
+    "title":"BALAIKOTA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/BalaiKota.flv"
+    ]
+  },
+ {
+    "title":"AGAS",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Agas.flv"
+    ]
+  },
+{
+    "title":"WIDURAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Widuran.flv"
+    ]
+  },
+{
+    "title":"WARUNG PELEM",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/WarungPelem.flv"
+    ]
+  },
+{
+    "title":"URSULIN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Ursulin.flv"
+    ]
+  },
+{
+    "title":"UNS TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/UNSTimur.flv"
+    ]
+  },
+{
+    "title":"UNS BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/UNSBarat.flv"
+    ]
+  },
+{
+    "title":"UNS",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/UNS.flv"
+    ]
+  },
+{
+    "title":"TUGU WISNU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/TuguWisnu01.flv"
+    ]
+  },
+{
+    "title":"TUGU CEMBENGAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Cembengan.flv"
+    ]
+  },
+{
+    "title":"TIRTONADI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Tirtonadi01.flv"
+    ]
+  },
+{
+    "title":"TIPES",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Tipes.flv"
+    ]
+  },
+{
+    "title":"TIMURAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Timuran.flv"
+    ]
+  },
+{
+    "title":"SUDIRMAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Sudirman.flv"
+    ]
+  },
+{
+    "title":"SRIWEDARI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Sriwedari01.flv"
+    ]
+  },
+{
+    "title":"SRATEN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Sraten.flv"
+    ]
+  },
+{
+    "title":"SMP 18",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/SMP18.flv"
+    ]
+  },
+{
+    "title":"SINGOSAREN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Singosaren.flv"
+    ]
+  },
+{
+    "title":"SHOLIKIN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Sholikin01.flv"
+    ]
+  },
+{
+    "title":"SEMANGGI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Semanggi.flv"
+    ]
+  },
+{
+    "title":"SEKIP",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Sekip.flv"
+    ]
+  },
+{
+    "title":"SEKARPACE",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Sekarpace.flv"
+    ]
+  },
+{
+    "title":"SATE SUMBAR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/SateSumber01.flv"
+    ]
+  },
+{
+    "title":"SANGKRAH",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Sangkrah.flv"
+    ]
+  },
+{
+    "title":"RING ROAD",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/RingRoad.flv"
+    ]
+  },
+{
+    "title":"RAMAYANA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Ramayana.flv"
+    ]
+  },
+{
+    "title":"RAHAYU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Rahayu01.flv"
+    ]
+  },
+{
+    "title":"PURWOSARI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Purwosari.flv"
+    ]
+  },
+{
+    "title":"PGS",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/PGS.flv"
+    ]
+  },
+{
+    "title":"PENGADILAN SRIWEDARI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/PengadilanSriwedari.flv"
+    ]
+  },
+{
+    "title":"PASAR PON",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/PasarPon01.flv"
+    ]
+  },
+{
+    "title":"PASAR NUSUKAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/PasarNusukan.flv"
+    ]
+  },
+{
+    "title":"PASAR NONGKO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/PasarNongko.flv"
+    ]
+  },
+{
+    "title":"PASAR LEGI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/PasarLegi.flv"
+    ]
+  },
+{
+    "title":"PASAR KLIWON",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/PasarKliwon.flv"
+    ]
+  },
+{
+    "title":"PASAR KLEWER",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/PasarKlewer.flv"
+    ]
+  },
+{
+    "title":"PASAR KEMBANG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/PasarKembang.flv"
+    ]
+  },
+{
+    "title":"PASAR GEDE",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/PasarGede.flv"
+    ]
+  },
+{
+    "title":"PASAR BELING",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/PasarBeling.flv"
+    ]
+  },
+{
+    "title":"PANGGUNG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Panggung.flv"
+    ]
+  },
+{
+    "title":"PALANG JOGLO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/PalangJoglo.flv"
+    ]
+  },
+{
+    "title":"PAJANG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Pajang.flv"
+    ]
+  },
+{
+    "title":"OVERPASS MANAHAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/OverpassManahan.flv"
+    ]
+  },
+{
+    "title":"NONONGAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Nonongan.flv"
+    ]
+  },
+{
+    "title":"NGEMPLAK UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/NgemplakUtara.flv"
+    ]
+  },
+{
+    "title":"NGEMPLAK TIMUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/NgemplakTimur.flv"
+    ]
+  },
+{
+    "title":"NGEMPLAK SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/NgemplakSelatan.flv"
+    ]
+  },
+{
+    "title":"NGEMPLAK BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/NgemplakBarat.flv"
+    ]
+  },
+{
+    "title":"NGEMPLAK",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Ngemplak.flv"
+    ]
+  },
+{
+    "title":"NGAPEMAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Ngapeman01.flv"
+    ]
+  },
+{
+    "title":"MUJAHIDIN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Mujahidin.flv"
+    ]
+  },
+{
+    "title":"MOJOSONGO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Mojosongo.flv"
+    ]
+  },
+{
+    "title":"MLIPAHAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Mlipahan.flv"
+    ]
+  },
+{
+    "title":"MIPITAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Mipitan.flv"
+    ]
+  },
+{
+    "title":"MASJID AGUNG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/MasjidAgung.flv"
+    ]
+  },
+{
+    "title":"MAKUTHO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Makutho.flv"
+    ]
+  },
+{
+    "title":"MAKO BRIMOB",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Brimob01.flv"
+    ]
+  },
+{
+    "title":"LOJI GANDRUNG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/LojiGandrung.flv"
+    ]
+  },
+{
+    "title":"KOMPLANG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Komplang01.flv"
+    ]
+  },
+{
+    "title":"KLODRAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Klodran.flv"
+    ]
+  },
+{
+    "title":"KLECO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Kleco.flv"
+    ]
+  },
+{
+    "title":"KETANDAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Ketandan.flv"
+    ]
+  },
+{
+    "title":"KERTEN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Kerten.flv"
+    ]
+  },
+{
+    "title":"KELURAHAN SUMBER",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/KelurahanSumber01.flv"
+    ]
+  },
+{
+    "title":"KAWATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Kawatan.flv"
+    ]
+  },
+{
+    "title":"KANTOR POS",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/KantorPos.flv"
+    ]
+  },
+{
+    "title":"KANDANG SAPI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/KandangSapi.flv"
+    ]
+  },
+{
+    "title":"KABANGAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Kabangan.flv"
+    ]
+  },
+{
+    "title":"JURUG TIMUR FIX",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/JurugTimur.flv"
+    ]
+  },
+{
+    "title":"JURUG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Jurug.flv"
+    ]
+  },
+{
+    "title":"JUANDA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Juanda.flv"
+    ]
+  },
+{
+    "title":"JONGKE",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Jongke.flv"
+    ]
+  },
+{
+    "title":"JEMBATAN TIRTONADI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/JembatanTirtonadi.flv"
+    ]
+  },
+{
+    "title":"GIRI MULYO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/GiriMulyo01.flv"
+    ]
+  },
+{
+    "title":"GILINGAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Gilingan01.flv"
+    ]
+  },
+{
+    "title":"GENENGAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Genengan.flv"
+    ]
+  },
+{
+    "title":"GENDENGAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Gendengan01.flv"
+    ]
+  },
+{
+    "title":"GEMBLEGAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Gemblegan.flv"
+    ]
+  },
+{
+    "title":"GADING",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Gading.flv"
+    ]
+  },
+{
+    "title":"FLYOVER PURWOSARI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/FlyoverTimur.flv"
+    ]
+  },
+{
+    "title":"FAROKAH",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Farokah.flv"
+    ]
+  },
+{
+    "title":"FAJAR INDAH",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/FajarIndah.flv"
+    ]
+  },
+{
+    "title":"DPRD",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/DPRD.flv"
+    ]
+  },
+{
+    "title":"DAWUNG SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/DawungSelatan.flv"
+    ]
+  },
+{
+    "title":"CENGKLIK",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Cengklik.flv"
+    ]
+  },
+{
+    "title":"BUNDARAN TIPES",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/BundaranTipes.flv"
+    ]
+  },
+{
+    "title":"BUNDARAN GLADAG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Gladag.flv"
+    ]
+  },
+{
+    "title":"BUNDARAN BARON",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/BundaranBaron.flv"
+    ]
+  },
+{
+    "title":"BATU RONO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/BatuRono.flv"
+    ]
+  },
+{
+    "title":"BARON",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Baron.flv"
+    ]
+  },
+{
+    "title":"BANJARSARI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Banjarsari.flv"
+    ]
+  },
+{
+    "title":"BALAPAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/flv-player/#https://surakarta.atcsindonesia.info:8086/camera/Balapan01.flv"
+    ]
+  }
+]
