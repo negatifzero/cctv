@@ -1,0 +1,386 @@
+[
+  {
+    "title":"Sektor Pasar Pucung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/2022802.m3u8"
+    ]
+  },
+ {
+    "title":"SP Sektor Melati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/2022804.m3u8"
+    ]
+  },
+  {
+    "title":"Taman Elok Duren Seribu",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10301860.m3u8"
+    ]
+  },
+  {
+    "title":"SP PEKAPURAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228012.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASAR PUCUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/2022803.m3u8"
+    ]
+  },
+  {
+    "title":"SP BBM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/2022808.m3u8"
+    ]
+  },
+ {
+    "title":"SP BBM 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/2022809.m3u8"
+    ]
+  },
+  {
+    "title":"SP JEMBATAN STINK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228016.m3u8"
+    ]
+  },
+  {
+    "title":"SP 4 GANDUL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228020.m3u8"
+    ]
+  },
+  {
+    "title":"SP KSU TOLE ISKANDAR 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228025.m3u8"
+    ]
+  },
+  {
+    "title":"SP KSU TOLE ISKANDAR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228024.m3u8"
+    ]
+  },
+  {
+    "title":"SP HEX CIPAYUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228030.m3u8"
+    ]
+  },
+  {
+    "title":"UI USBI Arah Jakarta",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10109058.m3u8"
+    ]
+  },
+  {
+    "title":"UI UBSI Arah Margonda",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10109059.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang GDC 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10109034.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang GDC 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10109035.m3u8"
+    ]
+  },
+  {
+    "title":"Ir.Juanda Adikarya 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10109042.m3u8"
+    ]
+  },
+  {
+    "title":"Ir.Juanda Arah Saminten",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10109066.m3u8"
+    ]
+  },
+  {
+    "title":"JPO Detos-Margo City 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/1010902.m3u8"
+    ]
+  },
+  {
+    "title":"JPO Detos-Margo City 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/1010903.m3u8"
+    ]
+  },
+  {
+    "title":"Jembatan Panus",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10109018.m3u8"
+    ]
+  },
+  {
+    "title":"Dermaga Komunitas Ciliwung Depok",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/103023131.m3u8"
+    ]
+  },
+  {
+    "title":"Pospol Turjagwali",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/1030273.m3u8"
+    ]
+  },
+  {
+    "title":"SP GANG NANGKA 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228010.m3u8"
+    ]
+  },
+  {
+    "title":"SP GANG NANGKA 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228011.m3u8"
+    ]
+  },
+  {
+    "title":"SP POLSEK SUKMAJAYA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228051.m3u8"
+    ]
+  },
+  {
+    "title":"SP RADEN SALEH",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228052.m3u8"
+    ]
+  },
+  {
+    "title":"SP AL HUDA 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228053.m3u8"
+    ]
+  },
+  {
+    "title":"SP AL HUDA 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228054.m3u8"
+    ]
+  },
+  {
+    "title":"SP MARGO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228060.m3u8"
+    ]
+  },
+  {
+    "title":"SP MARGO 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228061.m3u8"
+    ]
+  },
+  {
+    "title":"Terowongan Dewi Sartika",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228064.m3u8"
+    ]
+  },
+  {
+    "title":"Terowongan Dewi Sartika 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228064.m3u8"
+    ]
+  },
+  {
+    "title":"Terowongan Dewi Sartika 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228065.m3u8"
+    ]
+  },
+  {
+    "title":"SP JATIJAJAR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228067.m3u8"
+    ]
+  },
+  {
+    "title":"SP JATIJAJAR 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228068.m3u8"
+    ]
+  },
+  {
+    "title":"UI UBSI Margonda",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10109060.m3u8"
+    ]
+  },
+  {
+    "title":"Lingkar UI Arah Jakarta",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10109050.m3u8"
+    ]
+  },
+  {
+    "title":"JPO Ramayana 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10109011.m3u8"
+    ]
+  },
+  {
+    "title":"Ir.Juanda Adikarya 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10109043.m3u8"
+    ]
+  },
+  {
+    "title":"JPO Ramayana 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10109010.m3u8"
+    ]
+  },
+  {
+    "title":"Taman Pondok Sukmajaya",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10301869.m3u8"
+    ]
+  },
+  {
+    "title":"Taman Jawa Beji",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10301829.m3u8"
+    ]
+  },
+  {
+    "title":"Taman Tapos 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10301876.m3u8"
+    ]
+  },
+  {
+    "title":"Taman Tapos 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10301877.m3u8"
+    ]
+  },
+  {
+    "title":"Taman Beji Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/10301844.m3u8"
+    ]
+  },
+  {
+    "title":"SP AKSES UI 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228014.m3u8"
+    ]
+  },
+  {
+    "title":"SP AKSES UI 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://dishub.depok.go.id/vi/20228015.m3u8"
+    ]
+  }
+]
