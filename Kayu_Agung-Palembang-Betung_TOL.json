@@ -1,0 +1,42 @@
+[ 
+  {
+    "title":"KM 000+150 (Akses Kramasan)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv-wst.my.id:5443/LiveApp/streams/11150.m3u8"
+    ]
+  },
+ {
+    "title":"KM 000+640 (GT Kramasan)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream-cctv-wst.my.id:5443/LiveApp/streams/10640.m3u8"
+    ]
+  },
+ {
+    "title":"KM 359",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-wst.app-intracs.co.id:5443/LiveApp/streams/10359.m3u8"
+    ]
+  },
+ {
+    "title":"KM 362+950",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-wst.app-intracs.co.id:5443/LiveApp/streams/10362.m3u8"
+    ]
+  },
+ {
+    "title":"KM 363+180",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv-wst.app-intracs.co.id:5443/LiveApp/streams/10363.m3u8"
+    ]
+  }
+]
