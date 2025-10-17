@@ -1,0 +1,80 @@
+hapus => https://kanghen10.github.io/smart-video-player/
+langsung akses=> https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/dXr6jrlx9s/s.m3u8
+
+
+[
+ 
+  {
+    "title":"Mesjid Terapung - Mesjid 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/dXr6jrlx9s/s.m3u8"
+    ]
+  }, 
+ {
+    "title":"Pantai Carocok - Carocok 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/2qy20XfgZX/s.m3u8"
+    ]
+  }, 
+ {
+    "title":"Pantai Carocok - Carocok 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/YAdOkhEh2E/s.m3u8
+"
+    ]
+  }, 
+ {
+    "title":"Pantai Carocok - Carocok 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/Ts3N3gBcqz/s.m3u8"
+    ]
+  }, 
+ {
+    "title":"Taman Spora - Taman Spora 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/Vy91pQ56X7/s.m3u8"
+    ]
+  }, 
+ {
+    "title":"Taman Spora - Taman Spora 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/m7cQGqqNKo/s.m3u8"
+    ]
+  }, 
+ {
+    "title":"Taman Spora - Taman Spora 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/9eBO8rHjiu/s.m3u8"
+    ]
+  }, 
+ {
+    "title":"Tugu Batas Kota - Batas Kota 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/ttygSs99dy/s.m3u8"
+    ]
+  }, 
+ {
+    "title":"Tugu Batas Kota - Batas Kota 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/8poXDsVDvP/s.m3u8"
+    ]
+  }
+]
