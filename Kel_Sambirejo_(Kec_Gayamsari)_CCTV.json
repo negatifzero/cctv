@@ -1,0 +1,107 @@
+[
+ 
+  {
+    "title":"RW : 7 | RT : 6 (Sambirejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5438/101/2024/a4801c75-4802-4c83-ad41-9e5fe3f10d01_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 7 | RT : 6 (2) (Sambirejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5438/201/2024/a4801c75-4802-4c83-ad41-9e5fe3f10d01_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 7 | RT : 6 (3) (Sambirejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5438/401/2024/a4801c75-4802-4c83-ad41-9e5fe3f10d01_401.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 7 | RT : 6 (4) (Sambirejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5438/301/2024/a4801c75-4802-4c83-ad41-9e5fe3f10d01_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 5 (Sambirejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pantausemar.semarangkota.go.id/hls/2546/1/8dd3e075-9b80-4895-b678-127852af7b61_1.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 7 | RT : 1 (Sambirejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6819/1/2024/fc4d8351-6a76-4cfa-becb-31e8adede633_1.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 5 (2) (Sambirejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/2546/101/2024/8dd3e075-9b80-4895-b678-127852af7b61_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 5 (3) (Sambirejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/2546/201/2024/8dd3e075-9b80-4895-b678-127852af7b61_201.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 5 (4) (Sambirejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/2546/301/2024/8dd3e075-9b80-4895-b678-127852af7b61_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 4 (Sambirejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5288/101/2024/6dd9a92c-ddff-4e23-ad2e-9d3ebe955756_101.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 4 (2) (Sambirejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5288/301/2024/6dd9a92c-ddff-4e23-ad2e-9d3ebe955756_301.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 4 (3) (Sambirejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5288/401/2024/6dd9a92c-ddff-4e23-ad2e-9d3ebe955756_401.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 4 | RT : 4 (4) (Sambirejo)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5288/101/2024/6dd9a92c-ddff-4e23-ad2e-9d3ebe955756_101.m3u8"
+    ]
+  }
+]
