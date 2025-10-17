@@ -1,0 +1,60 @@
+[
+ 
+{
+    "title":"SIMPANG GUNUNG AGUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.denpasarkota.go.id/stream/A001GUNUNGAGUNGPTZ/stream.m3u8"
+    ]
+  },
+{
+    "title":"SIMPANG KAPTEN SUJANA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.denpasarkota.go.id/stream/A002KAPTENSUJANAPTZ/stream.m3u8"
+    ]
+  },
+{
+    "title":"SIMPANG GUNUNG SALAK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.denpasarkota.go.id/stream/A003GUNUNGSALAKPTZ/stream.m3u8"
+    ]
+  },
+{
+    "title":"SIMPANG TEUKU UMAR 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.denpasarkota.go.id/stream/A004TEUKUUMARPTZ1/index.m3u8"
+    ]
+  },
+{
+    "title":"SIMPANG BATANTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.denpasarkota.go.id/stream/A005BATANTAPTZ/stream.m3u8"
+    ]
+  },
+{
+    "title":"SIMPANG SOPUTAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.denpasarkota.go.id/stream/A006SOPUTANPTZ/stream.m3u8"
+    ]
+  },
+
+ {
+    "title":"BALUN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs.denpasarkota.go.id/stream/A007BALUNPTZ/stream.m3u8"
+    ]
+  }
+]
