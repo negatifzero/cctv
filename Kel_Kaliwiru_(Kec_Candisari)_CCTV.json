@@ -1,0 +1,91 @@
+[
+ 
+  {
+    "title":"RW : 1 | RT : 6 (Kaliwiru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5844/101/2024/a2ed58be-c3d1-458e-a8fa-37892cbd2ea4_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 2 | RT : 3 (Kaliwiru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5837/201/2024/89e6d15c-2cf0-47f5-a417-d1a35737958f_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 2 | RT : 3 (2) (Kaliwiru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5837/101/2024/89e6d15c-2cf0-47f5-a417-d1a35737958f_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 5 (Kaliwiru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5075/101/2024/a626f4ca-e34b-45da-9fb3-33d4f5de3654_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 2 | RT : 7 (Kaliwiru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/7138/201/2024/3f67ec92-dc34-4fd2-98e9-0ac099a312ef_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 5 (Kaliwiru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3166/201/2024/c546b5c2-f1ac-4a07-978a-1e1a4928086f_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 5 (2) (Kaliwiru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3166/101/2024/c546b5c2-f1ac-4a07-978a-1e1a4928086f_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 1 (Kaliwiru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3221/101/2024/fb7dec4c-740e-4d48-be83-aa6d29df7a8f_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 2 | RT : 5 (Kaliwiru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4368/101/2024/958e86b7-4ceb-4737-b147-f168f32caea0_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 2 | RT : 5 (2) (Kaliwiru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4368/201/2024/958e86b7-4ceb-4737-b147-f168f32caea0_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 2 | RT : 5 (3) (Kaliwiru)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4368/301/2024/958e86b7-4ceb-4737-b147-f168f32caea0_301.m3u8"
+    ]
+  }
+]
