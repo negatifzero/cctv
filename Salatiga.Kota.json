@@ -1,0 +1,395 @@
+[
+ {
+    "title":"Simpang Dukuh",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/18d16e3c-8593-43e2-acc9-da16325333fe.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Pulutan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/a5710e54-39ba-483f-8e6b-999bbf7ac21a.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Pulutan Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://restreamer.salatiga.go.id/memfs/c9134cb6-2b82-44fc-a072-160801d6867e.m3u8"
+    ]
+  },
+
+{
+    "title":"Gerbang Masuk Kompleks Sukowati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/157deca9-af1d-4ac2-84da-421faafdb1d1.m3u8"
+    ]
+  },
+{
+    "title":"Gerbang Keluar Kompleks Sukowati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/c28ad889-8090-4815-937e-76425d45ed89.m3u8"
+    ]
+  },
+{
+    "title":"Air Mancur Kompleks Sukowati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/6299116a-127c-49b4-b1d6-6c0e7a802637.m3u8"
+    ]
+  },
+{
+    "title":"Lapangan Barat Kompleks Sukowati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/58c8cc68-59f9-41e9-9fcf-3ead63b4cc0a.m3u8"
+    ]
+  },
+{
+    "title":"Lapangan Timur Kompleks Sukowati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/1ba44fd3-f269-4b1e-aa5d-90256ec360a3.m3u8"
+    ]
+  },
+{
+    "title":"Lobby BPKPD Kompleks Sukowati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/ae697571-e60b-4c7f-ab52-be35bcf4a819.m3u8"
+    ]
+  },
+{
+    "title":"Depan BPKPD Kompleks Sukowati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/30ad6ba5-4174-4683-a639-293f25664d2e.m3u8"
+    ]
+  },
+{
+    "title":"Samping Bank Jateng Kompleks Sukowati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/a2b533f3-bd9c-4a20-891a-8860f149b721.m3u8"
+    ]
+  },
+{
+    "title":"Hal Satpol PP Kompleks Sukowati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/c8e72654-deb0-4f5b-84b0-79a12bd66142.m3u8"
+    ]
+  },
+{
+    "title":"Parkiran DPRD Kompleks Sukowati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/4cbc8623-6f48-47f7-a0fd-6c59e2e54f86.m3u8"
+    ]
+  },
+{
+    "title":"Parkiran Pendopo Bung Karno Kompleks Sukowati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/28102e8e-325e-49bb-a769-ae9a2098f4ee.m3u8"
+    ]
+  },
+{
+    "title":"Teras DPRD Kompleks Sukowati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/2444f185-ae4d-43e7-84b0-4d93239adebd.m3u8"
+    ]
+  },
+{
+    "title":"Bundaran Ramayana Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/43ce7803-4199-44ae-a886-00b0aa15325e.m3u8"
+    ]
+  },
+{
+    "title":"BTN Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/f87ee50e-6d86-461e-b142-f084223a789e.m3u8"
+    ]
+  },
+{
+    "title":"Pos Satpol Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/6b837512-a061-44f9-ba13-30276b5103a6.m3u8"
+    ]
+  },
+{
+    "title":"Pertigaan Bank Salatiga Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/6e8f97b5-221f-4541-838f-eb9dd8b8cd6f.m3u8"
+    ]
+  },
+{
+    "title":"Depan BCA Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/a998cfa8-164d-416b-95c8-bae9703d5a62.m3u8"
+    ]
+  },
+{
+    "title":"Depan PLN Timur Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/e5698f11-f067-41e4-a93a-f2528dbeb682.m3u8"
+    ]
+  },
+{
+    "title":"Depan PLN Barat Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/50b81efd-bfa2-4581-8ed0-d134fd2e1d64.m3u8"
+    ]
+  },
+{
+    "title":"Korem Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/50a4a323-d9df-4660-a2a3-c7bf5ddf5128.m3u8"
+    ]
+  },
+{
+    "title":"Depan Korem Timur Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/e7892663-ef61-473f-a49e-bd9649390a0d.m3u8"
+    ]
+  },
+{
+    "title":"PLN Sisi Barat Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/0ca762ba-b339-4439-ad29-819854bc8ab0.m3u8"
+    ]
+  },
+{
+    "title":"Depan Korem Barat Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/51516f46-dc83-4529-92ee-7a24e437c72f.m3u8"
+    ]
+  },
+{
+    "title":"Gereja Paulus Miki Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/3dc9728f-0684-4f81-9e72-1c147c13a5fe.m3u8"
+    ]
+  },
+{
+    "title":"Depan Kodim Barat Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/f88a472e-4d6c-4b74-9cd9-2d81453245a8.m3u8"
+    ]
+  },
+{
+    "title":"Kodim  Timur Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/15b7db87-a1d5-4225-962d-49edb67c0011.m3u8"
+    ]
+  },
+{
+    "title":"Depan Mandiri Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/973204e6-bab4-4793-817b-2d8568c7e78c.m3u8"
+    ]
+  },
+{
+    "title":"Disbudpar Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/63769f3e-4ce8-4401-9041-57a79fcfc2bd.m3u8"
+    ]
+  },
+{
+    "title":"Kodim Barat Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/b60f9868-256c-4c5c-939a-ad8912ce3840.m3u8"
+    ]
+  },
+{
+    "title":"Hokben Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/2f341b77-3173-4377-94fc-9f1afdf1db17.m3u8"
+    ]
+  },
+{
+    "title":"Depan Panin Bank Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/bdbc58a2-674b-4691-9a2d-611392048d47.m3u8"
+    ]
+  },
+{
+    "title":"Depan Stella Timur Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/86af7be1-2cde-4358-ae23-dbc2ac7f1b89.m3u8"
+    ]
+  },
+{
+    "title":"Depan Stella Barat Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/ca603c6e-a978-47e1-991a-03b1f67411a5.m3u8"
+    ]
+  },
+{
+    "title":"Depan Halte Stella Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/045b3fe4-d607-4a65-a13c-e0760743d4c4.m3u8"
+    ]
+  },
+{
+    "title":"Perempatan Rutan Barat Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/6ebe5a11-cd74-44f3-b244-2567a5b817a1.m3u8"
+    ]
+  },
+{
+    "title":"Stella Timur Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/3c3683e6-bfa5-42c8-8e3e-f7d72c61007d.m3u8"
+    ]
+  },
+{
+    "title":"GKJ Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/3c3683e6-bfa5-42c8-8e3e-f7d72c61007d.m3u8"
+    ]
+  },
+{
+    "title":"Gerbang UKSW Barat Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/a06ffe1d-1490-4b46-9189-c2b951c7c946.m3u8"
+    ]
+  },
+{
+    "title":"Gerbang UKSW Timur Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/47c4b307-e909-4c79-bd94-f667f6676427.m3u8"
+    ]
+  },
+{
+   "title":"Depan Pizza Hut Jalan Diponegoro",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/7f390c90-9305-40ac-af63-621bab2f212f.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 3 Pasar Rejosari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://restreamer.salatiga.go.id/memfs/290488df-9871-4a19-8752-565bee426e3f.m3u8"
+    ]
+  },
+{
+    "title":"Simpang ABC - Dari Solo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://restreamer.salatiga.go.id/memfs/c7b21a16-6740-4576-b8d2-7438988895e7.m3u8"
+    ]
+  },
+{
+    "title":"Simpang ABC - Jl. Argoyuwono",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://restreamer.salatiga.go.id/memfs/cd4244c9-d881-48cd-b348-65b8eb5375b9.m3u8"
+    ]
+  },
+{
+    "title":"Simpang ABC - Dari Kota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://restreamer.salatiga.go.id/memfs/ee1e0d76-96b9-43ce-a1bb-d647245a35c0.m3u8"
+    ]
+  },
+{
+    "title":"Simpang ABC - Jl. Argotunggal",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://restreamer.salatiga.go.id/memfs/476d6a15-b1a4-494c-9112-205456799aa8.m3u8"
+    ]
+  },
+{
+    "title":"Simpang ABC - Dome",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://restreamer.salatiga.go.id/memfs/9ca726bb-429c-40af-9b42-6f798d53ea50.m3u8"
+    ]
+  }
+]
