@@ -1,0 +1,107 @@
+[
+  {
+    "title":"Alun-Alun Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.trenggalekkab.go.id:443/live/smil:cctv8_alon2_selatan.smil/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Pendopo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.trenggalekkab.go.id:443/live/smil:cctv2_pendopo.smil/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Alun-Alun Lapangan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.trenggalekkab.go.id:443/live/smil:cctv3_alon_alon_lapangan.smil/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Parkir Inspektorat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.trenggalekkab.go.id:443/live/smil:cctv4_parkir_inspektorat.smil/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Pasar Sore",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.trenggalekkab.go.id:443/live/smil:cctv5_pasar_sore.smil/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Dinas PMPTSP",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.trenggalekkab.go.id:443/live/smil:cctv6_ptsp.smil/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Masjid Agung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.trenggalekkab.go.id:443/live/smil:cctv7_masjid_agung.smil/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Candi Brawijaya",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.trenggalekkab.go.id:443/live/smil:cctv12_taman_brawijaya.smil/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Pasar Pon",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.trenggalekkab.go.id:443/live/smil:cctv10_pasar_pon.smil/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Pujasera Pasar Pon",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.trenggalekkab.go.id:443/live/smil:cctv13_pasar_pon_pujasera.smil/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Pertigaan Setda",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.trenggalekkab.go.id:443/live/smil:cctv11_alon2_utara.smil/playlist.m3u8"
+    ]
+  },
+
+ {
+    "title":"Alun-Alun Selatan Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.trenggalekkab.go.id:443/live/smil:cctv1_alon2_selatan_timur.smil/playlist.m3u8"
+    ]
+  },
+ {
+    "title":"Alun-Alun Selatan Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.trenggalekkab.go.id:443/live/smil:cctv9_alon2_selatan_barat.smil/playlist.m3u8"
+    ]
+  }
+]
