@@ -1,0 +1,35 @@
+[
+ 
+  {
+    "title":"RW : 3 | RT : 7 (Wonotingal)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/10306/101/2024/90f1e1fc-ac83-44eb-b0c7-970ce9104398_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 7 (2) (Wonotingal)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/10306/201/2024/90f1e1fc-ac83-44eb-b0c7-970ce9104398_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 9 (Wonotingal)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4693/101/2024/99923bda-4314-4ff9-8c48-2d9aaca24d11_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 9 (2) (Wonotingal)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4693/201/2024/99923bda-4314-4ff9-8c48-2d9aaca24d11_201.m3u8"
+    ]
+  }
+]
