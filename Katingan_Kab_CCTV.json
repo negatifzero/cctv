@@ -1,0 +1,51 @@
+[
+  {
+    "title":"JL Trans Kalimantan (Cam 01)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://diskominfopersantik.katingankab.go.id/stream/upt.m3u8"
+    ]
+  },
+
+ {
+    "title":"JL Tjilik Riwut (Samsat)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://diskominfopersantik.katingankab.go.id/stream/samsat.m3u8"
+    ]
+  },
+ {
+    "title":"JL Tjilik Riwut (Sala3)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://diskominfopersantik.katingankab.go.id/stream/sala3.ts"
+    ]
+  },
+ {
+    "title":"JL Tjilik Riwut-Soekarno Hatta (Depag)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://diskominfopersantik.katingankab.go.id/stream/depag.m3u8"
+    ]
+  },
+ {
+    "title":"JL Jenderal Ahmad Yani",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://diskominfopersantik.katingankab.go.id/stream/durian3.m3u8"
+    ]
+  },
+ {
+    "title":"JL Tjilik Riwut (Bukit)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://diskominfopersantik.katingankab.go.id/stream/bukit.m3u8"
+    ]
+  }
+]
