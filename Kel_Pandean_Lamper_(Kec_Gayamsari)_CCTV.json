@@ -1,0 +1,507 @@
+[
+ 
+  {
+    "title":"RW : 1 | RT : 5 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6008/201/2024/76317935-5f4c-4fb6-ac38-219a0a084490_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 6 | RT : 17 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6508/301/2024/cf4f371e-3493-4262-b4dc-5afcaf2b126b_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 3 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3185/201/2024/8f00c5c4-c415-441b-b0a4-400c5fd8661b_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 4 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3109/101/2024/b95fe462-bcbe-43d4-bf99-edbe3ee890f6_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 3 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3185/101/2024/8f00c5c4-c415-441b-b0a4-400c5fd8661b_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 10 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3252/101/2024/d59a420a-0f56-4f89-9520-7b926fe0e05f_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 3 (3) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3185/401/2024/8f00c5c4-c415-441b-b0a4-400c5fd8661b_401.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 10 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3252/201/2024/d59a420a-0f56-4f89-9520-7b926fe0e05f_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 2 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3723/201/2024/d14c50ab-ffef-42ba-95f2-0471ecdb0e47_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 4 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3861/201/2024/be16af44-ff00-437c-8188-d7f7316adcf0_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 4 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4896/201/2024/f35ae674-3f79-4648-9016-baef6702e40d_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 8 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5058/201/2024/294ce4de-8f6c-4851-a7ea-790346396764_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 8 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5058/301/2024/294ce4de-8f6c-4851-a7ea-790346396764_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 2 (4) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3723/101/2024/d14c50ab-ffef-42ba-95f2-0471ecdb0e47_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 4 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4896/101/2024/f35ae674-3f79-4648-9016-baef6702e40d_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 1 | RT : 5 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6008/101/2024/76317935-5f4c-4fb6-ac38-219a0a084490_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 2 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6278/101/2024/ff9f84ba-faa4-46df-bc8c-74e4dea6ff5c_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 2 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6278/201/2024/ff9f84ba-faa4-46df-bc8c-74e4dea6ff5c_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 1 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6310/201/2024/439b09ef-28a8-4be7-9a92-942ef03f83a8_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 7 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6429/101/2024/e833933a-aa5f-45d6-bb86-8f2ac996c4c8_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 7 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6429/301/2024/e833933a-aa5f-45d6-bb86-8f2ac996c4c8_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 6 | RT : 17 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6508/101/2024/cf4f371e-3493-4262-b4dc-5afcaf2b126b_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 6 | RT : 17 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6508/201/2024/cf4f371e-3493-4262-b4dc-5afcaf2b126b_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 5 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6629/101/2024/6fcf815e-7250-45e2-9a88-2bc6a303970a_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 5 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6629/201/2024/6fcf815e-7250-45e2-9a88-2bc6a303970a_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 5 (3) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6629/301/2024/6fcf815e-7250-45e2-9a88-2bc6a303970a_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 6 | RT : 13 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5258/101/2024/93e50e4c-a1a9-479c-b710-e99503d82ef9_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 6 | RT : 13 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5258/201/2024/93e50e4c-a1a9-479c-b710-e99503d82ef9_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 6 | RT : 13 (3) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5258/301/2024/93e50e4c-a1a9-479c-b710-e99503d82ef9_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 10 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3252/301/2024/d59a420a-0f56-4f89-9520-7b926fe0e05f_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 1 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6310/301/2024/439b09ef-28a8-4be7-9a92-942ef03f83a8_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 4 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4896/401/2024/f35ae674-3f79-4648-9016-baef6702e40d_401.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 4 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4896/301/2024/f35ae674-3f79-4648-9016-baef6702e40d_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 11 | RT : 9 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/9114/1701/2024/f49157b2-a9fe-48fe-8e8a-cfb9a7475ff2_1701.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 11 | RT : 9 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/9114/1801/2024/f49157b2-a9fe-48fe-8e8a-cfb9a7475ff2_1801.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 11 | RT : 9 (3) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/9114/1901/2024/f49157b2-a9fe-48fe-8e8a-cfb9a7475ff2_1901.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 11 | RT : 9 (4) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/9114/2001/2024/f49157b2-a9fe-48fe-8e8a-cfb9a7475ff2_2001.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 4 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3861/101/2024/be16af44-ff00-437c-8188-d7f7316adcf0_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 13 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3799/101/2024/0fdf07b0-12a0-494e-b09c-868d7a0e7b01_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 13 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3799/201/2024/0fdf07b0-12a0-494e-b09c-868d7a0e7b01_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 4 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3289/101/2024/ca2e56e4-ae02-437f-8b26-a48c007764a3_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 4 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3289/201/2024/ca2e56e4-ae02-437f-8b26-a48c007764a3_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 3 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6558/101/2024/4601b7fe-7a90-4d14-99f1-3eca6e17ab0d_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 3 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6558/201/2024/4601b7fe-7a90-4d14-99f1-3eca6e17ab0d_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 3 (3) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6558/301/2024/4601b7fe-7a90-4d14-99f1-3eca6e17ab0d_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 11 | RT : 6 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6983/101/2024/6aa7f36c-efdd-4cd0-a6c0-d9ee2b25d308_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 11 | RT : 6 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6983/201/2024/6aa7f36c-efdd-4cd0-a6c0-d9ee2b25d308_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 11 | RT : 6 (3) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6983/301/2024/6aa7f36c-efdd-4cd0-a6c0-d9ee2b25d308_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 8 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/9113/101/2024/21b2192d-243f-4ed3-ac65-dba67224cc77_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 8 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/9113/201/2024/21b2192d-243f-4ed3-ac65-dba67224cc77_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 8 (3) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/9113/301/2024/21b2192d-243f-4ed3-ac65-dba67224cc77_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 8 (4) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/9113/401/2024/21b2192d-243f-4ed3-ac65-dba67224cc77_401.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 13 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3799/401/2024/0fdf07b0-12a0-494e-b09c-868d7a0e7b01_401.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 3 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5466/201/2024/9a8cb936-2c44-4059-8c0a-8dc9c3eeddac_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 6 | RT : 4 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/3304/201/2024/59f16a6b-70f8-4f62-a59c-50d703dce734_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 12 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6929/101/2024/eb03e6ca-7f36-4627-8aaf-48bfedb28f5b_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 7 | RT : 3 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/5466/101/2024/9a8cb936-2c44-4059-8c0a-8dc9c3eeddac_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 10 | RT : 6 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4576/101/2024/f624a1a6-69a4-401f-aba2-ce2a603ab8cc_101.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 10 | RT : 6 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/4576/201/2024/f624a1a6-69a4-401f-aba2-ce2a603ab8cc_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 8 | RT : 5 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6629/401/2024/6fcf815e-7250-45e2-9a88-2bc6a303970a_401.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 9 | RT : 12 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6929/301/2024/eb03e6ca-7f36-4627-8aaf-48bfedb28f5b_301.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 5 (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6601/201/2024/46a13ade-7ec6-4965-bb41-3e2adbe1c53c_201.m3u8"
+    ]
+  }, 
+ {
+    "title":"RW : 3 | RT : 5 (2) (Pandean Lamper)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/hls/6601/401/2024/46a13ade-7ec6-4965-bb41-3e2adbe1c53c_401.m3u8"
+    ]
+  }
+]
