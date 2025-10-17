@@ -1,0 +1,162 @@
+[ 
+  {
+    "title":"Akses Tol Bandar Arah Kertosono",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/AKSESBANDARARAHKERTOSONO/aksesbandararahkertosono.m3u8"
+    ]
+  },
+ {
+    "title":"Akses Tol Bandar Arah Perak",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/AKSESBANDARARAHPERAK/aksesbandararahperak.m3u8"
+    ]
+  },
+ {
+    "title":"Akses Tol Jombang Arah Jombang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/AKSESJBGARAHJOMKOT/aksesjbgarahjomkot.m3u8"
+    ]
+  },
+ {
+    "title":"Akses Tol Jombang Arah Ploso",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/AKSESJBGARAHPLOSO/aksesjbgarahploso.m3u8"
+    ]
+  },
+ {
+    "title":"KM 672 Interchange Bandar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/ICBANDARB/icbandarb.m3u8"
+    ]
+  },
+ {
+    "title":"KM 673 Interchange Bandar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/ICBANDARA/icbandara.m3u8"
+    ]
+  },
+ {
+    "title":"KM 678 Rest Area Karangdagangan Entrance Belakang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/KDGBELAKANGARAHMASUK/kdgbelakangarahmasuk.m3u8"
+    ]
+  },
+ {
+    "title":"KM 678 Rest Area Karangdagangan Exit Depan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/KDGDEPANARAHKELUAR/kdgdepanarahkeluar.m3u8"
+    ]
+  },
+ {
+    "title":"KM 678 Rest Area Teras Dipa Parkir Depan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/TDPPARKIRDEPAN/tdpparkirdepan.m3u8"
+    ]
+  },
+ {
+    "title":"KM 678+850",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/KM678+850/km678+850.m3u8"
+    ]
+  },
+ {
+    "title":"KM 687 Gerbang Tol Jombang Exit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/JOMBANGEXIT/jombangexit.m3u8"
+    ]
+  },
+ {
+    "title":"KM 687 Jombang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/ICJBGB/icjbgb.m3u8"
+    ]
+  },
+ {
+    "title":"KM 695 Kedung Melati Jalur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/TERASMELATI/terasmelati.m3u8"
+    ]
+  },
+ {
+    "title":"KM 695 Rest Area Kedung Melati Entrance Depan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/KDMDEPANMASUK/kdmdepanmasuk.m3u8"
+    ]
+  },
+ {
+    "title":"KM 695 Rest Area Teras Melati Depan Tenan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/TRMDEPANTENAN/trmdepantenan.m3u8"
+    ]
+  },
+ {
+    "title":"KM 697 Gerbang Tol Mojokerto Barat Exit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/MOBAREXIT/mobarexit.m3u8"
+    ]
+  },
+ {
+    "title":"KM 702 Gerbang Tol Bandar Entrance",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/BANDARENTRANCE/bandarentrance.m3u8"
+    ]
+  },
+ {
+    "title":"KM 702 Gerbang Tol Bandar Exit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/BANDAREXIT/bandarexit.m3u8"
+    ]
+  },
+ {
+    "title":"KM 706 Interchange Mojokerto Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/ICMBRB/icmbrb.m3u8"
+    ]
+  },
+ {
+    "title":"KM 711 Mojokerto",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://toljomo.margaharjaya.co.id/video/ICMOKERB/icmokerb.m3u8"
+    ]
+  }
+]
