@@ -1,0 +1,781 @@
+[
+  {
+    "title":"Pantai Baron",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/630843dd-4488-4360-8f86-b23f3e67980d/index.m3u8"
+    ]
+  },
+
+ {
+    "title":"Pantai Kukup",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/53fa897a-dc59-435b-841b-ce544d559a20/index.m3u8"
+    ]
+  },
+{
+    "title":"Puskesmas Ponjong II",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/779effc1-f8a0-4287-b079-27e1d635ef97/index.m3u8"
+    ]
+  },
+ {
+    "title":"Kalurahan Getas",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/097ef287-a064-4730-8b65-0fdfad75f327/index.m3u8"
+    ]
+  },
+ {
+    "title":"Pertigaan Bunder",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/cdb69448-349b-460e-ac6c-545199e93599/index.m3u8"
+    ]
+  },
+ {
+    "title":"JJLS Planjan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/5858ca16-f730-49d1-a494-9d20a82b9b55/index.m3u8"
+    ]
+  },
+ {
+    "title":"SMP 1 Playen",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/c43d6c28-d03d-4aab-a589-7410b655908d/index.m3u8"
+    ]
+  },
+ {
+    "title":"SD Karangrejek 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/97561df3-c774-495a-b4d6-e5654108ac43/index.m3u8"
+    ]
+  },
+ {
+    "title":"Perempatan Patuk",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/d237c46b-f15b-490c-869c-b5375df3a020/index.m3u8"
+    ]
+  },
+ {
+    "title":"SMP 3 Wonosari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/f156c1d9-9381-45f5-a20f-cd323fb3a639/index.m3u8"
+    ]
+  },
+ {
+    "title":"Ngingrong Mulo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/bbc05db8-09ae-44d1-a049-3d22bd18962b/index.m3u8"
+    ]
+  },
+ {
+    "title":"Pertigaan Pasar Playen",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/3cdd4d3d-123f-4fdd-9600-5afce882d8e5/index.m3u8"
+    ]
+  },
+ {
+    "title":"Alun-alun Wonosari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/c066fe94-69d3-487b-990a-f0bdb24fa9e9/index.m3u8"
+    ]
+  },
+ {
+    "title":"Bunderan Siyono",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/447f180a-3aa6-41af-a905-4f5567b84f1b/index.m3u8"
+    ]
+  },
+ {
+    "title":"Tugu Selamat Datang Patuk",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/472ac01d-84a3-40bd-b8a4-d7de2262f65b/index.m3u8"
+    ]
+  },
+ {
+    "title":"Puskesmas Ngawen II",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/8193c0b3-0d34-43a1-9185-a534f6ffa303/index.m3u8"
+    ]
+  },
+ {
+    "title":"Embung Batara Sriten",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/f15832eb-7d45-4800-b740-ade96dc7d94e/index.m3u8"
+    ]
+  },
+ {
+    "title":"Pertigaan SD Nanas",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/68e924c4-c94a-42e7-93ca-12b685c6513b/index.m3u8"
+    ]
+  },
+ {
+    "title":"SD Baran 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/18dd12e5-6f91-4ba9-8bec-3f25ddd5f68d/index.m3u8"
+    ]
+  },
+ {
+    "title":"Bunderan PLN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/ef7bc11d-8e05-4414-8e25-edeb78929cf0/index.m3u8"
+    ]
+  },
+ {
+    "title":"Puskesmas Gedangsari II",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/7796317a-7669-4f52-b560-e1706a1825c9/index.m3u8"
+    ]
+  },
+{
+    "title":"SMP 2 Paliyan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/a7891cb1-d941-4974-94cd-de33ac5d84b0/index.m3u8	"
+    ]
+  },
+ {
+    "title":"Puskesmas Ponjong II",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/779effc1-f8a0-4287-b079-27e1d635ef97/index.m3u8"
+    ]
+  },
+ {
+    "title":"SMP 2 Paliyan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/a7891cb1-d941-4974-94cd-de33ac5d84b0/index.m3u8"
+    ]
+  },
+ {
+    "title":"Kelurahan Rejosari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/a8b41e1f-51ae-4f3c-b61f-3d3485714fee/index.m3u8"
+    ]
+  },
+ {
+    "title":"Puskeswan Putat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/cec79cf1-852c-412a-b206-906b5daddbcc/index.m3u8"
+    ]
+  },
+ {
+    "title":"Kalurahan Sambirejo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/a4bed595-2ed8-46f5-a802-fc450bdf67e9/index.m3u8"
+    ]
+  },
+ {
+    "title":"SD Logantung 2 Semin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/17d519d4-ba98-446e-bfe7-369372ac834b/index.m3u8"
+    ]
+  },
+ {
+    "title":"BPP Playen",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/40c44e72-0ef8-42b5-9410-8c88ad2d062d/index.m3u8"
+    ]
+  },
+ {
+    "title":"SD Trowono 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/076df88c-ce65-47f4-8d4e-4872c430eee8/index.m3u8"
+    ]
+  },
+ {
+    "title":"Terminal Semin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/f4e65d43-ff9a-4603-b035-b2bb778fc9d1/index.m3u8"
+    ]
+  },
+ {
+    "title":"SD Pucung",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/407a2a57-0202-4303-8314-114e635549c2/index.m3u8"
+    ]
+  },
+ {
+    "title":"Pertigaan Kemadang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/72f5464f-8741-4449-9727-c75db9a1169f/index.m3u8"
+    ]
+  },
+ {
+    "title":"SMP 1 Tanjungsari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/d15446f5-d59f-47f0-b6d6-5828c28dfc6b/index.m3u8"
+    ]
+  },
+ {
+    "title":"Pancuran",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/e875884e-745b-4870-a9d6-bc8783dd43a5/index.m3u8"
+    ]
+  },
+ {
+    "title":"Puskesmas Patuk II",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/565f31f5-ca89-4db2-937b-dd33f9fb5102/index.m3u8"
+    ]
+  },
+ {
+    "title":"RTH 1 Patuk",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/a33d3b04-6512-497a-ac32-d512343842cc/index.m3u8"
+    ]
+  },
+ {
+    "title":"RTH 2 Patuk",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/7ecb3678-fc9a-4d9a-9b71-d1716ab29c44/index.m3u8"
+    ]
+  },
+ {
+    "title":"RTH 3 Patuk",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/e64fd9c3-5c73-4dc4-b2db-2ca7441b12c2/index.m3u8"
+    ]
+  },
+ {
+    "title":"Gor Siyono",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/186ad348-fa92-4011-a296-4dfeae227a13/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPR Pantai Baron",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/f6314dd1-a8ea-40a9-8a97-e0f2f8dc4bdd/index.m3u8"
+    ]
+  },
+ {
+    "title":"Tugu Selamat Datang Patuk 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/58328653-bae9-4e69-82d0-b83d500040b1/index.m3u8"
+    ]
+  },
+ {
+    "title":"Pasar Argosari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/5b13c6d9-1295-4e5d-927a-ef546e433339/index.m3u8"
+    ]
+  },
+ {
+    "title":"Bunderan Siyono Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/99b61615-0e73-4b44-b7d9-775301c11b94/index.m3u8"
+    ]
+  },
+ {
+    "title":"Bunderan Siyono Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/365d3972-8e24-4b8e-a9bd-2db5cbcbfee8/index.m3u8"
+    ]
+  },
+ {
+    "title":"Pemda Gunungkidul",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/d41813e2-fafb-42a4-a7b9-5e713c0e9606/index.m3u8"
+    ]
+  },
+ {
+    "title":"Kapanewon Nglipar Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/5bb010f8-71fd-449c-99b2-294d35af77fd/index.m3u8"
+    ]
+  },
+ {
+    "title":"Kapanewon Nglipar Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/31de9dc7-dfaa-4274-b353-49d350e5b8d8/index.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang 4 RSUD",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/2b304ee7-49a4-4283-a64d-538de7fb6ad1/index.m3u8"
+    ]
+  },
+ {
+    "title":"SD Trowono 3",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/0416e020-1e28-4066-aa3f-5083cdb4cdc2/index.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang 3 Amigo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/bf8e74bf-ab2e-4eda-8a59-f06a31f028e5/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Tegalsari Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/be5bc47a-f583-4873-9e51-4a9b49ad5cf6/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Tegalsari Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/438a6f5a-3713-40bb-ab87-29ad9f88a9fc/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Baleharjo Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/f6878b5b-8100-449d-b4b5-ca48601a6256/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Baleharjo Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/b7c060ba-33c8-4609-8713-4f6e5ff35ba8/index.m3u8"
+    ]
+  },
+ {
+    "title":"S3 Ngawen Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/c410af7a-2790-4b8a-be66-d57e6a656e3c/index.m3u8"
+    ]
+  },
+ {
+    "title":"S3 Ngawen Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/336476f5-2964-4c45-82d2-061b7fe984aa/index.m3u8"
+    ]
+  },
+ {
+    "title":"Kapanewon Semin Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/25a25318-0831-41ca-a84e-cb725af7a912/index.m3u8"
+    ]
+  },
+ {
+    "title":"Kapanewon Semin Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/b788631e-790a-4034-a021-d70223e93e56/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Karangmojo Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/1a72b20b-83a2-44e3-b2cb-34754ec25d7d/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Karangmojo Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/80040ab9-0b70-4d40-991d-33e3850d4115/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Selang Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/6e214a3b-bc51-47c2-be71-3079b4155595/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Selang Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/35d50759-f2c6-4f2b-a11e-7a94a6bcaa7c/index.m3u8"
+    ]
+  },
+ {
+    "title":"BPP Semanu Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/27c0b2c4-a1bf-4ed9-95ca-9d88f046c754/index.m3u8"
+    ]
+  },
+ {
+    "title":"BPP Semanu Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/bc790186-e5cc-4552-80e2-b715305ee997/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Ngalang Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/6d0d6159-4ddc-4ef6-a430-ee4ac9731e83/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Ngalang Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/ae3ead60-bed5-4f71-8613-bd4161d51aaf/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Munggi Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/95e43424-6406-45d5-9ea8-6c137e40e9fa/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Munggi Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/d1f423b6-2276-4dcf-ae65-f966a870a9e4/index.m3u8"
+    ]
+  },
+ {
+    "title":"Pantai Wediombo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/3f008260-e48f-4dc2-bec4-93d7ec42dcb9/index.m3u8"
+    ]
+  },
+ {
+    "title":"Lapangan Pemda Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/618a774c-186e-4ab2-9d9c-e4f59d09ab66/index.m3u8"
+    ]
+  },
+ {
+    "title":"Pantai Wediombo Jalan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/bf8bcf05-6d72-4109-b965-148422128c93/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Budegan Dome",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/0c5c5b2f-da35-49ca-ad54-037ad5339915/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Budegan Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/cc4a5a29-8266-4164-a764-e11d5de1004b/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Budegan Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/d2bfd3f8-2969-47c1-a246-d5467a8e1efe/index.m3u8"
+    ]
+  },
+ {
+    "title":"S3 Gading Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/c5bea4c6-a2e4-4c9d-b731-ea5a1b5bd39c/index.m3u8"
+    ]
+  },
+ {
+    "title":"S3 Gading Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/c7bd7e2c-9bc0-405d-955e-930b836ff93e/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Gading Dome",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/af4d2a14-e0b3-43f4-ade8-d73465ef2258/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Gading Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/1f8dbee5-c3d8-40a6-a377-6c8b547cb90a/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Gading Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/44fc679b-735d-44bc-a1f7-7db53ca30fac/index.m3u8"
+    ]
+  },
+ {
+    "title":"S4 Gading Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/ee587917-0cca-403d-855f-d8cee27721da/index.m3u8"
+    ]
+  },
+ {
+    "title":"Pintu Masuk Baron Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/275716a0-e47a-4e67-bfb1-c3a71e3ffd1d/index.m3u8"
+    ]
+  },
+ {
+    "title":"Pintu Masuk Baron Barat 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/cb67a758-08c4-43b8-b5cc-23bc4b83829a/index.m3u8"
+    ]
+  },
+ {
+    "title":"Pintu Masuk Baron Barat 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/c82d5519-9752-4281-8de3-451abab0dd86/index.m3u8"
+    ]
+  },
+ {
+    "title":"Kapanewon Rongkop Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/5bc413f9-0eae-4334-9b7b-e13bf155c8dd/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPR Pantai Baron 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/9582f7dc-118c-4e4d-a676-65f8f145d13e/index.m3u8"
+    ]
+  },
+ {
+    "title":"TPR Pantai Baron 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/9cca7e74-e0b0-49b1-9d62-effbb8589555/index.m3u8"
+    ]
+  },
+{
+    "title":"Kapanewon Rongkop Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/b344fc06-e8e9-40b2-ad80-d996918ec595/index.m3u8"
+    ]
+  },
+{
+    "title":"Bunderan Kodim",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/e91760d5-95b8-4907-a49d-f46885390291/index.m3u8"
+    ]
+  },
+{
+    "title":"Kodim Gunungkidul",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/33edb24d-088c-4f49-ac90-f90a73a995ab/index.m3u8"
+    ]
+  },
+{
+    "title":"Lapangan Kesatrian",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/1c2623b9-0382-4f33-b748-3941f4a96549/index.m3u8"
+    ]
+  },
+{
+    "title":"Penghitungan Kendaraan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/bdf1ba90-6e30-4d59-b36d-468dda946658/index.m3u8"
+    ]
+  },
+
+{
+    "title":"S3 Petoyan 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/d7c5ae4e-2c50-4fc3-a57d-84950313fe6f/index.m3u8"
+    ]
+  },
+{
+    "title":"S3 Petoyan 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/9d1b9282-2953-4ef5-9d56-5593dc910093/index.m3u8"
+    ]
+  },
+{
+    "title":"Kapanewon Saptosari 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/3fb627dc-e19a-4bc7-9e79-687487c840db/index.m3u8"
+    ]
+  },
+{
+    "title":"Kapanewon Saptosari 2",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/41eefc1f-8388-47b2-9dc9-59d5e65b10d7/index.m3u8"
+    ]
+  },
+
+{
+    "title":"Pasar Wotgalih",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.gunungkidulkab.go.id:8888/d7bca391-48f3-48d5-9744-ddf548c21ca4/index.m3u8"
+    ]
+  }
+]
