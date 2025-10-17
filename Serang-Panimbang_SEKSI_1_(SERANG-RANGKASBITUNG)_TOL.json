@@ -1,0 +1,139 @@
+[ 
+  {
+    "title":"IC CIKEUSAL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/9/index.m3u8"
+    ]
+  },
+
+{
+    "title":"IC TUNJUNGTEJA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/17/index.m3u8"
+    ]
+  },
+{
+    "title":"IC RANGKASBITUNG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/23/index.m3u8"
+    ]
+  },
+{
+    "title":"MR 65+900",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/3/index.m3u8"
+    ]
+  },
+{
+    "title":"MR 66+900",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/4/index.m3u8"
+    ]
+  },
+{
+    "title":"MR 71+600",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/5/index.m3u8"
+    ]
+  },
+{
+    "title":"MR 72+600",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/6/index.m3u8"
+    ]
+  },
+{
+    "title":"MR 74+400",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/7/index.m3u8"
+    ]
+  },
+{
+    "title":"MR 75+500",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/8/index.m3u8"
+    ]
+  },
+{
+    "title":"MR 80+100",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/13/index.m3u8"
+    ]
+  },
+{
+    "title":"MR 81+200",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/14/index.m3u8"
+    ]
+  },
+{
+    "title":"MR 83+000",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/16/index.m3u8"
+    ]
+  },
+{
+    "title":"MR 84+150",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/15/index.m3u8"
+    ]
+  },
+{
+    "title":"MR 89+100",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/21/index.m3u8"
+    ]
+  },
+{
+    "title":"MR 89+900",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/22/index.m3u8"
+    ]
+  },
+{
+    "title":"OFF RAMP WALANTAKA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/2/index.m3u8"
+    ]
+  },
+{
+    "title":"ON RAMP WALANTAKA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/1/index.m3u8"
+    ]
+  }
+]
