@@ -1,0 +1,58 @@
+[ 
+  {
+    "title":"KM 0+500 B",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjorrw1.com/KM/0+500B.m3u8"
+    ]
+  },
+{
+    "title":"KM 3+415 A",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjorrw1.com/JLB/KM3+415A.m3u8"
+    ]
+  },
+{
+    "title":"KM 3+415 B",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjorrw1.com/JLB/KM3+415B.m3u8"
+    ]
+  },
+{
+    "title":"KM 4+380 B",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjorrw1.com/JLB/KM4+380B.m3u8"
+    ]
+  },
+{
+    "title":"KM 4+900 B",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjorrw1.com/JLB/KM4+900B.m3u8"
+    ]
+  },
+{
+    "title":"KM 7+950 B",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjorrw1.com/KM/7+950B.m3u8"
+    ]
+  },
+{
+    "title":"KM 8+430 A",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://cctvjorrw1.com/JLB/KM8+430A.m3u8"
+    ]
+  }
+]
