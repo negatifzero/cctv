@@ -1,0 +1,200 @@
+hapus=> https://kanghen10.github.io/smart-video-player/#
+langsung akses => https://streamcctv.padang.go.id:3000/stream/JTeBW63A-JbNf-aCwi-2GKO-4XypAEmI0lTB/channel/0/hlsll/live/index.m3u8
+
+
+    ]
+
+[
+  {
+    "title":"UPTD Pasar Bandar Buat 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/JTeBW63A-JbNf-aCwi-2GKO-4XypAEmI0lTB/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Bandar Buat 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/U5nRqozZ-ptJE-zMsg-jlcm-wIoEs1ZgQ9fT/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Bandar Buat 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/l90euajC-qLnI-87fg-W9H7-XYS1vogJI34H/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Bandar Buat 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/yoG5OeMU-oR9h-fIt4-vtyS-C3rtrmAIGn5s/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"Bapenda",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/dou2UFBz-QFaX-J6ac-IWxD-x7Y2zDyH4rgO/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"Puskesmas Ulak Karang 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/0JXgcFRx-ENG6-UkQd-CCbW-UzczFFKacXQM/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"Puskesmas Ulak Karang 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/5OfVdbV8-mhaS-yrUK-1jIT-Roo9sS5orkWC/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"Puskesmas Ulak Karang 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/8PALYtgi-cVCR-1AWQ-ZC2a-8KegcoPUhxuH/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Alai 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/8s3Tozcz-txQo-Tnb8-AF6r-49WaCG3aP2is/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Alai 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/HaA7Kyfr-kD8H-8Das-L8Xi-KAbCnhJOIj4r/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Alai 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/gbDCn1H5-5O1X-nGiw-oFbk-hoi8iccOfAyf/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Alai 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/tswPljNS-izXr-70K4-T0AB-wBcTsNuePkQy/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Nanggalo 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/DKYYSz9I-TifQ-AMEx-ODQ0-SMnaxa25oFHu/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Nanggalo 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/ITYquU2X-L23y-4CWs-JhhL-A69xcNtwkG1T/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Nanggalo 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/OjEAGH6L-kVMK-j6q8-UEde-Cmub6yVqBEio/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Nanggalo 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/YaGqI6yZ-shWQ-dcj4-Knxf-gpqNhH5664XL/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"MPP Plaza Andalas 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/EbjNcrLc-dwc7-nTcp-6BDo-21RlOefC33gs/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"MPP Plaza Andalas 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/VRRT6WdZ-hPxA-cOE3-xnWd-0Ly6xYi3ImYX/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"Pantai Padang IORA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/IuGg2t6j-MpkU-2iSx-ysfs-EJFsNXJmCLph/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"Pantai Padang Jalan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/EkxXZHHp-cnNe-iHdQ-nTuJ-9gLkDScWQlis/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Belimbing 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/Ilnm4lTw-fp5C-EtQn-SOqq-4RYFC3t6XosT/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Belimbing 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/RSZskmUe-eKNz-g1B6-K8Kr-Wi6n7o75LxSH/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Belimbing 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/S1SEA7I7-HIw2-WwG5-9qKn-fLAfNk9ni7qI/channel/0/hlsll/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"UPTD Pasar Belimbing 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/smart-video-player/#https://streamcctv.padang.go.id:3000/stream/bk53IoWu-Ehxi-N4ZP-RzQ7-xbivBJ1fbCLb/channel/0/hlsll/live/index.m3u8"
+    ]
+  }
+]
