@@ -1,0 +1,83 @@
+[
+ 
+  {
+    "title":"BKPSDM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcctv.wonogirikab.go.id/memfs/eb21af92-180c-440b-aecc-51edb41a2be4_output_0.m3u8"
+    ]
+  }, 
+{
+    "title":"DPRD",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcctv.wonogirikab.go.id/memfs/93fe3b09-ce78-4fe6-a8d9-2259cc79727d_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Giri Krida Bakti",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcctv.wonogirikab.go.id/memfs/c7766874-0719-4e41-a1ba-84335183074a_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Giriwono Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcctv.wonogirikab.go.id/memfs/81585f5d-c9e8-4d06-bdca-c4a26674b950_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Inspektorat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcctv.wonogirikab.go.id/memfs/adec12ca-5aac-4d6a-858f-d84f56a72548_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Krisak Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcctv.wonogirikab.go.id/memfs/3be86560-2b28-458c-80e6-7e0adc7552d4_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Krisak Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcctv.wonogirikab.go.id/memfs/46a77cc1-dd3a-41f8-9c4c-8508d79ef368_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Krisak Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcctv.wonogirikab.go.id/memfs/213d7a0b-af35-442f-9f9f-87f91d525081_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Pokoh Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcctv.wonogirikab.go.id/memfs/5e205f60-33fa-44d2-9f13-3330e6bff0be_output_0.m3u8"
+    ]
+  }, 
+ {
+    "title":"Pokoh Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://smartcctv.wonogirikab.go.id/memfs/a7dbe953-cbe9-41fa-a84a-6ac8a625775b_output_0.m3u8"
+    ]
+  }
+]
