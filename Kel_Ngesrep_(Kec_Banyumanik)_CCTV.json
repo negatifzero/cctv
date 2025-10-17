@@ -1,0 +1,35 @@
+[
+ 
+  {
+    "title":"RW : 9 | RT : 5 (Ngesrep)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/74da0114-2dc1-404b-b604-12068e52b839/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 9 | RT : 5 (2) (Ngesrep)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/62c19183-a029-47d2-9503-e5b2e20f6945/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 9 | RT : 9 (Ngesrep)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/faa3e6fa-2923-47d8-bfd9-c2291698cb99/index.m3u8"
+    ]
+  }, 
+  {
+    "title":"RW : 9 | RT : 9 (2) (Ngesrep)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://livepantau.semarangkota.go.id/3d2edd6c-6a64-4caa-934e-837f160cd1cd/index.m3u8"
+    ]
+  }
+]
