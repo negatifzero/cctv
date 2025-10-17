@@ -1,0 +1,436 @@
+[
+  {
+    "title":"ARAH POLRESTA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/arah_polresta/index.m3u8"
+    ]
+  },
+ {
+    "title":"ARAH MUSEUM",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/arah_museum/index.m3u8"
+    ]
+  },
+ {
+    "title":"ARAH GERBANG ULM",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/arah_gerbang_ulm/index.m3u8"
+    ]
+  },
+ {
+    "title":"ARAH PURNAMA ULM",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/arah_purnama/index.m3u8"
+    ]
+  },
+ {
+    "title":"A1 SPBU SIMPANG 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/a1_simpang4_arah_pom/index.m3u8"
+    ]
+  },
+ {
+    "title":"A2 ULIN SIMPANG 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/index.m3u8"
+    ]
+  },
+ {
+    "title":"A3 PTZ SIMPANG 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/a3_ptz_simpang4/index.m3u8"
+    ]
+  },
+ 
+ {
+    "title":"C1 POLISI SIMPANG 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/c1_simpang4_arah_cempaka/index.m3u8"
+    ]
+  },
+ {
+    "title":"C2 BANJARMASIN SIMPANG ARAH BANJARMASIN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/c2_simpang4_arah_banjarmasin/index.m3u8"
+    ]
+  },
+ {
+    "title":"C3 PTZ SIMPANG 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/c3_ptz_simpang4_banjarbaru/index.m3u8"
+    ]
+  },
+ {
+    "title":"D2 MARTAPURA SIMPANG EMPAT BJB",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://stream.rpd.my.id:8080/cctv/hls/bjb_simpang_empat_bjb_d2_arah_martapura.m3u8"
+    ]
+  },
+ {
+    "title":"BUNDARAN AMACO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/bundaran_amaco/index.m3u8"
+    ]
+  },
+ 
+ {
+    "title":"QMALL ARAH BATAS KOTA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/qmall_arah_batas_kota/index.m3u8"
+    ]
+  },
+ {
+    "title":"BUNDARAN TOPI TOGA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/bundaran_stm/index.m3u8"
+    ]
+  },
+ {
+    "title":"JPO DALAM UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/jpo_dalam_utara/index.m3u8"
+    ]
+  },
+ {
+    "title":"JPO DALAM SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/jpo_dalam_selatan/index.m3u8"
+    ]
+  },
+ {
+    "title":"JPO TANGGA UTARA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/jpo_tangga_utara/index.m3u8"
+    ]
+  },
+ {
+    "title":"JPO TANGGA SELATAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/jpo_tangga_selatan/index.m3u8"
+    ]
+  },
+ {
+    "title":"JEMBATAN KEMBAR ARAH BANJARMASIN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/jembatan_kembar_arah_banjarmasin/index.m3u8"
+    ]
+  },
+ {
+    "title":"JEMBATAN KEMBAR ARAH BANJARBARU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/jembatan_kembar_arah_banjarbaru/index.m3u8"
+    ]
+  },
+ {
+    "title":"KM33 UTARA ARAH BANJARBARU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/lampu_merah_ro_ulin_arah_bjb/index.m3u8"
+    ]
+  },
+ {
+    "title":"KM33 UTARA ARAH RO-ULIN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/marka_ro_ulin/index.m3u8"
+    ]
+  },
+ {
+    "title":"JEMBATAN TONHAR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/jembatan_tonhar/index.m3u8"
+    ]
+  },
+ {
+    "title":"JEMBATAN AL-MANSYUR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/jembatan_al_mansyur/index.m3u8"
+    ]
+  },
+ {
+    "title":"ARAH DISDUKCAPIL",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/depan_disdukcapil/index.m3u8"
+    ]
+  },
+ {
+    "title":"JEMBATAN KEMUNING",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/jembatan_kemuning/index.m3u8"
+    ]
+  },
+ {
+    "title":"TAMAN MINGGU RAYA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/taman_minggu_raya/index.m3u8"
+    ]
+  },
+ {
+    "title":"BUNDARAN PALAM TRIKORA TAMAN PAMA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/taman_pama_arah_bundaran/index.m3u8"
+    ]
+  },
+ {
+    "title":"BUNDARAN PALAM TRIKORA INDOMARET",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/bundaran_palam_depan_indomaret/index.m3u8"
+    ]
+  },
+ {
+    "title":"DEPAN STIMIK ARAH BANJARMASIN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/depan_stimik_arah_banjarmasin/index.m3u8"
+    ]
+  },
+ {
+    "title":"SULTAN AGUNG ARAH BANJARBARU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/sultan_agung_arah_banjarbaru/index.m3u8"
+    ]
+  },
+ {
+    "title":"SULTAN AGUNG ARAH BANJARMASIN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/sultan_agung_arah_banjarmasin/index.m3u8"
+    ]
+  },
+ {
+    "title":"POLSEK BJB ARAH SIMPPANG 4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/depan_polsek_arah_simpang4/index.m3u8"
+    ]
+  },
+ {
+    "title":"POLSEK BJB ARAH BANJARMASIN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/depan_polsek_arah_banjarmasin/index.m3u8"
+    ]
+  },
+ {
+    "title":"BUNDARAN TRIKORA MASJID AL MUNAWWARAH",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/bundaran_mesjid_al_munawwarah/index.m3u8"
+    ]
+  },
+ {
+    "title":"PERTIGAAN AMBULUNG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/pertigaan_ambulung/index.m3u8"
+    ]
+  },
+ {
+    "title":"BUNDARAN KAMARATIH ARAH HERCULES",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/bundaran_karamatih_arah_hercules/index.m3u8"
+    ]
+  },
+ {
+    "title":"BREEZE",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/brezee/index.m3u8"
+    ]
+  },
+ {
+    "title":"TAMAN MAWAR",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/taman_mawar_arah_taman_tengah/index.m3u8"
+    ]
+  },
+ {
+    "title":"PERTIGAAN SUNGAI ULIN ARAH BANJARBARU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/simpang_3_sungai_ulin_arah_banjarbaru/index.m3u8"
+    ]
+  },
+ {
+    "title":"PTZ TAMAN MAWAR ARAH SD",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/taman_mawar_ptz_arah_sd/index.m3u8"
+    ]
+  },
+ {
+    "title":"BRIMOB ARAH SIMPANG 3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/brimob_arah_simpang_3/index.m3u8"
+    ]
+  },
+ {
+    "title":"PEREMPATAN TARUNA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/simpang_4_barjad/index.m3u8"
+    ]
+  },
+ {
+    "title":"STIMIK ARAH BANJARBARU",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/depan_stimik_arah_banjarbaru/index.m3u8"
+    ]
+  },
+ {
+    "title":"PERTIGAAN SUNGAI ULIN ARAH MANDIANGIN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/simpang_3_sungai_ulin_arah_mandiangin/index.m3u8"
+    ]
+  },
+ {
+    "title":"BALAI KOTA ARAH MURDJANI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/balai_kota_murjani/index.m3u8"
+    ]
+  },
+ {
+    "title":"PERTIGAAN KEBUN KARET",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/pertigaan_kebun_karet/index.m3u8"
+    ]
+  },
+ {
+    "title":"JEMBATAN CEMPAKA 1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/jembatan_cempaka_1/index.m3u8"
+    ]
+  },
+ {
+    "title":"DEPAN KM 0",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/km_0/index.m3u8"
+    ]
+  },
+ {
+    "title":"LAPANGAN MURDJANI PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/ptz_murjani/index.m3u8"
+    ]
+  },
+ {
+    "title":"JEMBATAN CEMPAKA 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/jembatan_cempaka_2/index.m3u8"
+    ]
+  },
+ {
+    "title":"PTZ BRIMOB",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/ptz_brimob/index.m3u8"
+    ]
+  },
+ {
+    "title":"BRIMOB ARAH BANJARMASIN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/marka_brimob_arah_banjarmasin/index.m3u8"
+    ]
+  },
+ {
+    "title":"TRIKORA A.YANI UJUNG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[      
+      "https://kanghen10.github.io/smart-player-ultimate/#https://stream.banjarbarukota.go.id/trikora_a_yani_ujung/index.m3u8"
+    ]
+  }
+]
