@@ -1,0 +1,194 @@
+[
+  {
+    "title":"Jembatan Sigagak-Medan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/2bceefd9-d2dd-42bb-8af6-601998c21346/channel/0/hls/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"Jembatan Sigagak-Siantar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/c55a6b11-969e-4749-8ff8-0cf08b8a20b4/channel/0/hls/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"Simpang Rambung Merah",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/488c15be-298c-42c4-959b-3b547f554794/channel/0/hls/live/index.m3u8"
+    ]
+  },
+ {
+    "title":"Terminal-Polsek Siantar Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/ba94a71c-2381-4dc9-83be-2833f5ef7f57/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Terminal-Simpang Rambung Merah",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/fc969f34-541f-4c4f-87af-a8458a95811a/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Perempatan Lorong 20",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/a64fdc17-7a69-43b1-a26f-232c3df82641/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Simpang BDB-Medan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/6d91f866-4d62-4458-ac2a-5ba24f3b469a/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Simpang BDB-Kota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/06cf74e0-93f9-4d9c-bbda-ab250a8c4c79/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Sambo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/4bec6674-478c-4c05-baf3-fe478b3d392e/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Sutomo-Makam Pahlawan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/b7a88cf3-6465-45d8-8592-24d137ae57b7/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Jalan Sutomo-Polres Siantar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/8c7e40d1-271a-4ddb-ae5e-55ea181a311c/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Jalan Sutomo-Siantar Square",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/87a7e01a-8807-47f9-91db-d48725aa2688/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Jl.Mh. Sitorus",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/87deaa3f-b8ed-416d-ab47-e13283bffd1c/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Jl.Sudirman - Simpang BRI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/0e5f1e59-6e35-4565-a58b-5b78b2aafba5/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Jl. Merdeka / Depan Balai Kota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/89639803-3067-4148-8938-8e4cae222bc1/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4 Bundaran",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/b2d6f229-576f-4e6b-8d9f-9c75c8edabb4/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Farel Pasaribu-Kota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/51cea2a1-4894-4280-a478-02a959ef4a4b/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Farel Pasaribu-Tanah Jawa",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/8f6b389f-a17b-4bd1-a73b-8b85f32e7bf1/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Jalan Singa - Jalan Bali",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/d1b9de0a-f28f-4691-b5df-8b489ad919c6/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Jalan Bali",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/8d581c67-aa44-4c84-93b0-1e956b813465/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Simpang 4-Jalan Gereja",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/535d4f08-6144-49c8-8efa-e75b725f34ff/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Dua",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/6fb2dd5e-9660-4b73-b569-a62f40cb1a09/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Simarimbun-Kota",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/d42156e5-5aef-429e-91e3-3bc546d19f8e/channel/0/hls/live/index.m3u8"
+    ]
+  },
+{
+    "title":"Simarimbun-Parapat-sidamanik",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://stream.denava.id/stream/63ee099a-264d-411d-8002-9dbdc8bcfad9/channel/0/hls/live/index.m3u8"
+    ]
+  }
+]
