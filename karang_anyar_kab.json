@@ -1,0 +1,234 @@
+[
+  {
+    "title":"Plasa Alun-alun (Arah Utara)",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=43&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Pegadaian",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=92&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Flyover Palur Bawah",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=82&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Flyover Palur Atas",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=89&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Papahan PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=62&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Papahan Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=59&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Bejen Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=81&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Depan KODIM Karanganyar",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=42&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Papahan Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=58&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Siwaluh",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=52&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Depan SETDA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=64&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Pojok Setda Arah Masjid Agung",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#"
+    ]
+  },
+ {
+    "title":"Pojok Setda Arah Alun-alun",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=44&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Taman Pancasila Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=61&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Rumah dinas Bupati Plasa",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=88&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Colomadu Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=57&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Colomadu Utara",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=56&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Colomadu PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=85&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Karangpandan PTZ",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=86&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Karangpandan Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=50&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Karangpandan Barat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=49&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Depan BLK Karanganyar",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=51&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Bejen Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=63&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Masjid Mukarromah",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=54&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Bundaran HI Tawangmangu",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=47&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Terminal Tawangmangu",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=48&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Lalung Timur",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=87&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Lalung Selatan",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=78&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  },
+ {
+    "title":"Simpang Kebakkramat",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://kanghen10.github.io/img_player/#https://scctv.karanganyarkab.go.id/zm/cgi-bin/nph-zms?scale=100&monitor=55&auth=578288c2894c0cff73a97ee5fb0f3cb3&rand=1678761874"
+    ]
+  }
+]
